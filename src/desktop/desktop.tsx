@@ -97,11 +97,10 @@ function TopBar({ app, onFavs, onAbout, onHelp }: TopBarProps) {
       <div style={{ display: 'flex', alignItems: 'baseline', gap: 16 }}>
         <button
           onClick={() => app.setPage('home')}
-          style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'baseline', gap: 10 }}
+          style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer' }}
         >
-          <span style={{ width: 8, height: 8, background: 'var(--accent)', borderRadius: 99, alignSelf: 'center' }} />
-          <span className="mono" style={{ fontSize: 12, letterSpacing: '.22em', fontWeight: 500 }}>
-            EMANED
+          <span style={{ fontSize: 20, fontWeight: 800, fontStretch: '125%', letterSpacing: '-.04em' }}>
+            emaned<span style={{ color: 'var(--accent)' }}>.</span>
           </span>
         </button>
         <span className="mono" style={{ fontSize: 10.5, letterSpacing: '.18em', color: 'var(--muted)' }}>

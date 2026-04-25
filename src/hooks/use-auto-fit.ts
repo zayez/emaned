@@ -16,14 +16,26 @@ export function useAutoFit<T extends HTMLElement = HTMLElement>(
       return;
     }
     const run = () => {
+      // Measure the natural single-line width so multi-word text (which would
+      // otherwise wrap and report scrollWidth ≈ container width) and breakless
+      // forms like camelCase get the same treatment.
+      const prevWhiteSpace = el.style.whiteSpace;
+      el.style.whiteSpace = 'nowrap';
       el.style.fontSize = target + 'px';
-      const w = el.scrollWidth;
-      if (w <= avail) {
-        setSize(target);
-        return;
+      let w = el.scrollWidth;
+      let next = target;
+      if (w > avail) {
+        // Iterate: linear estimation under-shrinks at large font sizes because
+        // letter-spacing and font-stretch don't scale perfectly. Two passes
+        // converge for any realistic codename length.
+        for (let i = 0; i < 3; i++) {
+          next = Math.max(min, Math.floor(next * (avail / w) * 0.98));
+          el.style.fontSize = next + 'px';
+          w = el.scrollWidth;
+          if (w <= avail || next === min) break;
+        }
       }
-      const next = Math.max(min, Math.floor((target * (avail / w)) * 0.99));
-      el.style.fontSize = next + 'px';
+      el.style.whiteSpace = prevWhiteSpace;
       setSize(next);
     };
     run();

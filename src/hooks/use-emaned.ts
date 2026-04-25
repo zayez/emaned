@@ -60,7 +60,10 @@ export function useEmaned(): EmanedApp {
   const userChoseTheme = useRef<boolean>(
     persist.get<'light' | 'dark' | null>('theme', null) !== null,
   );
-  const [page, setPage] = useState<Page>(() => persist.get<Page>('page', 'home'));
+  // `page` is session-only: `current` (the selected specimen) is not persisted,
+  // so restoring page='generator' after reload would land on an empty zombie
+  // state ("POOL READY") with no word to show. Always start at home.
+  const [page, setPage] = useState<Page>('home');
   const [cat, setCat] = useState<CategorySelector>(() =>
     persist.get<CategorySelector>('cat', 'all'),
   );
@@ -103,9 +106,6 @@ export function useEmaned(): EmanedApp {
     userChoseTheme.current = true;
     setThemeState(t);
   }, []);
-  useEffect(() => {
-    persist.set('page', page);
-  }, [page]);
   useEffect(() => {
     persist.set('cat', cat);
   }, [cat]);

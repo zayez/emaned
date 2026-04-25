@@ -66,17 +66,10 @@ button {
   0% {
     opacity: 0;
     transform: translateY(12px);
-    font-weight: 300;
-    letter-spacing: -0.02em;
-  }
-  60% {
-    opacity: 1;
   }
   100% {
     opacity: 1;
     transform: none;
-    font-weight: 800;
-    letter-spacing: -0.055em;
   }
 }
 @media (prefers-reduced-motion: reduce) {

@@ -56,11 +56,10 @@ export function Mobile({ app }: { app: EmanedApp }) {
       >
         <button
           onClick={() => app.setPage('home')}
-          style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer', display: 'flex', alignItems: 'center', gap: 8 }}
+          style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer' }}
         >
-          <span style={{ width: 7, height: 7, borderRadius: 99, background: 'var(--accent)' }} />
-          <span className="mono" style={{ fontSize: 11, letterSpacing: '.22em', fontWeight: 500 }}>
-            EMANED
+          <span style={{ fontSize: 18, fontWeight: 800, fontStretch: '125%', letterSpacing: '-.04em' }}>
+            emaned<span style={{ color: 'var(--accent)' }}>.</span>
           </span>
         </button>
         <div style={{ display: 'flex', gap: 6 }}>
