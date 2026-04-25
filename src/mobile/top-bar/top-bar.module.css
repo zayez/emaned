@@ -1,0 +1,32 @@
+.topBar {
+  height: 52px;
+  padding: 0 20px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid var(--line);
+  flex-shrink: 0;
+}
+
+.brandBtn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.brand {
+  font-size: 18px;
+  font-weight: 800;
+  font-stretch: 125%;
+  letter-spacing: -0.04em;
+}
+
+.accentDot {
+  color: var(--accent);
+}
+
+.topActions {
+  display: flex;
+  gap: 6px;
+}

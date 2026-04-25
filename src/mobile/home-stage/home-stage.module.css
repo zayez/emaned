@@ -1,0 +1,52 @@
+.homeStage {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px 22px;
+  text-align: center;
+  gap: 20px;
+  overflow: hidden;
+}
+
+.eyebrow {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.homeHero {
+  font-size: var(--hero-size);
+  margin: 0;
+  max-width: 100%;
+}
+
+.accentDot {
+  color: var(--accent);
+}
+
+.intro {
+  font-size: 15.5px;
+  line-height: 1.45;
+  color: var(--muted);
+  text-wrap: pretty;
+  max-width: 360px;
+  margin: 0;
+  letter-spacing: -0.01em;
+}
+
+.fg {
+  color: var(--fg);
+}
+
+.em {
+  font-style: normal;
+  color: var(--fg);
+}
+
+.homeGenerate {
+  margin-top: 8px;
+  padding: 18px 28px;
+  font-size: 13px;
+}

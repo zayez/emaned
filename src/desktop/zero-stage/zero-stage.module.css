@@ -1,0 +1,45 @@
+.zeroStage {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 32px 48px;
+  text-align: center;
+  position: relative;
+  min-width: 0;
+  overflow: hidden;
+}
+
+.poolBlockSlot {
+  position: absolute;
+  top: 32px;
+  left: 48px;
+}
+
+.zeroEyebrow {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 18px;
+}
+
+.zeroNum {
+  font-size: 320px;
+  color: var(--accent);
+  line-height: 0.82;
+}
+
+.zeroNote {
+  margin-top: 26px;
+  font-size: 13px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+}
+
+.zeroGenerate {
+  margin-top: 28px;
+}
+
+.zeroClear {
+  margin-top: 20px;
+}

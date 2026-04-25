@@ -1,0 +1,23 @@
+.emptyStage {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+  gap: 14px;
+}
+
+.eyebrow {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.fg {
+  color: var(--fg);
+}
+
+.emptyGenerate {
+  font-size: 13px;
+}

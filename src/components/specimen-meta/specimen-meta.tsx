@@ -1,4 +1,4 @@
-import type { Specimen } from '../domain/types';
+import type { Specimen } from '../../domain/types';
 
 export type SpecimenRow = readonly [string, string | number];
 

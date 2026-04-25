@@ -1,7 +1,7 @@
-import type { EmanedApp } from '../hooks/use-emaned';
-import shared from '../shared.module.css';
+import type { EmanedApp } from '../../hooks/use-emaned';
+import shared from '../../shared.module.css';
 import styles from './pool-block.module.css';
-import { cx } from '../cx';
+import { cx } from '../../cx';
 
 interface Props {
   app: EmanedApp;

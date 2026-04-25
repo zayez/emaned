@@ -1,0 +1,36 @@
+.history {
+  border-top: 1px solid var(--line);
+  display: flex;
+  align-items: center;
+  padding: 0 48px;
+  gap: 24px;
+  overflow: hidden;
+}
+
+.historyLabel {
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.historyEmpty {
+  font-size: 10.5px;
+  color: var(--muted);
+  letter-spacing: 0.08em;
+  font-style: italic;
+}
+
+.historyItem {
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-size: 11px;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  padding: 0;
+  font-family: inherit;
+  transition: color 0.15s;
+}
+.historyItem:hover {
+  color: var(--fg);
+}

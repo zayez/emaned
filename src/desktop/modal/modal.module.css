@@ -1,0 +1,94 @@
+.modalScrim {
+  position: fixed;
+  inset: 0;
+  background: var(--scrim-strong);
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 24px;
+}
+
+.modalCard {
+  background: var(--bg);
+  border: 1px solid var(--line);
+  padding: 32px 36px;
+  max-width: 520px;
+  width: 100%;
+  position: relative;
+}
+
+.modalHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  margin-bottom: 18px;
+}
+
+.modalTitle {
+  font-size: 10.5px;
+  letter-spacing: 0.22em;
+  color: var(--muted);
+}
+
+.shortcutsGrid {
+  display: grid;
+  grid-template-columns: auto 1fr;
+  row-gap: 12px;
+  column-gap: 16px;
+  align-items: baseline;
+}
+
+.kbd {
+  padding: 4px 10px;
+  border: 1px solid var(--line);
+  border-bottom-width: 2px;
+  font-size: 11px;
+  letter-spacing: 0.1em;
+  min-width: 40px;
+  text-align: center;
+}
+
+.kbdLabel {
+  font-size: 15px;
+}
+
+.about {
+  font-size: 15px;
+  line-height: 1.55;
+  text-wrap: pretty;
+  color: var(--fg);
+}
+
+.aboutPara {
+  margin: 0 0 14px;
+}
+
+.aboutMuted {
+  margin: 0 0 18px;
+  color: var(--muted);
+}
+
+.aboutLinks {
+  display: flex;
+  gap: 18px;
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  margin-bottom: 16px;
+}
+
+.aboutLink {
+  color: var(--fg);
+  text-decoration: none;
+  border-bottom: 1px solid var(--line);
+  padding-bottom: 2px;
+}
+
+.aboutVersion {
+  margin: 0;
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  text-transform: uppercase;
+}

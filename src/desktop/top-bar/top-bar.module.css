@@ -1,0 +1,67 @@
+.topBar {
+  grid-row: 1;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0 32px;
+  border-bottom: 1px solid var(--line);
+}
+
+.brandGroup {
+  display: flex;
+  align-items: baseline;
+  gap: 16px;
+}
+
+.brandBtn {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+}
+
+.brand {
+  font-size: 20px;
+  font-weight: 800;
+  font-stretch: 125%;
+  letter-spacing: -0.04em;
+}
+
+.accentDot {
+  color: var(--accent);
+}
+
+.subtitle {
+  font-size: 10.5px;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+}
+
+.topNav {
+  font-size: 11px;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  display: flex;
+  gap: 24px;
+}
+
+.navBtn {
+  background: none;
+  border: none;
+  cursor: pointer;
+  color: inherit;
+  font-family: inherit;
+  font-size: inherit;
+  letter-spacing: inherit;
+}
+
+.navCount {
+  color: var(--fg);
+  margin-left: 4px;
+}
+
+.topActions {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+}

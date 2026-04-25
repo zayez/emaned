@@ -1,0 +1,92 @@
+.filterRail {
+  border-left: 1px solid var(--line);
+  padding: 28px 24px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  overflow: hidden;
+}
+
+.filterHeader {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+}
+
+.filterLabel {
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.filterCountActive {
+  color: var(--fg);
+}
+
+.clearBtn {
+  background: none;
+  border: none;
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: var(--accent);
+  cursor: pointer;
+}
+
+.sectionLabel {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 10px;
+}
+
+.vibeRow {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.eraRow {
+  display: flex;
+  gap: 5px;
+  flex-wrap: wrap;
+}
+
+.sylHeader {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 10px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.sylValue {
+  color: var(--muted);
+}
+
+.sylValue[data-active='true'] {
+  color: var(--fg);
+}
+
+.sylRow {
+  display: flex;
+  gap: 4px;
+}
+
+.sylChip {
+  flex: 1;
+  justify-content: center;
+}
+
+.shortcutsHints {
+  margin-top: auto;
+  padding-top: 20px;
+  border-top: 1px solid var(--line);
+}
+
+.shortcutsHintsText {
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  line-height: 1.8;
+}

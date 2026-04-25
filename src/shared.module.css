@@ -156,6 +156,12 @@
   }
 }
 
+.spaceHint {
+  font-size: 10px;
+  opacity: 0.55;
+  letter-spacing: 0.2em;
+}
+
 .fadeIn {
   animation: fadeIn 0.25s both;
 }

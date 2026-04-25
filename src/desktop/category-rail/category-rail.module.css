@@ -1,0 +1,70 @@
+.categoryRail {
+  border-right: 1px solid var(--line);
+  padding: 28px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 6px;
+  overflow: hidden;
+}
+
+.railLabel {
+  font-size: 10.5px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 14px;
+}
+
+.catBtn {
+  background: transparent;
+  border: none;
+  text-align: left;
+  padding: 8px 0;
+  cursor: pointer;
+  color: var(--muted);
+  font-size: 16px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  font-family: inherit;
+  font-stretch: 125%;
+}
+
+.catBtn.on {
+  color: var(--fg);
+  font-weight: 700;
+}
+
+.catDot {
+  width: 7px;
+  height: 7px;
+  border-radius: 99px;
+  background: transparent;
+  border: 1px solid var(--line);
+  flex-shrink: 0;
+}
+
+.catBtn.on .catDot {
+  background: var(--accent);
+  border: none;
+}
+
+.catCount {
+  margin-left: auto;
+  font-size: 9.5px;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+}
+
+.railFooter {
+  margin-top: auto;
+  padding-top: 24px;
+}
+
+.railFooterText {
+  font-size: 10px;
+  letter-spacing: 0.18em;
+  color: var(--muted);
+  line-height: 1.7;
+}

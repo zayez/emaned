@@ -1,0 +1,97 @@
+.generatorStage {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  padding: 8px 20px 120px;
+  gap: 18px;
+  text-align: center;
+}
+
+.generatorHeader {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+}
+
+.specimenLabel {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.poolStat {
+  font-size: 10px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.poolStat[data-zero='true'] {
+  color: var(--accent);
+}
+
+.fg {
+  color: var(--fg);
+}
+
+.heroBox {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  min-height: 220px;
+  width: 100%;
+  overflow: hidden;
+}
+
+.specimenHero {
+  background: none;
+  border: none;
+  padding: 0;
+  color: inherit;
+  cursor: pointer;
+  font-size: var(--hero-size);
+  white-space: normal;
+  text-wrap: balance;
+  letter-spacing: -0.055em;
+  font-stretch: 125%;
+  font-weight: 800;
+  max-width: 100%;
+}
+
+.origin {
+  font-size: 11px;
+  color: var(--muted);
+  letter-spacing: 0.06em;
+  line-height: 1.6;
+  text-wrap: pretty;
+  max-width: 320px;
+}
+
+.specimenGrid {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 1px;
+  background: var(--line);
+  border: 1px solid var(--line);
+  text-align: left;
+}
+
+.specimenCell {
+  background: var(--bg);
+  padding: 10px 12px;
+}
+
+.rowKey {
+  font-size: 9px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+  margin-bottom: 3px;
+}
+
+.rowValue {
+  font-size: 13px;
+  font-weight: 500;
+  letter-spacing: -0.01em;
+}
