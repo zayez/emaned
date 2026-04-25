@@ -4,6 +4,8 @@
   "version": "0.1.0",
   "type": "module",
   "description": "A codename generator — one evocative word from curated taxonomies.",
+  "license": "MIT",
+  "author": "Enio Elias Zanatta (zayez)",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
