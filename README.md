@@ -2,6 +2,8 @@
 
 > A codename generator for naming projects. Pronounced *eh-MAYNED* — `named` reversed.
 
+**Live · [zayez.github.io/emaned](https://zayez.github.io/emaned/)**
+
 `emaned` draws a single evocative word from one of five curated taxonomies — Intel processor codenames, mountains, celestial bodies, gemstones, and Greek mythology — with rich filterable metadata. It's a static, no-backend webapp built as a portfolio piece and a personal tool.
 
 The product reality is simple: pick one word from a curated list with filters applied. The design's job is to make that act feel deliberate, editorial, and typographically loud.
