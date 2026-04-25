@@ -1,0 +1,42 @@
+{
+  "name": "emaned",
+  "private": true,
+  "version": "0.1.0",
+  "type": "module",
+  "description": "A codename generator — one evocative word from curated taxonomies.",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "preview": "vite preview",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit",
+    "scrape": "tsx scripts/src/scrape/run.ts",
+    "enrich": "tsx scripts/src/enrich/run.ts",
+    "review": "tsx scripts/src/review/cli.ts",
+    "build:data": "tsx scripts/src/build-data.ts",
+    "validate:data": "tsx scripts/src/validate.ts",
+    "typecheck:scripts": "tsc --noEmit -p scripts/tsconfig.json"
+  },
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  },
+  "devDependencies": {
+    "@google/genai": "^1.50.1",
+    "@inquirer/prompts": "^8.4.2",
+    "@types/node": "^25.6.0",
+    "@types/react": "^18.3.12",
+    "@types/react-dom": "^18.3.1",
+    "@vitejs/plugin-react": "^4.3.4",
+    "cheerio": "^1.2.0",
+    "dotenv": "^17.4.2",
+    "jsdom": "^25.0.1",
+    "syllable": "^5.0.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.6.3",
+    "valibot": "^1.3.1",
+    "vite": "^5.4.11",
+    "vitest": "^2.1.8"
+  }
+}

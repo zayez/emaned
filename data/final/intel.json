@@ -1,0 +1,8425 @@
+[
+  {
+    "word": "Alder Lake",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "12th-gen Intel Core microarchitecture, 2021.",
+    "gen": "12",
+    "year": 2021
+  },
+  {
+    "word": "Raptor Lake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "13th-gen Intel Core microarchitecture, 2022.",
+    "gen": "13",
+    "year": 2022
+  },
+  {
+    "word": "Meteor Lake",
+    "syl": 4,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "Intel Core Ultra, first Intel 4 tile design.",
+    "gen": "14",
+    "year": 2023
+  },
+  {
+    "word": "Arrow Lake",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "Desktop successor to Raptor Lake.",
+    "gen": "15",
+    "year": 2024
+  },
+  {
+    "word": "Lunar Lake",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Ultra-low-power mobile SoC.",
+    "gen": "15",
+    "year": 2024
+  },
+  {
+    "word": "Panther Lake",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "aggressive"
+    ],
+    "origin": "Mobile-first successor to Lunar Lake.",
+    "gen": "16",
+    "year": 2025
+  },
+  {
+    "word": "Nova Lake",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "Forthcoming client platform.",
+    "gen": "17",
+    "year": 2026
+  },
+  {
+    "word": "Sapphire Rapids",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "4th-gen Xeon Scalable.",
+    "gen": "Xeon",
+    "year": 2023
+  },
+  {
+    "word": "Emerald Rapids",
+    "syl": 5,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "5th-gen Xeon Scalable.",
+    "gen": "Xeon",
+    "year": 2023
+  },
+  {
+    "word": "Granite Rapids",
+    "syl": 5,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "6th-gen Xeon, P-core server.",
+    "gen": "Xeon",
+    "year": 2024
+  },
+  {
+    "word": "Sierra Forest",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "E-core-only Xeon platform.",
+    "gen": "Xeon",
+    "year": 2024
+  },
+  {
+    "word": "Clearwater Forest",
+    "syl": 5,
+    "len": 17,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "2nd-gen E-core Xeon.",
+    "gen": "Xeon",
+    "year": 2025
+  },
+  {
+    "word": "Acacia",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel codename from 2000, likely associated with early chipset or networking products.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Agate",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 1996 Intel chipset codename, likely for a desktop platform.",
+    "gen": "Chipset",
+    "year": 1996
+  },
+  {
+    "word": "Airmont",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 14nm shrink of the Silvermont Atom microarchitecture, initially planned for 2011 but released later.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Aitkens",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's Itanium 2 processor, released in 2001, targeting enterprise servers and workstations.",
+    "gen": "Xeon",
+    "year": 2001
+  },
+  {
+    "word": "Aladdin",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1998 Intel chipset codename, likely associated with Pentium II systems, evoking a sense of everyday utility.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Alcolu",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset related to the Core 2 Duo platform around 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Alder Poca",
+    "syl": 4,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A processor codename from 1997, part of early Intel desktop chip development.",
+    "gen": "-",
+    "year": 1997
+  },
+  {
+    "word": "Alderwood",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 925X Express chipset for Pentium 4 processors, released in 2003.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Aliceton",
+    "syl": 4,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel codename for a desktop motherboard chipset, part of the 945 series.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Alief",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2004 Intel chipset that supported Pentium 4 processors with an 800 MHz front-side bus and DDR400 memory.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Almador",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early 2000s Intel chipset for Pentium III and Celeron processors.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Alpine Ridge",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel Thunderbolt 3 controller introduced in 2015, supporting USB-C.",
+    "gen": "Chipset",
+    "year": 2015
+  },
+  {
+    "word": "Alta",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's Atom-based embedded systems and network processors around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Alton Bay",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Chipset for Intel Core 2 Duo mobile processors released in 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Alviso",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A mobile chipset launched in 2004, supporting Intel's first 90nm Pentium M processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Amber Lake",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "Low-power mobile processor family launched in 2018, designed for fanless 2-in-1 laptops.",
+    "gen": "8",
+    "year": 2018
+  },
+  {
+    "word": "Anchorage",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 1997 Intel chipset codename, likely named after the Alaskan city.",
+    "gen": "Chipset",
+    "year": 1997
+  },
+  {
+    "word": "Anchor Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2005 Intel chipset codename, likely for a server or workstation platform.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Andrews Lake",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC family designed for embedded systems, introduced around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Aneroid Lake",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an early 2010s Intel Atom processor for netbooks and entry-level desktops.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Angel Isle",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC platform from 2011, integrating CPU and GPU for mobile devices.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Anvik",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Anvik was an Intel 850E chipset, part of the 4th-generation Intel Pentium 4 platform, released in 2002.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Apalachia",
+    "syl": 5,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Apalachia was a codename for an Intel Atom-based platform, likely associated with netbooks or other low-power devices around 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Apple Glenn",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 chipset codename for Intel's Atom processor platform.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Argus SR",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codenamed Argus SR, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Arrandale",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "First generation Intel Core mobile processor family released in 2010, featuring integrated graphics on the same package.",
+    "gen": "1",
+    "year": 2009
+  },
+  {
+    "word": "Aruba",
+    "syl": 3,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2001.",
+    "gen": "Atom",
+    "year": 2001
+  },
+  {
+    "word": "Aspen Cabrillo",
+    "syl": 5,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Intel chipset for Pentium II processors, released in 1998.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Aspen Drake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel desktop chipset introduced in 1998, supporting Socket 370 and Slot 1 processors.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Aspen Hill",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Atlanta",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1997 Intel 430TX chipset designed for Pentium MMX processors.",
+    "gen": "Chipset",
+    "year": 1997
+  },
+  {
+    "word": "Atlantis",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 430FX chipset, a member of the Triton family, for Pentium-based systems released in 1996.",
+    "gen": "Chipset",
+    "year": 1996
+  },
+  {
+    "word": "Attla",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel XScale-based processor designed for embedded applications and mobile devices, released in 2003.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Atwood",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2005, part of the Intel E7520 chipset family.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Aubrey Isle",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor codenamed Aubrey Isle was developed around 2010 but not widely released.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Augsburg",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2004 Intel chipset for Pentium 4 processors, referencing the historic German city.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Avalon",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel desktop chipset from 2004, supporting LGA775 Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Averill",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Avoton",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Low-power Atom microarchitecture for servers, introduced in 2012.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Azalia",
+    "syl": 4,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "Intel's High Definition Audio specification, developed in 2004, designed to provide higher quality audio than its AC'97 predecessor.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Bad Axe",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "An Intel desktop chipset for enthusiast platforms released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Bad Axe 2",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A high-performance desktop chipset from 2006, known for its enthusiast-grade features.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Baker Bay",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor family, often associated with early netbook platforms in 2006.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Balboa",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 1997 Intel workstation chipset for Pentium II processors, supporting AGP graphics and dual processors.",
+    "gen": "Chipset",
+    "year": 1997
+  },
+  {
+    "word": "Bali",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A low-power chipset for Intel's mobile computing platform, released in 1998.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Baldry Mt.",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom SoC family codename from the early 2000s.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Bandera",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2002 Intel XScale processor codenamed for a Texas state park.",
+    "gen": "Atom",
+    "year": 2002
+  },
+  {
+    "word": "Bangor",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel codename for a desktop chipset released in 2008.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Banister",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset released in 1998.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Bar Harbor",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel codename for a desktop chipset released in 2006, part of the 945 family.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Barnroof Point",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for a desktop motherboard chipset, released in 2009.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Bartman",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel mobile chipset introduced in 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Barton Hills",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2010 Intel Atom processor for embedded applications, part of the Tunnel Creek platform.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Bartonville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2010, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Baton Rouge",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an early Intel Chipset, launched around 2000.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Battle Lake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A codename for a canceled Intel Itanium 2 processor planned for release around 2004.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Baxter Peak",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2007 Intel chipset for Atom processors, known for its small form factor and low power consumption.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Bayfield",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel XScale processor, part of a family of embedded CPUs released around 2003.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Bay Lake",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Low-power Atom microarchitecture developed in 2012, serving as a successor to Saltwell.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Bay Trail",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Low-power Atom system-on-a-chip family for tablets, 2-in-1s, and desktops, released in 2014.",
+    "gen": "Atom",
+    "year": 2014
+  },
+  {
+    "word": "Bear Canyon",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A desktop chipset codename from Intel, released around 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Bearlake",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 chipset from Intel, released under the Intel 3 Series brand for desktop platforms.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Bear Point",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom chipset from 2011, designed to pair with Atom processors.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Bear Ridge",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC family released in 2016, designed for embedded applications and IoT devices.",
+    "gen": "Atom",
+    "year": 2016
+  },
+  {
+    "word": "Beartooth Pass",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2011, named after a high mountain pass in Montana and Wyoming.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Bearup Lake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC for embedded applications, released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Beckton",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "High-end Xeon platform for Nehalem microarchitecture, introduced in 2008 for multi-socket servers.",
+    "gen": "Xeon",
+    "year": 2008
+  },
+  {
+    "word": "Bellefontaine",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2007 Intel Atom processor codename, it refers to a city in Ohio, USA.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Bensley",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server platform introduced in 2005 for Intel Xeon processors.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Berg Lake",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2007, part of early mobile and embedded initiatives.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Berryville",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2012 Intel Atom system-on-chip for embedded and industrial applications, known for its low power consumption.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Bigby",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2007, part of the Menlow platform.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Bighorn Peak",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2011, part of the Romley platform for Xeon E5 processors.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Big Lake",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early 2006 Intel Xeon processor codename for a dual-core server chip, part of the Itanium 2 family.",
+    "gen": "Xeon",
+    "year": 2006
+  },
+  {
+    "word": "Big Laurel",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor for embedded systems, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Big Sur",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2000, named after the coastal region of California.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Billings",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel codename for a chipset released in 2001.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Bimini",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 1998, associated with the Pentium II era.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Birchwood",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel chipset released in 1999, known for its integration capabilities.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Bisbee",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel platform introduced around 2001, often associated with embedded systems.",
+    "gen": "\\u2014",
+    "year": 2001
+  },
+  {
+    "word": "Blackford",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel chipset for Xeon processors, released in 2004, supporting dual-core CPUs.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Black Canyon",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Black Canyon-2",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2004 Intel chipset for Pentium 4 processors, supporting DDR2 memory and PCI Express.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Black Creek",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel chipset for Pentium 4 processors, part of the 955X Express family.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Black Pine",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom platform from 2002 designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2002
+  },
+  {
+    "word": "Bloomfield",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "First generation Intel Core i7 processor microarchitecture released in 2008, based on the Nehalem architecture.",
+    "gen": "1",
+    "year": 2005
+  },
+  {
+    "word": "Blue Hills",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel reference platform for data center management and power optimization.",
+    "gen": "Xeon",
+    "year": 2012
+  },
+  {
+    "word": "Blue Mountain",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset from 2002, part of Intel's early 64-bit Itanium architecture support.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Bluff Creek",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2009 Intel Atom platform designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Boazman",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor introduced in 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Bobcat Peak",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Atom platform released around 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Boiler Bay",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom platform introduced in 2006.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Bolton",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2005, supporting Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Bonanza",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A codename for Intel's Itanium 2 processor, released in 2003.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Bonetrail",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel Atom processor codename for an embedded platform.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Bonham",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel Bonham was a motherboard chipset for Pentium 4 processors, released in 2001.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Bonita",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "Intel codename for a low-power chipset.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Bonnell",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "The first Atom microarchitecture introduced in 2007, designed for low-power and mobile devices.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Bordenville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel Atom processor designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Boston",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel Xeon processor for dual-processor servers, launched in 2002.",
+    "gen": "Xeon",
+    "year": 2002
+  },
+  {
+    "word": "Boulder Creek",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2007, targeting embedded and communication applications.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Boxboro",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A high-end Intel chipset from 2007, designed for server platforms.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Bozeman",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An early 2000s Intel processor codename, Bozeman was an Itanium 2 processor based on the Madison core.",
+    "gen": "Xeon",
+    "year": 2000
+  },
+  {
+    "word": "Braiden Creek",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2011, designed for embedded applications and small form factor devices.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Braidwood",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A cancelled Intel Optane Memory codename from 2009, intended for use as a cache for hard drives.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Brakefield Bend",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early 2010s Intel chipset codename, supporting processors of that era.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Brandon",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the mid-2000s, reflecting a period of rapid PC platform evolution.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Breeds Hill",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2003 Intel chipset for Pentium 4 processors, referencing a historical American Revolutionary War site.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Bretona",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel chipset for Pentium 4 processors, supporting DDR2 memory.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Brickland",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A platform for Intel Itanium 9300 series processors, launched in 2010 for mission-critical enterprise servers.",
+    "gen": "Xeon",
+    "year": 2010
+  },
+  {
+    "word": "Bridge Creek",
+    "syl": 2,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2005 Intel chipset codename, supporting Pentium D and Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Briertown",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform chipset launched in 2009 for netbooks and nettops.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Broadwater",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2005 Intel chipset for Pentium 4 and Pentium D processors, supporting DDR2 memory and PCI Express.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Broadwell",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "5th-gen Intel Core microarchitecture launched in 2014, notable for being the first to use a 14nm process.",
+    "gen": "5",
+    "year": 2014
+  },
+  {
+    "word": "Bromolow",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Atom-based platform from 2011, part of Intel's embedded and communication segments.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Brookdale",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2000 Intel chipset supporting Pentium 4 processors with SDRAM.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Brownsville",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the early 2000s, associated with specific motherboard architectures.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Brownsville-2",
+    "syl": 2,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A cancelled Intel processor intended to succeed the Itanium 2 in 2002.",
+    "gen": "Xeon",
+    "year": 2002
+  },
+  {
+    "word": "Bryson",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the mid-2000s era.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Buffalo Creek",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Intel Xeon processors, released in 2007.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Buffalo Flat",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2010, designed for entry-level netbooks and embedded systems.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Bull Mountain",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 chipset for Sandy Bridge processors.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Bulverde",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel XScale architecture for PDAs and embedded systems, succeeding the earlier PXA25x family.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Burrage",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor intended for embedded applications, released around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Byfield",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor codename from 2010, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Byfield Lite",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Atom-based SoC codename from 2010, designed for entry-level netbook and nettops.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Byrd",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for Intel's 82810E chipset, which supported Pentium III and Celeron processors in 2000.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Byrd II",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codenamed Byrd II was introduced in 2000.",
+    "gen": "Atom",
+    "year": 2000
+  },
+  {
+    "word": "Cabot",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset released in 1998, also known as the 440BX.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Cactus Ridge",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A Thunderbolt controller chip from Intel, released in 2011.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Calexico",
+    "syl": 4,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel XScale processor designed for embedded applications, released in 2002.",
+    "gen": "Atom",
+    "year": 2002
+  },
+  {
+    "word": "Calistoga",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A mobile chipset released in 2004, designed for Intel's Centrino platform.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Callahan",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2007 Intel chipset for Xeon processors.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Calpella",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Laptop platform from 2008, combining Nehalem-based Core i7 mobile processors with the PM55 Express chipset.",
+    "gen": "1",
+    "year": 2008
+  },
+  {
+    "word": "Camino",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1999 Intel chipset for Pentium III processors, notable for its early adoption of RDRAM.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Caneland",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel Xeon server chipset supporting the Dempsey and Woodcrest processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Canmore",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel Atom processor codename, Canmore was part of the Menlow platform for Mobile Internet Devices.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Cannon Lake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "10nm Intel Core microarchitecture that saw limited release in 2017.",
+    "gen": "8",
+    "year": 2017
+  },
+  {
+    "word": "Cannonville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from 2002, part of the 845 family, supporting Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Canoe Creek",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC platform for embedded applications released in 2012.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Canoe Lake",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Canoe Lake was a mobile platform codename for Intel's first-generation Core i series processors, specifically for ultra-low voltage (ULV) variants.",
+    "gen": "1",
+    "year": 2010
+  },
+  {
+    "word": "Canoe Pass",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform introduced in 2011, primarily for embedded and communication applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Canterwood",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2003 Intel chipset for Pentium 4 processors, supporting DDR memory and AGP 8X.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Canterwood-ES",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2003, supporting Xeon processors with DDR memory.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Cantiga",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset from 2008, part of the Centrino 2 platform for mobile computing.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Canyon Peak",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel Atom-based platform for microservers and storage solutions launched in 2012.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Cape Cod",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel 810 chipset family for Pentium III and Celeron processors released in 1999.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Capulet",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor family, Capulet was introduced in 2006.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Cariboo River",
+    "syl": 5,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2007, associated with the Bearlake platform.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Carlow",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor platform for netbooks and entry-level desktops, released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Carmack",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor codename associated with early embedded systems and mobile internet devices from 2005.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Carmel",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel Atom processor platform, typically associated with embedded and low-power applications.",
+    "gen": "Atom",
+    "year": 1999
+  },
+  {
+    "word": "Carretta",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's first generation Core architecture, launched in 2006.",
+    "gen": "1",
+    "year": 2006
+  },
+  {
+    "word": "Cascade Lake",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "2nd generation Xeon Scalable processor family from 2019, an optimization of Skylake.",
+    "gen": "Xeon",
+    "year": 2019
+  },
+  {
+    "word": "Castine",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset released in 2002, supporting Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Castle Point",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset for the Intel Core 2 Duo and Quad processors, released in 2008.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Caswell",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset codename from 2004, supporting Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Cave Creek",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor platform from 2012, designed for microservers and storage solutions.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Cayman",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset codename from 1999, associated with early Pentium III systems.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Cedarview",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Atom SoC platform released in 2009, designed for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Cedar Cove",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform for netbooks and nettops, introduced in 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Cedar Mill",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel Pentium 4 processor based on the Prescott core, notable for being the last to use the NetBurst architecture.",
+    "gen": "\t",
+    "year": 2005
+  },
+  {
+    "word": "Cedar Trail",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2010 Atom SoC platform for netbooks and nettops, featuring improved graphics and power efficiency.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Centerton",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Atom SoC family released in 2012, designed for microservers and offering low power consumption.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Chattanooga",
+    "syl": 4,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1997 Intel chipset for Pentium II processors, codenamed after the city in Tennessee.",
+    "gen": "Chipset",
+    "year": 1997
+  },
+  {
+    "word": "Cherry Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codenamed Cherry Creek, released in 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Cherrypeak",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2009, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Cherryvale",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Xeon E3-1200 series processors, released in 2012.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "Cherryville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "An Intel chipset codename from 2011, often associated with early Ultrabook platforms.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Chevelon",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2007, part of the Intel 5000 series.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Chief River",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 chipset for Intel's Ivy Bridge processors, supporting USB 3.0 and SATA 6Gb/s.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "Chilito",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC family codenamed Chilito was introduced in 2003.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Chilito 2",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2003, likely for a specific platform or component within the broader Intel architecture.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Chisholm Trail",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset from 2005, supporting Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Chivano",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from the early 2000s, often associated with Pentium 4 platforms.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Cibolo",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Cibolo was a codename for an Intel chipset released around 2004, likely for server platforms.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Clackamas",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Intel Xeon processors, released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Claremont",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A processor codename for Intel's Atom series, released in 2011, aimed at low-power mobile devices.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Clarkdale",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "First-generation Intel Core architecture for desktop PCs, released in 2010, integrating a CPU and GPU on a single package.",
+    "gen": "1",
+    "year": 2009
+  },
+  {
+    "word": "Clarksboro",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset released around 2006, likely associated with server or workstation platforms.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Clarksfield",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "First-generation Intel Core i7 mobile processor microarchitecture launched in 2008.",
+    "gen": "1",
+    "year": 2008
+  },
+  {
+    "word": "Clarkville",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor codename, Clarkville was associated with early 2010s Intel Atom platforms.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Clear Bay",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 chipset for the Intel Atom processor family, designed for netbooks and nettops.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Clear Fork",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Atom processor family for embedded systems and netbooks, released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Clearwater",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A low-power Intel XScale processor from 2003 designed for embedded applications and PDAs.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Clems Cove",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor family released in 2011, designed for netbooks and entry-level desktops.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Clovertown",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Quad-core Xeon server processor, released in late 2006, marking Intel's first mainstream quad-core offering.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Cloverview",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2011 Atom system-on-a-chip family for tablets, part of the Clover Trail platform.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Clover Trail",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Atom SoC platform for tablets and netbooks, released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Coconut Creek",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2007, part of early mobile and embedded initiatives.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Coffee Lake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "8th-gen Intel Core microarchitecture launched in 2017, largely an optimization of Kaby Lake.",
+    "gen": "8",
+    "year": 2017
+  },
+  {
+    "word": "Cold Lake",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC family codename from 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Colleyville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2009 Intel chipset codename, likely referring to a South Texas city.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Colusa",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel chipset codename from the early 2000s, often associated with mobile platforms.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Comanche Creek",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2004, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Condor Peak",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Xeon processors released in 2009.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Cooper River",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early 2009 Intel Xeon platform codename, likely associated with a chipset or server component from that era.",
+    "gen": "Xeon",
+    "year": 2009
+  },
+  {
+    "word": "Coos Bay",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2002 that supported Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Copper Pass",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC released in 2011, part of the Tunnel Creek platform for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Copper Pond",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor introduced in 2008 for embedded applications and mobile internet devices.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Copper River",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A cancelled Intel Itanium 2 processor from 2004, intended as a refresh for the McKinley core.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Cordova",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A processor codename for Intel's XScale family, introduced in 2001.",
+    "gen": "Atom",
+    "year": 2001
+  },
+  {
+    "word": "Corner Field",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom platform for netbooks and nettops, succeeding Pine Trail.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Corsair",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "Intel's first 486-based server platform, released in 1991, offering advanced multiprocessing capabilities.",
+    "gen": "Xeon",
+    "year": 1991
+  },
+  {
+    "word": "Cortez",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset codename from the mid-2000s, often associated with early Core microarchitectures.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Coryville",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codenamed in 2006, part of an early generation of power-efficient chips.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Cotulla",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2002 Intel mobile chipset codename.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Cougar Canyon",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform codenamed Cougar Canyon was released in 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Cougar Point",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 6 Series chipset family released in 2010, designed to accompany Sandy Bridge processors.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Coupeville",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel chipset codename, likely named after Coupeville, Washington.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Coyanosa",
+    "syl": 4,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel codename for a server chipset, part of the E7500 family, released around 2002.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Cranberry Lake",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2007, often associated with specific motherboard designs.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Cranford",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Intel Atom processor codename, indicating a compact, low-power design from 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Creede",
+    "syl": 1,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Intel Xeon processors, released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Crestline",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel chipset for Core 2 Duo processors, part of the Santa Rosa platform for notebooks.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Crow Point",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform introduced in 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Crown Bay",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Atom-based embedded platform introduced in 2009 for industrial and retail solutions.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Crown Beach",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset from 2007, often associated with server platforms.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Crown Pass",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor codename from 2011, part of the Tunnel Creek platform for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Crystal Cove",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A 2012 Intel Atom platform codename for tablet and netbook processors, part of the Clover Trail+ family.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Crystal Forest",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A platform codename for Intel Atom processors released in 2012, targeting embedded and communication applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Cube Cove",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom microarchitecture for mobile internet devices and embedded systems, introduced in 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Culver City",
+    "syl": 4,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from 2004, named after the city in Los Angeles County, California.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Culver City 2",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from 2004, indicating a specific platform or controller component.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Cumberland",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel codename for a chipset, likely associated with early Pentium or Pentium Pro motherboards in 1996.",
+    "gen": "Chipset",
+    "year": 1996
+  },
+  {
+    "word": "Cypress",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename used for early Intel chipsets, evoking a sense of natural yet structured design.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Dalhart",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel desktop chipset released in 2003, featuring dual-channel DDR memory support.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Dana Point",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform codename from 2007, representing a chipset.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Danbury",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel Atom processor for embedded applications, part of the Tolapai platform.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Dandale",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor for embedded applications, released around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Dayville",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codename from 2005, part of Intel's early mobile efforts.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Decathlete",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A 2012 codename for an Intel Atom processor, likely referencing a versatile, all-in-one chip design.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Deerfield",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Xeon processor released in 1998, notable for its reduced cache and lower clock speeds.",
+    "gen": "Xeon",
+    "year": 1998
+  },
+  {
+    "word": "Deer Flat",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2011, primarily for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Dempsey",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel Xeon processor based on the dual-core Paxville DP core, released in 2005.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Denali",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A cancelled Intel high-performance computing project from 2009, intended for future server platforms.",
+    "gen": "Xeon",
+    "year": 2009
+  },
+  {
+    "word": "Denverton",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Atom SoC family released in 2017, targeting entry-level servers and network appliances.",
+    "gen": "Atom",
+    "year": 2017
+  },
+  {
+    "word": "Dermot",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Devil's Canyon",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A refresh of Haswell microarchitecture in 2014, notable for improved thermal interface material for overclocking.",
+    "gen": "4",
+    "year": 2013
+  },
+  {
+    "word": "Dewey Beach",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC codename, part of Intel's early push into netbooks and mobile internet devices around 2006.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Diamondville",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel Atom microarchitecture for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Dimona",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Dodson",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Celeron processor from 2002, designed for mobile computing.",
+    "gen": "Atom",
+    "year": 2002
+  },
+  {
+    "word": "Double Barrow",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codename, Double Barrow appeared in Intel documentation around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Doug Lake",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor codename from 2011, intended for entry-level netbooks and tablets.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Dover",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor for embedded applications, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Dowling-T",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2006, targeting embedded applications.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Downey",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Dragontail Peak",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codename from 2007, associated with the early days of netbooks and mobile internet devices.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Driskill-T",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel chipset for mobile platforms, supporting Core Duo and Core 2 Duo processors.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Dry Fork",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2012 Intel chipset codename, likely associated with a specific platform or motherboard family.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "Dublin",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename used for a 1997 Intel processor, likely part of a Pentium or Pentium II line.",
+    "gen": "-",
+    "year": 1997
+  },
+  {
+    "word": "Dunes Beach",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codenamed in 2011, part of the Cedar Trail platform.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Dunnington",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A multi-core Xeon processor released in 2005, based on the Penryn microarchitecture.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Eaglelake",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset from 2007, part of the Bearlake family.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Eagle Ridge",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2011, part of the Intel 7500 series.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "East Fork",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel chipset codename, likely for a server or workstation platform.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Eastern Point",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2011, primarily used in embedded systems and netbooks.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Easton",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel codename for a chipset released around 2000.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Eatonville",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power chipset from 2004, designed for Intel Atom processors and embedded applications.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Eb Lake",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2012, primarily targeting embedded systems.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Echo Peak",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2007 Intel chipset for mobile platforms, often paired with Centrino Duo processors.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Eden Prairie",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Intel chipset codename from 2005, named after a city in Minnesota.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Eklo",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Atom processor, part of the Pine Trail platform, released around 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Ekron",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename used for a 2005 Intel chipset, likely associated with a specific platform or motherboard family.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Eldridge",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset released in 2003, providing support for Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Elmcrest",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2011, part of the Intel 5000P series.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Emerald Lake",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2009, likely for embedded or mobile applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Emerald Lake 2",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A low-power Atom SoC from 2011, part of the Tunnel Creek family, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Endeavor",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Socket 7 motherboard chipset for Pentium processors, released in 1996.",
+    "gen": "Chipset",
+    "year": 1996
+  },
+  {
+    "word": "Englewood",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset codename for the i845 family, supporting Pentium 4 processors with DDR SDRAM in 2001.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Ephraim",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename used for an Intel Atom processor, part of the Pineview platform.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Eva Cove",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom microarchitecture developed by Intel in 2008, primarily for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Evans Peak",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2008 Intel chipset codename for Atom processor platforms.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Everson",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel codename for a Xeon processor released in 2003, featuring Hyper-Threading technology.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Fairbanks",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 1999, designed for Intel Pentium III Xeon processors.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Falcon Mountain",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A 2018 Intel chipset for Xeon-based workstations.",
+    "gen": "Chipset",
+    "year": 2018
+  },
+  {
+    "word": "Fanwood",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2004, designed for Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Fly Creek",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2008 Intel Atom platform codename for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Forest Lake",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom SoC family codenamed in 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Fort Sumter",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform codenamed for a historic American Civil War fort.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Foster",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server processor microarchitecture from Intel, part of the Pentium III Xeon family, released in 1998.",
+    "gen": "Xeon",
+    "year": 1998
+  },
+  {
+    "word": "Foxhollow",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 chipset for the Intel Atom processor family, designed for ultra-mobile devices.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Foxton",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2005.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Fox Cove",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom microarchitecture developed in 2007, notable for its early use in mobile internet devices.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Free Town",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Xeon processor introduced in 2004.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Frostburg",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset launched in 2007, part of the mobile computing platform.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Gainestown",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "First generation Intel Xeon processor microarchitecture, launched in 2007, based on the Nehalem architecture.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Gainesville",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2002 Intel chipset, likely for server or workstation platforms, named after the city in Florida.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Gallatin",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A variant of the Intel Xeon processor released in 2000, known for its larger L3 cache.",
+    "gen": "Xeon",
+    "year": 2000
+  },
+  {
+    "word": "Gardendale",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 Intel chipset intended for embedded applications and industrial control systems.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Garibaldi",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the early 2000s, reflecting a trend of geographical or historical figure naming.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Garden Island",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform codename from 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Garlow",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor designed for embedded applications, released in 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Gasper",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor family from 2012, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Gaston",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2004 Intel chipset codename, likely for a server or workstation platform.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Geneseo",
+    "syl": 4,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel Xeon platform codename, likely referring to a specific chipset or server component.",
+    "gen": "Xeon",
+    "year": 2006
+  },
+  {
+    "word": "Gesher",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename, part of the Saltwell family, released around 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Gilgal",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2006, part of the 945 series.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Gilo",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel processor codename from 2003, part of the XScale family of embedded processors.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Glen Brook",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom platform for embedded applications, succeeding Tolapai.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Glen Ridge",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel chipset codename from 2004, supporting Pentium 4 processors with DDR2 memory.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Glenwood",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset for Pentium 4 processors, released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Glidewell",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's 955X Express chipset, launched in 2005, supporting Pentium 4 and Pentium D processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Glyndon",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2006, part of the Intel Xeon platform.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Golan",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Grand County",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Granite Bay",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Intel Xeon processors, released in 2001, supporting dual-processor configurations.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Grantley-EP",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Server platform for Xeon E5-2600 series processors, released in 2012.",
+    "gen": "Xeon",
+    "year": 2012
+  },
+  {
+    "word": "Grantsdale",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 915P/G Express chipset family released in 2004, supporting Pentium 4 processors and DDR2 memory.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Green Fountain",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An early Intel Atom processor codename from 2007, part of the initial low-power SoC push.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Greencreek",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from 2004, supporting Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Grizzly Pass",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A 2011 chipset for Intel Xeon E5-2600 series processors, part of the Romley platform.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Grosse Point",
+    "syl": 2,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom chipset released in 2009 for netbooks and nettops.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Groveland",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2010 Intel Atom processor designed for embedded applications, part of the Tunnel Creek platform.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Guardfish",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 2006, part of the Centrino Duo platform.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Gulftown",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A high-end desktop processor released in 2010, part of the Westmere microarchitecture.",
+    "gen": "1",
+    "year": 2009
+  },
+  {
+    "word": "Hammonton",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Xeon processor released in 2004, designed for dual-processor server and workstation platforms.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Hanksville",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC for embedded applications, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Hanlan Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor family introduced in 2008 for embedded applications.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Harpertown",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel Xeon processor based on the Core microarchitecture, known for its dual-socket configurations.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Hartwell",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel chipset from 2008, often associated with embedded systems and specific industrial applications.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Haswell",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "4th-gen Intel Core microarchitecture launched in 2013, focusing on power efficiency and integrated graphics.",
+    "gen": "4",
+    "year": 2013
+  },
+  {
+    "word": "Havre",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from 2001.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Hawley Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 chipset for Intel Atom processors, designed for embedded and mobile internet devices.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Hayden Valley",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform codenamed in 2009, designed for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Hazleton",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Hillel",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom processor for embedded applications, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Hondo",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel desktop chipset introduced in 2004, supporting Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Houlton Legacy",
+    "syl": 5,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom SoC platform released in 2011, part of Intel's embedded solutions.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Ibex Peak",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A PCH (Platform Controller Hub) chipset introduced in 2008 alongside Lynnfield and Clarkdale processors.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Ice Lake",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "10th-gen Intel Core microarchitecture that debuted in 2020, featuring Sunny Cove cores.",
+    "gen": "10",
+    "year": 2020
+  },
+  {
+    "word": "Iron Falls",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A cancelled Intel Itanium 2 processor codenamed in the early 2000s.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Iron Pass",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 Intel Atom chipset designed for embedded systems and network devices.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Irwindale",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2004 Intel Xeon processor based on the Nocona core, featuring an increased L2 cache and Hyper-Threading.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Ivy Bridge",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "3rd-gen Intel Core microarchitecture from 2012, notable for being Intel's first mainstream 22nm processor.",
+    "gen": "3",
+    "year": 2012
+  },
+  {
+    "word": "Jaketown",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server processor microarchitecture from Intel, part of the Nehalem family, released in 2010.",
+    "gen": "Xeon",
+    "year": 2010
+  },
+  {
+    "word": "Jackson",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the early 2000s, associated with motherboard platforms.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Ivytown",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2013 Intel Xeon E7 v2 microarchitecture for high-end servers, based on Ivy Bridge-EX.",
+    "gen": "Xeon",
+    "year": 2013
+  },
+  {
+    "word": "Jasper Forest",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Xeon processor family released in 2009 for embedded and storage applications.",
+    "gen": "Xeon",
+    "year": 2009
+  },
+  {
+    "word": "Jefferson Pass",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC platform released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Johannesburg",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Xeon processor released in 2007, part of the Dual-Core Xeon series.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Johnstown",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2009, likely associated with server or workstation platforms.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Jones Beach",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset released around 2006, likely associated with a specific platform or architecture from that period.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Jordan Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform introduced in 2012 for embedded and communication applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Kaby Lake",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "7th-gen Intel Core microarchitecture launched in 2016, a refinement of the Skylake design.",
+    "gen": "7",
+    "year": 2016
+  },
+  {
+    "word": "Kauai",
+    "syl": 1,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an early Intel 440BX chipset variant, released around 1998, supporting Pentium II and III processors.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Kawela",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom-based platform designed for embedded applications and netbooks.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Kaylo",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2007, part of early mobile computing efforts.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Kedron",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2006, part of the Pineview platform.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Keifer",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for a specific Intel platform or component, often associated with processor or chipset development around 2006.",
+    "gen": "-",
+    "year": 2006
+  },
+  {
+    "word": "Kenai",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an early 2000s Intel chipset.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Kenosha Pass",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server platform codename from 2011, named after a mountain pass in Colorado.",
+    "gen": "Xeon",
+    "year": 2011
+  },
+  {
+    "word": "Kevet",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2006, part of the ICH family for motherboards.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Kikayon",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early 2006 Intel Atom development platform.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "King Crest",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC codename from 2011, part of the Tunnel Creek platform family.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Kings Creek",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform codename for netbooks and nettops, introduced in 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Kingsport 3",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from the mid-2000s, part of the ICH7 Southbridge family.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Kinnereth",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel mobile chipset from the early 2000s.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Kittson",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Itanium server processor, part of Intel's high-end enterprise computing line, released around 2007.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Knights Corner",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "First-generation Intel Xeon Phi many integrated core architecture, introduced in 2011.",
+    "gen": "Xeon",
+    "year": 2011
+  },
+  {
+    "word": "Knights Ferry",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "The first-generation Intel Xeon Phi many-integrated core accelerator, launched in 2010.",
+    "gen": "Xeon",
+    "year": 2010
+  },
+  {
+    "word": "Knights Hill",
+    "syl": 2,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Cancelled many-core Intel Xeon Phi product family, originally planned for 2014.",
+    "gen": "Xeon",
+    "year": 2014
+  },
+  {
+    "word": "Knights Landing",
+    "syl": 3,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A Many Integrated Core (MIC) architecture processor from Intel, released in 2013, designed for high-performance computing and parallel workloads.",
+    "gen": "Xeon",
+    "year": 2013
+  },
+  {
+    "word": "Knights Mill",
+    "syl": 2,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Cancelled many-integrated-core processor based on the Knights Landing architecture, intended for deep learning workloads.",
+    "gen": "Xeon",
+    "year": 2017
+  },
+  {
+    "word": "Knoll Creek",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2012 designed for Intel Xeon E5-2400 series processors.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "Kyrene",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel codename for a chipset, released in 2002.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "La Crosse",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset launched in 2003, often associated with specific motherboard platforms.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "La Mesa",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset from 2005, supporting Pentium 4 and Celeron D processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Lakeport",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset for the Pentium 4 and Pentium D processors, released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Langwell",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A processor codename associated with Intel's embedded products in 2007, often part of System-on-Chip designs.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Larrabee",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A cancelled Intel Many Integrated Core architecture project from 2006, intended as a discrete GPU.",
+    "gen": "GPU",
+    "year": 2006
+  },
+  {
+    "word": "Larson Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2011 chipset codename for server boards, featuring a C200 series controller.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Lavon",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2002 Intel chipset, part of the 845 family, supporting Pentium 4 processors with Hyper-Threading technology.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Layton",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel processor family from 2002, part of the XScale microarchitecture.",
+    "gen": "Atom",
+    "year": 2002
+  },
+  {
+    "word": "Lewisville",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform designed for embedded applications, released around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Lewisburg",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2016, supporting Broadwell-DE and Xeon D processors.",
+    "gen": "Chipset",
+    "year": 2016
+  },
+  {
+    "word": "Light Ridge",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "Thunderbolt controller introduced in 2011, providing a high-speed interface for data and display.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Lincoln Crest",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom SoC codename from 2011, intended for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Lincroft",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2008 Intel Atom processor for mobile internet devices, succeeding Menlow.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Lindenhurst",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel chipset for Pentium 4 processors, released in 2003.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Little Falls",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2008 Intel chipset for Atom processors, supporting the Diamondville CPU.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Little Falls 2",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel Atom platform codenamed Little Falls 2 was launched in 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Little River",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 chipset codename for Intel's low-power Atom platform.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Lizard Head Pass",
+    "syl": 4,
+    "len": 16,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom SoC platform introduced in 2013 for embedded and IoT applications.",
+    "gen": "Atom",
+    "year": 2013
+  },
+  {
+    "word": "Long Cove",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Lordship Beach",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codenamed for tablets and mobile devices, released in 2012.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Lunaville",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A 2008 Intel Atom platform codename, part of the Menlow platform for Mobile Internet Devices.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Lyndonville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom platform for netbooks and nettops, succeeding Menlow.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Lynnfield",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Lynnfield was an Intel codename for a desktop processor microarchitecture launched in 2007.",
+    "gen": "1",
+    "year": 2007
+  },
+  {
+    "word": "MacKenzie",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's 2002 850E chipset for Pentium 4 processors with 533 MHz FSB.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Madison",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel Xeon processor released in 1998, part of the Itanium family.",
+    "gen": "Xeon",
+    "year": 1998
+  },
+  {
+    "word": "Maho Bay",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A low-power Atom system-on-a-chip (SoC) codename released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Maple Crest",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2012 Intel Atom SoC family designed for low-power embedded applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Marblehead",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel chipset for Pentium 4 processors released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Marlinspike",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, likely associated with early Pentium II or III platforms.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Mars",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A 1995 Intel development project for a 64-bit Itanium processor, later cancelled.",
+    "gen": "Xeon",
+    "year": 1995
+  },
+  {
+    "word": "Marshalltown",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel Atom SoC codename, intended for smartphones and tablets, that was ultimately canceled.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Matanzas",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel Atom platform codename, likely named after the city in Cuba.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Maui",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 1998, designed for Pentium II processors.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Maywood",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename used for a South Bridge chipset in 2004, designed to connect various components on the motherboard.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "McCaslin",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server platform codename from 2007, often associated with Xeon processors of that era.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "McCreary",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor core designed for embedded applications, released in 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "McKinley",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Early Intel Itanium processor architecture, the second in the family, released in 1998.",
+    "gen": "Xeon",
+    "year": 1998
+  },
+  {
+    "word": "Medfield",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom system-on-chip platform designed for smartphones and tablets.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Menlow",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform for Mobile Internet Devices launched in 2007, combining a Silverthorne CPU with a Poulsbo chipset.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Merced",
+    "syl": 1,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "The original codename for Intel's first 64-bit Itanium processor, announced in 1998.",
+    "gen": "Xeon",
+    "year": 1998
+  },
+  {
+    "word": "Merrifield",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Atom SoC family for smartphones and tablets, part of the Saltwell microarchitecture.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Millbrook",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2009 Intel Atom platform for netbooks and nettops, featuring the Pineview processor.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Millville",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel Atom processor codename, part of the Pineview platform, released around 2005.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Moab",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 1999 Intel 810e chipset codename, known for integrated graphics and a memory controller hub.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Mobile Bay",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2010 Intel chipset for Atom processors, supporting DDR2 memory and integrated graphics.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Monahans",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2005 Intel XScale microarchitecture for embedded and mobile devices, succeeding Bulverde.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Montara",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel Xeon chipset released in 2002, supporting dual-processor configurations.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Montecito",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A dual-core Itanium 2 processor released in 2006, succeeding Madison.",
+    "gen": "Xeon",
+    "year": 2002
+  },
+  {
+    "word": "Montpelier",
+    "syl": 4,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codename from 2007, reflecting an early focus on energy efficiency.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Montvale",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A dual-core Itanium 2 processor from 2005.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Moorestown",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Atom-based platform for mobile internet devices, notable for integrating the memory controller and graphics onto the CPU package.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Morgan Hill",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's 955X Express chipset, released in 2006, supporting Pentium 4 and Pentium D processors.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Mount Prospect",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A chipset for Intel Pentium III processors released in 1999, associated with the i820 family.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Mount Union DVI",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel reference design for a DVI interface, part of a broader effort to standardize display connectivity.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "Mount Washington",
+    "syl": 4,
+    "len": 16,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor designed for embedded applications, released around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Mukilteo",
+    "syl": 4,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset codename from 2005, associated with the i945GZ Express chipset.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Napa",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel Centrino mobile platform launched in 2005, featuring a Core Duo processor and the Calistoga chipset.",
+    "gen": "\\u2014",
+    "year": 2005
+  },
+  {
+    "word": "Natoma",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset for Pentium Pro and Pentium II processors, released in 1996.",
+    "gen": "Chipset",
+    "year": 1996
+  },
+  {
+    "word": "Navy Pier",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2008 Intel chipset for the Nehalem microarchitecture, enabling advanced memory and I/O features.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Nehalem",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server microarchitecture developed by Intel in 2004, later adapted for client processors.",
+    "gen": "1",
+    "year": 2004
+  },
+  {
+    "word": "Neptune",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power 486-era mobile chipset, it was among the first to integrate graphics and memory control.",
+    "gen": "Chipset",
+    "year": 1993
+  },
+  {
+    "word": "Newberry Lake",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for a canceled Intel Itanium 2 processor planned for 2007.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Niantic",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2009, supporting Nehalem processors.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Nine Mile",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel Atom processor, likely from the early generations around 2006.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Ninja",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "austere"
+    ],
+    "origin": "A 1994 Intel chipset for Pentium processors, known for its integrated PCI controller.",
+    "gen": "Chipset",
+    "year": 1994
+  },
+  {
+    "word": "Nineveh",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An Intel server platform from 2006, named after the ancient Assyrian city.",
+    "gen": "Xeon",
+    "year": 2006
+  },
+  {
+    "word": "Nocona",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "First generation Xeon processor microarchitecture introduced in 2004, based on the Prescott core.",
+    "gen": "Xeon",
+    "year": 2001
+  },
+  {
+    "word": "Novarupta",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A low-power Atom SoC family from 2012, codenamed after the massive 1912 volcanic eruption in Alaska.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Oak Trail",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Atom SoC platform for tablets and netbooks released in 2010, featuring a single-core CPU.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Odem",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the early 2000s, reflecting a period of rapid technological development.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Ophir",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Oplin",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel chipset codename from 2007, often associated with server platforms of that era.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Orchid Island",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A 2015 Intel Atom-based micro-server platform designed for high-density, low-power data center applications.",
+    "gen": "Atom",
+    "year": 2015
+  },
+  {
+    "word": "Orion",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Early Intel Pentium-era chipset for motherboards released in 1995.",
+    "gen": "Chipset",
+    "year": 1995
+  },
+  {
+    "word": "Paint Creek",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset released in 2011, supporting processors of that era.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Palm Canyon",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel chipset codename, likely associated with a specific motherboard platform.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Panther Point",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 7-series chipset for Intel's Ivy Bridge processors, released in 2012.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Patsburg",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel chipset codename for the C600 series, supporting Sandy Bridge-E and Ivy Bridge-E processors.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Paxville",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A dual-core Xeon processor released in 2005, primarily for high-end workstations and servers, building on the Nocona core.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Pellston",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2004 Intel chipset, part of the Grantsdale family, designed for Pentium 4 processors with DDR2 memory.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Penryn",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "45nm mobile and desktop Core 2 Duo and Xeon processors based on the Penryn microarchitecture, released in 2008.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Penwell",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An early Intel Atom SoC family for netbooks and entry-level mobile devices, released in 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Petrof Bay-T",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2006, part of the ICH8/ICH9 family.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Picket Post",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Piketon",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel codename for a platform or chipset released around 2008.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Pilot Point",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 Intel chipset codename, serving as the ICH8 southbridge.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Pilot Point-T",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom chipset introduced in 2009 for netbooks and mobile internet devices.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Pine Trail",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2009 Atom platform for netbooks and nettops, integrating graphics and memory controllers onto the CPU.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Pineview",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Atom SoC platform released in 2009, integrating CPU and GPU onto a single die for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Plato",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1994 Intel chipset codename, likely named for the ancient Greek philosopher.",
+    "gen": "Chipset",
+    "year": 1994
+  },
+  {
+    "word": "Pleiades",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "mythic",
+      "luminous",
+      "scientific"
+    ],
+    "origin": "An Intel server chipset launched in 2004, named after the star cluster from Greek mythology.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Plumas",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 815 series chipset released in 2000, supporting Pentium III and Celeron processors.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Plum Creek",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset launched in 2007, often associated with server platforms.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Plum Island",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Intel Xeon processors, released in 2003.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Polaris",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A codename for a canceled Intel GPU project from the mid-2000s, predating Intel's modern Xe graphics.",
+    "gen": "GPU",
+    "year": 2007
+  },
+  {
+    "word": "Pondicherry",
+    "syl": 4,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom SoC family codenamed in 2012, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Portland",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1997 Intel chipset codename. It was part of a series of chipsets that supported Pentium II processors.",
+    "gen": "Chipset",
+    "year": 1997
+  },
+  {
+    "word": "Portville",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2008 Intel Atom chipset designed for netbooks and low-power devices.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Potomac",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset released in 2004, supporting older Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Poulsbo",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel chipset codename, supporting Atom processors for mobile internet devices.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Poulson",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Itanium 2 processor from 2007 with 32nm process technology.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Powerville",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Atom platform introduced around 2010, targeting embedded and low-power applications.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Prague",
+    "syl": 1,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset released around 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Prestonia",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for Intel's Xeon processor line, based on the Northwood core, released in 2000.",
+    "gen": "Xeon",
+    "year": 2000
+  },
+  {
+    "word": "Puget Island",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2010, designed for Intel Xeon 7500 series processors.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Purley",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server platform introduced in 2016 for Intel Xeon Scalable processors, succeeding the Brickland platform.",
+    "gen": "Xeon",
+    "year": 2016
+  },
+  {
+    "word": "Queens Bay",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom platform designed for embedded applications and netbooks.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Radio Springs",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor family introduced in 2005.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Ralston Peak",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC codenamed in 2011, part of the Tunnel Creek platform for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Ramsdale",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Xeon processor family released around 2011.",
+    "gen": "Xeon",
+    "year": 2011
+  },
+  {
+    "word": "Rapid City",
+    "syl": 4,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset for Xeon processors released in 2003, supporting dual-processor configurations.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Red Ridge",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform launched in 2011, Red Ridge was designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Redwater",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2006 Intel desktop chipset that supported Core 2 Duo processors.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Red Rock Canyon",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom SoC for tablets and embedded systems, released in 2013.",
+    "gen": "Atom",
+    "year": 2013
+  },
+  {
+    "word": "Reidland",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel desktop chipset introduced in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Rexburg",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel 845 chipset variant released in 2002.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "Richford",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel Atom processor designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Riggins-T",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codenamed Riggins-T, part of the Tunnel Creek platform for embedded applications, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Rimon",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2005, reflecting the company's continuous development of platform technologies.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Rio Vista",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset released around 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "River Trail",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform from 2011, designed for tablets and netbooks.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Robson",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A flash memory caching technology for notebooks, branded as Turbo Memory, introduced by Intel in 2006.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Rochester",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel chipset codename from 1998, likely for a motherboard component.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Rock Creek",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform introduced in 2009, designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Rock Harbor",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel Xeon server platform from 2003, featuring dual-core processors.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Rocket Lake",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "aggressive"
+    ],
+    "origin": "11th-gen Intel Core microarchitecture with Cypress Cove cores, launched in 2021.",
+    "gen": "11",
+    "year": 2021
+  },
+  {
+    "word": "Rockwell",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2010 Intel Atom processor for embedded applications, part of the Tunnel Creek platform.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Romley",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Server platform launched in 2011, supporting Intel Xeon E5 processors.",
+    "gen": "Xeon",
+    "year": 2011
+  },
+  {
+    "word": "Rosepoint",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A low-power Atom SoC codename from 2012, hinting at precision and a focal point for mobile computing.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Rose Hill",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC family from 2005, designed for mobile internet devices.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Salt Creek",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel chipset codename, likely associated with a specific platform or motherboard family.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Saltwell",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Low-power Atom microarchitecture for netbooks and mobile internet devices released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "San Clemente",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel chipset codename, likely referring to the coastal city in Southern California.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Sandusky",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel Xeon processor family released in 2005, primarily targeting server and workstation markets.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Sandy Bridge",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel microarchitecture released in 2011, featuring a major redesign and integrating the GPU onto the same die.",
+    "gen": "2",
+    "year": 2007
+  },
+  {
+    "word": "Sandy Canal",
+    "syl": 4,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom architecture from 2006, part of the Bonnell family.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Saturn",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "An early Intel 80486 chipset introduced in 1992, named after the ringed planet.",
+    "gen": "Chipset",
+    "year": 1992
+  },
+  {
+    "word": "Saturn II",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1994 Intel chipset for Pentium processors, succeeding the original Saturn.",
+    "gen": "Chipset",
+    "year": 1994
+  },
+  {
+    "word": "Scanlon Bay",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 chipset for Intel Atom E6xx processors, designed for embedded applications.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Sea Breeze",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A server platform from 2003, it was designed to support Intel Xeon processors.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Seaburg",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2006, part of the Intel Xeon platform.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Seacliff Trail",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel Atom processor designed for embedded and industrial applications, emphasizing low power consumption and robust performance.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Seattle",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 1998, also known as the 440BX.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Shady Cove",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the early 2010s.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Sharkey",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the mid-2000s era.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Shark Bay",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel mobile platform based on the Ivy Bridge microarchitecture.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "Sheepshead Bay",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Shell Bay",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom SoC for tablets and netbooks released in 2012, part of the Saltwell family.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Shelter Island",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset launched around 2008.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Shelton",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel Atom platform for netbooks and nettops, introduced in 2004.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Shiloh",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2006 Intel chipset codename, likely named after a biblical site or a significant American Civil War battle.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Shirley Peak",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2007 chipset for Intel Atom processors, designed for low-power mobile internet devices.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Shoal Creek",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2005 Intel chipset for Pentium 4 and Celeron D processors, supporting DDR2 memory.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Sibley",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2005, part of the Intel E7520 platform.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Sierra Grande",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor intended for embedded applications and microservers, released around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Siler",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC from 2011, designed for entry-level systems and embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Silvermont",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Low-power Atom microarchitecture introduced in 2013, unifying desktop and mobile Atom families.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Silver Reef",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2002.",
+    "gen": "Atom",
+    "year": 2002
+  },
+  {
+    "word": "Silverthorne",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "First-generation Intel Atom processor family, launched in 2007 for Mobile Internet Devices.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Silvervale",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A processor codename for Intel's Itanium 2 line, released in 2004.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Skulltrail",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "High-end desktop platform released in 2008, supporting dual LGA771 Xeon processors for enthusiasts.",
+    "gen": "Xeon",
+    "year": 2007
+  },
+  {
+    "word": "Skylake",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "6th-gen Intel Core microarchitecture launched in 2015, notable for its broad desktop and mobile adoption.",
+    "gen": "6",
+    "year": 2015
+  },
+  {
+    "word": "Smackover 2",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "Intel server platform codenamed after a town in Arkansas, released around 2010.",
+    "gen": "Xeon",
+    "year": 2010
+  },
+  {
+    "word": "Snow Hill",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor intended for embedded applications and mobile internet devices, launched in 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Soda Creek",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel Atom-based embedded platform introduced around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Sodaville",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2008 Intel Atom platform for nettops, combining a single-core Atom processor with an Intel 945GC chipset.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "SoFIA",
+    "syl": 3,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "System-on-chip platform for low-cost smartphones and tablets, integrating Atom cores with cellular modems, first appearing around 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Solano",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 815 chipset family released in 2000, supporting Pentium III and Celeron processors.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Sorrento",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A codename for Intel's Xeon processor family, launched in 2005, primarily aimed at dual-processor server platforms.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Sossaman",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Low-power Xeon processor released in 2006, targeting embedded and communication applications.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "South Bend",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel chipset codename from 2002, likely for a server or workstation platform.",
+    "gen": "Chipset",
+    "year": 2002
+  },
+  {
+    "word": "South Lake",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early 64-bit Itanium 2 processor released in 2004, featuring a dual-core design.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Spring Fountain",
+    "syl": 3,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A 2009 Intel Atom processor codename, indicating a refresh or variant within the Atom family.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Spring Meadow",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2012 Intel Atom SoC platform designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Springdale",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2001 Intel chipset codename, supporting Pentium 4 processors with DDR SDRAM.",
+    "gen": "Chipset",
+    "year": 2001
+  },
+  {
+    "word": "Stealey",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor introduced in 2005, designed for mobile internet devices and embedded applications.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Stebbins 2",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An Intel desktop chipset for Pentium 4 processors, released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Stellarton",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2010 Intel Atom processor for embedded applications, part of the Tunnel Creek platform.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Stoakley",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor for embedded applications, released in 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Stoneville",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor family, part of the Folsom platform, released in 2003.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Stonylake",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2011 codename for an Intel Atom processor, part of the embedded line of products.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Stormville",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2012 Intel Atom processor codenamed Stormville, part of the Cedar Trail platform for netbooks and entry-level desktops.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Stoutland",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2007 Intel chipset for Xeon processors, part of the 5000 series.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Strawberry Mountain",
+    "syl": 5,
+    "len": 19,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor family released in 2011, primarily for embedded applications.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Sugar Bay",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A platform for Atom processors, introduced around 2010, designed for netbooks and entry-level desktops.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Sunnymead",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset released in 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Sunrise Lake",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A low-power Atom platform codename from 2007, associated with early mobile internet devices.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Sunset Highway",
+    "syl": 4,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2012, hinting at mobile and embedded applications.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Tabor",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Atom processor, likely part of a low-power embedded or mobile platform from the mid-2000s.",
+    "gen": "Atom",
+    "year": 2004
+  },
+  {
+    "word": "Tabor 3",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Tahiti",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset from 1995, associated with early Pentium processors.",
+    "gen": "Chipset",
+    "year": 1995
+  },
+  {
+    "word": "Tanacross",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2003 Intel chipset codename for server platforms supporting Xeon processors.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Tanglewood",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A cancelled Intel Itanium 2 processor codename from 2003, intended as a refresh for the McKinley core.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Tappen",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2005, part of the embedded market segment.",
+    "gen": "Atom",
+    "year": 2005
+  },
+  {
+    "word": "Taylorsville",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom system-on-a-chip codenamed Taylorsville was planned for release in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Tehama",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel 820 chipset released in 1999, notable for its early use of RDRAM.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Tekoa",
+    "syl": 3,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2005, part of the Intel E7520 family.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Thete",
+    "syl": 1,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom processor codename from 2008, part of the Menlow platform for Mobile Internet Devices.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Thor",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "Intel codename for a canceled 1995 processor that would have followed the Pentium Pro.",
+    "gen": "-",
+    "year": 1995
+  },
+  {
+    "word": "Thorsby",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC for embedded applications, introduced in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Thurley",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor for embedded applications, released in 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Tiger Point",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 2009, often paired with Nehalem-based processors.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Tiger Lake",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "11th-gen Intel Core microarchitecture with Willow Cove cores, released in 2020.",
+    "gen": "11",
+    "year": 2020
+  },
+  {
+    "word": "Tigerton",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for a dual-core Itanium 2 processor released in 2005, targeting enterprise servers.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Timber Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codename from 2009 for embedded applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Tolapai",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Intel Atom-based system-on-a-chip designed for embedded applications, released in 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Tonga",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel mobile chipset from 1998, part of the 440BX family.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Topcliff",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC platform from 2009 for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Triton",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel 430FX chipset, the first to support EDO DRAM and pipelined burst cache.",
+    "gen": "Chipset",
+    "year": 1995
+  },
+  {
+    "word": "Truland",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2005 that supported Intel Xeon processors.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Trumbull",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Celeron processor released in 2001, notable for its mobile applications.",
+    "gen": "Atom",
+    "year": 2001
+  },
+  {
+    "word": "Tucson",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 1996 Intel chipset for Pentium Pro and Pentium II processors, known for its Slot 1 design.",
+    "gen": "Chipset",
+    "year": 1996
+  },
+  {
+    "word": "Tukwila",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Itanium 2 processor microarchitecture released in 2003, featuring a larger cache and improved multi-threading.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Tulloch",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset released around the year 2000.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Tulsa",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Intel Itanium 2 processor released in 2003, featuring dual cores and an enhanced front-side bus.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Tunnel Creek",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Intel Atom SoC (System-on-Chip) platform from 2009 designed for embedded applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Tunnel Mountain",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom processor codename from 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Tumwater",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2003, it supported Intel Xeon processors and was based on the E7520 architecture.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Tupelo",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An early 2000s Intel chipset codename, likely for a server or workstation platform.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Twin Castle",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for a motherboard chipset from 2003, likely for Pentium 4 processors.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Twinville",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for a specific Intel Xeon server platform, likely from around 2010.",
+    "gen": "Xeon",
+    "year": 2010
+  },
+  {
+    "word": "Tylersburg",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "High-end desktop chipset released in 2007, supporting Intel Core i7 processors and triple-channel DDR3 memory.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Tyax",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset codenamed in 2003, supporting Intel Xeon processors for enterprise systems.",
+    "gen": "Chipset",
+    "year": 2003
+  },
+  {
+    "word": "Union Peak",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC platform for embedded applications and microservers, released in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Urbanna",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for a low-power Intel Atom processor introduced around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Val Vista",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC for embedded applications, released around 2006.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Valley Island",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2014 Intel Atom processor generation designed for tablets and other mobile devices.",
+    "gen": "Atom",
+    "year": 2014
+  },
+  {
+    "word": "Valleyview",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2010 Atom SoC platform for tablets and low-power devices, featuring integrated graphics.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Vancouver",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1999 Intel chipset codename, likely named after the city of Vancouver, British Columbia, Canada.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Vanguard",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "aggressive",
+      "scientific"
+    ],
+    "origin": "A codename for Intel's Itanium 2 processor in 2005, part of the McKinley family.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Victor Island",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom platform codenamed for a remote island in the Canadian Arctic, released in 2009.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Vidalia",
+    "syl": 4,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, likely from the mid-2000s era of platform development.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Waimea Bay",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A server chipset from 2010, designed for use with Xeon processors.",
+    "gen": "Chipset",
+    "year": 2010
+  },
+  {
+    "word": "Walnut Grove",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Atom SoC platform from 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Warm River",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel Atom-based platform, specifically for embedded and industrial applications, released around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Warm Springs",
+    "syl": 2,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 1998 Intel chipset for Pentium II processors, known for its integrated graphics.",
+    "gen": "Chipset",
+    "year": 1998
+  },
+  {
+    "word": "Washington Pass",
+    "syl": 4,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A server chipset from 2011, supporting Xeon processors.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Wellsburg",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A series of Intel server chipsets introduced in 2012, primarily supporting Xeon E5 processors.",
+    "gen": "Chipset",
+    "year": 2012
+  },
+  {
+    "word": "West Branch",
+    "syl": 2,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for a desktop chipset that was part of the Intel 925X Express family, released in 2004.",
+    "gen": "Chipset",
+    "year": 2004
+  },
+  {
+    "word": "Westmere",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2006 refresh of the Nehalem microarchitecture, introducing Intel's first 32nm process.",
+    "gen": "1",
+    "year": 2006
+  },
+  {
+    "word": "Weybridge",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A high-end desktop chipset from 2007, supporting Intel Core 2 Extreme processors.",
+    "gen": "Chipset",
+    "year": 2007
+  },
+  {
+    "word": "Whale Cove",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Atom microarchitecture for embedded and communications applications, introduced around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Whitefield",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel Xeon processor family released in 2004, featuring dual-core architecture.",
+    "gen": "Xeon",
+    "year": 2004
+  },
+  {
+    "word": "Whitesburg",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Xeon processor based on the Nehalem microarchitecture, designed for high-performance computing.",
+    "gen": "Xeon",
+    "year": 2009
+  },
+  {
+    "word": "White Salmon",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Intel Atom processor for embedded applications released in 2008.",
+    "gen": "Atom",
+    "year": 2008
+  },
+  {
+    "word": "Whitmore Lake",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset, released in 2008, supporting older generation processors.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Whitney",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for Intel's 810 series chipset, released in 1999, which integrated graphics and was aimed at the budget PC market.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Whitney Point",
+    "syl": 3,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for the Intel Atom processor and chipset platform introduced around 2010.",
+    "gen": "Atom",
+    "year": 2010
+  },
+  {
+    "word": "Wildwood Trail",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2008 Intel Atom platform codename, likely for a specific chipset or small form-factor device.",
+    "gen": "Chipset",
+    "year": 2008
+  },
+  {
+    "word": "Wilkins Peak",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC for embedded applications, launched in 2011.",
+    "gen": "Atom",
+    "year": 2011
+  },
+  {
+    "word": "Willapa Bay",
+    "syl": 4,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A cancelled Intel Atom processor family, originally planned for 2007.",
+    "gen": "Atom",
+    "year": 2007
+  },
+  {
+    "word": "Willowbrook",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2009 Intel Atom processor codename for embedded applications.",
+    "gen": "Atom",
+    "year": 2009
+  },
+  {
+    "word": "Willow Springs",
+    "syl": 3,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An early Intel chipset for Pentium III processors, released in 1999.",
+    "gen": "Chipset",
+    "year": 1999
+  },
+  {
+    "word": "Willow Springs 2",
+    "syl": 3,
+    "len": 16,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A codename for an Intel chipset from the early 2000s, part of the transition to newer architectures.",
+    "gen": "Chipset",
+    "year": 2000
+  },
+  {
+    "word": "Windigo",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "An early 2000s Intel initiative for a highly integrated chipset that was ultimately canceled.",
+    "gen": "Chipset",
+    "year": 2006
+  },
+  {
+    "word": "Winter Park",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An Intel server platform codename from 2003, featuring Xeon processors.",
+    "gen": "Xeon",
+    "year": 2003
+  },
+  {
+    "word": "Wolfdale",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "45nm dual-core Intel Core 2 Duo and Xeon microarchitecture released in 2005.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Woodcrest",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "The first Intel Xeon processor based on the Core microarchitecture, released in 2006.",
+    "gen": "Xeon",
+    "year": 2005
+  },
+  {
+    "word": "Woodinville",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2009 Intel chipset for the Nehalem microarchitecture, supporting LGA1366 processors.",
+    "gen": "Chipset",
+    "year": 2009
+  },
+  {
+    "word": "Woodridge",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A codename for an Intel chipset, released around 2005.",
+    "gen": "Chipset",
+    "year": 2005
+  },
+  {
+    "word": "Woodruff",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC family codename from 2003.",
+    "gen": "Atom",
+    "year": 2003
+  },
+  {
+    "word": "Woodsworth",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A low-power Atom SoC for microservers and storage systems, introduced in 2012.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Wyloway",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A 2006 Intel Atom platform codename for ultra-mobile PCs, focusing on low power consumption.",
+    "gen": "Atom",
+    "year": 2006
+  },
+  {
+    "word": "Yonah",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "The first Intel Core microarchitecture, released in 2004, designed for mobile computing.",
+    "gen": "1",
+    "year": 2004
+  },
+  {
+    "word": "Zanesville",
+    "syl": 2,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2011 chipset for Intel Atom processors, supporting platform features like USB and SATA.",
+    "gen": "Chipset",
+    "year": 2011
+  },
+  {
+    "word": "Zappa",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Intel chipset codenamed Zappa, released in 1995, supported the Pentium processor.",
+    "gen": "Chipset",
+    "year": 1995
+  },
+  {
+    "word": "Zellwood",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A 2012 Intel Atom processor family, part of the Cedar Trail platform for netbooks and nettops.",
+    "gen": "Atom",
+    "year": 2012
+  },
+  {
+    "word": "Zion",
+    "syl": 2,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Early Xeon processor family released in 2002, marking a key point in Intel's server CPU development.",
+    "gen": "Xeon",
+    "year": 2002
+  },
+  {
+    "word": "Zoar",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A low-power Intel Atom SoC family codename from 2007.",
+    "gen": "Atom",
+    "year": 2007
+  }
+]

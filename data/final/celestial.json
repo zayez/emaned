@@ -1,0 +1,4247 @@
+[
+  {
+    "word": "Vega",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Brightest star in the constellation Lyra.",
+    "type": "star"
+  },
+  {
+    "word": "Cassiopeia",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Queen-shaped constellation of the northern sky.",
+    "type": "constellation"
+  },
+  {
+    "word": "Europa",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "scientific"
+    ],
+    "origin": "Icy Galilean moon of Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Rigel",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "austere"
+    ],
+    "origin": "Blue supergiant, foot of Orion.",
+    "type": "star"
+  },
+  {
+    "word": "Betelgeuse",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "luminous"
+    ],
+    "origin": "Red supergiant in the shoulder of Orion.",
+    "type": "star"
+  },
+  {
+    "word": "Triton",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Largest moon of Neptune, retrograde orbit.",
+    "type": "moon"
+  },
+  {
+    "word": "Andromeda",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Nearest large spiral galaxy to the Milky Way.",
+    "type": "constellation"
+  },
+  {
+    "word": "Proxima",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Nearest known star beyond the Sun.",
+    "type": "star"
+  },
+  {
+    "word": "Carina",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Keel of the ship Argo; southern constellation.",
+    "type": "constellation"
+  },
+  {
+    "word": "Oberon",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Outermost major moon of Uranus.",
+    "type": "moon"
+  },
+  {
+    "word": "Helix",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "Planetary nebula in Aquarius.",
+    "type": "nebula"
+  },
+  {
+    "word": "Crab",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "ominous",
+      "scientific"
+    ],
+    "origin": "Supernova remnant in Taurus (M1).",
+    "type": "nebula"
+  },
+  {
+    "word": "Sun",
+    "syl": 1,
+    "len": 3,
+    "era": "timeless",
+    "vibes": [
+      "luminous"
+    ],
+    "origin": "The central star of the solar system around which the Earth orbits.",
+    "type": "star"
+  },
+  {
+    "word": "Sirius",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The brightest star in the night sky, known as the Dog Star and central to the agricultural calendars of ancient Egypt.",
+    "type": "star"
+  },
+  {
+    "word": "Canopus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The second-brightest star in the night sky, named after the navigator of Menelaus in Greek mythology.",
+    "type": "star"
+  },
+  {
+    "word": "Alpha Centauri",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "The closest star system to the Sun, named as the brightest star in the constellation Centaurus.",
+    "type": "star"
+  },
+  {
+    "word": "Arcturus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The brightest star in the constellation Boötes, its name is derived from Greek meaning guardian of the bear.",
+    "type": "star"
+  },
+  {
+    "word": "Capella",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Auriga, traditionally representing a small goat carried by a shepherd.",
+    "type": "star"
+  },
+  {
+    "word": "Procyon",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Canis Minor, its name is derived from the Greek for before the dog.",
+    "type": "star"
+  },
+  {
+    "word": "Achernar",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The name derives from the Arabic term for the end of the river, marking the southern extremity of the constellation Eridanus.",
+    "type": "star"
+  },
+  {
+    "word": "Hadar",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The second brightest star in the constellation Centaurus, derived from an Arabic term meaning ground or floor.",
+    "type": "star"
+  },
+  {
+    "word": "Altair",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "luminous"
+    ],
+    "origin": "The brightest star in the constellation Aquila, its name is derived from the Arabic phrase for the flying eagle.",
+    "type": "star"
+  },
+  {
+    "word": "Acrux",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Crux, serving as a primary navigational marker in the Southern Hemisphere.",
+    "type": "star"
+  },
+  {
+    "word": "Aldebaran",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous",
+      "ominous"
+    ],
+    "origin": "Known as the eye of the bull in the constellation Taurus, this orange giant was traditionally associated with war and misfortune.",
+    "type": "star"
+  },
+  {
+    "word": "Antares",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Known as the heart of the Scorpion in Scorpius, this red supergiant is often called the rival of Mars due to its similar reddish hue.",
+    "type": "star"
+  },
+  {
+    "word": "Spica",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Virgo, representing the ear of grain held by the maiden.",
+    "type": "star"
+  },
+  {
+    "word": "Pollux",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The brighter of the two Gemini twins in Greek mythology, representing the immortal son of Zeus.",
+    "type": "star"
+  },
+  {
+    "word": "Fomalhaut",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Known as the Mouth of the Fish in the constellation Piscis Austrinus, this star has been observed for millennia by various cultures.",
+    "type": "star"
+  },
+  {
+    "word": "Deneb",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Cygnus, representing the tail of the swan in Arabic astronomy.",
+    "type": "star"
+  },
+  {
+    "word": "Mimosa",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Also known as Beta Crucis, this blue giant is the second-brightest star in the Southern Cross constellation.",
+    "type": "star"
+  },
+  {
+    "word": "Regulus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The brightest star in the constellation Leo, traditionally representing the heart of the lion.",
+    "type": "star"
+  },
+  {
+    "word": "Adhara",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The second brightest star in the constellation Canis Major, derived from the Arabic phrase for the virgins.",
+    "type": "star"
+  },
+  {
+    "word": "Castor",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "One of the twin stars in the constellation Gemini, named after the mortal brother in Greek mythology.",
+    "type": "star"
+  },
+  {
+    "word": "Shaula",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "The star marks the stinger of the constellation Scorpius, its name derived from the Arabic word for the raised tail of a scorpion.",
+    "type": "star"
+  },
+  {
+    "word": "Gacrux",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Gamma Crucis is the closest red giant star to the solar system and forms the top of the Southern Cross constellation.",
+    "type": "star"
+  },
+  {
+    "word": "Bellatrix",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A blue giant star in the constellation Orion, whose name translates from Latin as the female warrior.",
+    "type": "star"
+  },
+  {
+    "word": "Elnath",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "The second brightest star in Taurus, its name derives from the Arabic for the one who butts, referring to the bull's horns.",
+    "type": "star"
+  },
+  {
+    "word": "Miaplacidus",
+    "syl": 5,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The second-brightest star in the constellation Carina, its name combines Latin and Latinized Greek to mean peaceful waters.",
+    "type": "star"
+  },
+  {
+    "word": "Alnilam",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A massive blue supergiant forming the central star of Orion's Belt, its name derived from the Arabic for string of pearls.",
+    "type": "star"
+  },
+  {
+    "word": "Alnair",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Derived from the Arabic Al-Nayyir, meaning the bright one, this star is the primary luminary in the constellation Grus.",
+    "type": "star"
+  },
+  {
+    "word": "Alnitak",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An Arabic name meaning the girdle, designating the easternmost star in the belt of Orion.",
+    "type": "star"
+  },
+  {
+    "word": "Alioth",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The brightest star in the constellation Ursa Major, marking the base of the tail of the Great Bear.",
+    "type": "star"
+  },
+  {
+    "word": "Dubhe",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The brightest star in the constellation Ursa Major, originating from the Arabic phrase for the back of the Great Bear.",
+    "type": "star"
+  },
+  {
+    "word": "Mirfak",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The brightest star in the constellation Perseus, its name is derived from the Arabic phrase for the elbow of the Pleiades.",
+    "type": "star"
+  },
+  {
+    "word": "Wezen",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A bright yellow-white supergiant in the constellation Canis Major, whose name derives from the Arabic word for weight.",
+    "type": "star"
+  },
+  {
+    "word": "Sargas",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A bright star system in the constellation Scorpius, traditionally known as Theta Scorpii.",
+    "type": "star"
+  },
+  {
+    "word": "Kaus Australis",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Sagittarius, representing the southern part of the Archer's bow.",
+    "type": "star"
+  },
+  {
+    "word": "Avior",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A bright star in the constellation Carina, formerly part of the historical constellation Argo Navis.",
+    "type": "star"
+  },
+  {
+    "word": "Alkaid",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An Arabic name meaning the leader of the daughters of the bier, referring to its position at the end of the Big Dipper handle.",
+    "type": "star"
+  },
+  {
+    "word": "Menkalinan",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Derived from the Arabic Al-Mankib dhi l-Inan, meaning the shoulder of the rein-holder in the constellation Auriga.",
+    "type": "star"
+  },
+  {
+    "word": "Atria",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The brightest star in the southern constellation Triangulum Australe, serving as a navigational reference.",
+    "type": "star"
+  },
+  {
+    "word": "Alhena",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A star in the constellation Gemini whose name derives from the Arabic term for the brand on a camel's neck.",
+    "type": "star"
+  },
+  {
+    "word": "Peacock",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Peacock is the brightest star in the southern constellation Pavo, named for the bird associated with the goddess Hera.",
+    "type": "star"
+  },
+  {
+    "word": "Alsephina",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Derived from the Arabic Al-Safinah, meaning the ship, representing a star in the constellation Vela which forms part of the mythical Argo Navis.",
+    "type": "star"
+  },
+  {
+    "word": "Mirzam",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Derived from the Arabic word for the herald or announcer, as it rises before Sirius.",
+    "type": "star"
+  },
+  {
+    "word": "Polaris",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The current northern pole star in the constellation Ursa Minor, serving as a vital navigational beacon for centuries.",
+    "type": "star"
+  },
+  {
+    "word": "Alphard",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "austere"
+    ],
+    "origin": "The brightest star in the constellation Hydra, traditionally known as the Solitary One because of its isolation from other bright stars.",
+    "type": "star"
+  },
+  {
+    "word": "Hamal",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The brightest star in the constellation Aries, its name is derived from the Arabic word for head of the sheep.",
+    "type": "star"
+  },
+  {
+    "word": "Diphda",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A star in the constellation Cetus, its name derives from the Arabic term for the second frog.",
+    "type": "star"
+  },
+  {
+    "word": "Mizar",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A star in the handle of the Big Dipper that forms a famous visual binary system with the star Alcor.",
+    "type": "star"
+  },
+  {
+    "word": "Nunki",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A star in the constellation Sagittarius, historically associated with the Babylonian month of the same name.",
+    "type": "star"
+  },
+  {
+    "word": "Menkent",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Derived from the Arabic phrase al-mankib al-qantauris, meaning the shoulder of the centaur, designating the star in the constellation Centaurus.",
+    "type": "star"
+  },
+  {
+    "word": "Alpheratz",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The brightest star in the constellation Andromeda, traditionally marking the horse's navel in Arabic nomenclature.",
+    "type": "star"
+  },
+  {
+    "word": "Mirach",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A red giant star marking the girdle of the Andromeda constellation.",
+    "type": "star"
+  },
+  {
+    "word": "Rasalhague",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "The name is derived from the Arabic phrase ra's al-hawwa, meaning the head of the serpent charmer.",
+    "type": "star"
+  },
+  {
+    "word": "Algieba",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A multiple star system in the constellation Leo, its name derives from the Arabic term for the forehead of the lion.",
+    "type": "star"
+  },
+  {
+    "word": "Kochab",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A bright star in the constellation Ursa Minor, historically serving as the North Star between 1500 BC and 500 AD.",
+    "type": "star"
+  },
+  {
+    "word": "Saiph",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The name derives from the Arabic term for sword, marking the lower right star in the constellation Orion.",
+    "type": "star"
+  },
+  {
+    "word": "Denebola",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A star in the constellation Leo representing the tail of the lion, derived from the Arabic phrase meaning the lion's tail.",
+    "type": "star"
+  },
+  {
+    "word": "Algol",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A bright star in the constellation Perseus representing the head of Medusa, known historically as the Demon Star due to its periodic dimming.",
+    "type": "star"
+  },
+  {
+    "word": "Tiaki",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Tiaki is the Māori name for the star Delta Reticuli, representing the concept of guardianship or protection.",
+    "type": "star"
+  },
+  {
+    "word": "Muhlifain",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A star system in the constellation Centaurus, its name derives from the Arabic term for the two swearers.",
+    "type": "star"
+  },
+  {
+    "word": "Aspidiske",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A star in the constellation Carina, its name derived from the Greek word for a small shield.",
+    "type": "star"
+  },
+  {
+    "word": "Suhail",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A star in the constellation Vela, its name originates from the Arabic term for the star Canopus, signifying a bright celestial guide.",
+    "type": "star"
+  },
+  {
+    "word": "Alphecca",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The brightest star in the constellation Corona Borealis, representing the jewel of the crown.",
+    "type": "star"
+  },
+  {
+    "word": "Mintaka",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The rightmost star in Orion's belt, representing the hunter's girdle in Arabic astronomical tradition.",
+    "type": "star"
+  },
+  {
+    "word": "Sadr",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An Arabic name meaning chest, it marks the center of the constellation Cygnus.",
+    "type": "star"
+  },
+  {
+    "word": "Eltanin",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The brightest star in the constellation Draco, representing the dragon's head in Arabic astronomical tradition.",
+    "type": "star"
+  },
+  {
+    "word": "Schedar",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The brightest star in the constellation Cassiopeia, representing the queen's breast in Arabic tradition.",
+    "type": "star"
+  },
+  {
+    "word": "Naos",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The brightest star in the constellation Puppis, its name is derived from the Greek word for a temple or dwelling of a deity.",
+    "type": "star"
+  },
+  {
+    "word": "Almach",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A bright multiple star system in the constellation Andromeda, derived from the Arabic name for a desert lynx.",
+    "type": "star"
+  },
+  {
+    "word": "Caph",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A variable star in the constellation Cassiopeia derived from the Arabic word for the palm of a hand.",
+    "type": "star"
+  },
+  {
+    "word": "Izar",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A binary star system in the constellation Boötes, historically referred to as Pulcherrima or the most beautiful.",
+    "type": "star"
+  },
+  {
+    "word": "Uridim",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An ancient Sumerian term for a mythological creature often translated as mad dog or lion-man, associated with the constellation Lupus.",
+    "type": "star"
+  },
+  {
+    "word": "Dschubba",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An Arabic name meaning the forehead of the scorpion, representing the star located in the constellation Scorpius.",
+    "type": "star"
+  },
+  {
+    "word": "Larawag",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "luminous"
+    ],
+    "origin": "A star in the constellation Scorpius known in Philippine astronomy as the herald of the harvest.",
+    "type": "star"
+  },
+  {
+    "word": "Merak",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A star in the Ursa Major constellation whose name is derived from the Arabic word for loin.",
+    "type": "star"
+  },
+  {
+    "word": "Ankaa",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The brightest star in the constellation Phoenix, representing the phoenix rising from its ashes.",
+    "type": "star"
+  },
+  {
+    "word": "Girtab",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "The name Girtab is derived from the Sumerian word for scorpion and designates the star Lambda Scorpii in the constellation Scorpius.",
+    "type": "star"
+  },
+  {
+    "word": "Enif",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The brightest star in the constellation Pegasus, representing the animal's nose.",
+    "type": "star"
+  },
+  {
+    "word": "Scheat",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A red giant star marking the upper-left corner of the Great Square of Pegasus, derived from the Arabic word for the leg.",
+    "type": "star"
+  },
+  {
+    "word": "Sabik",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An Arabic name meaning the preceding one, representing the star Eta Ophiuchi in the constellation of the Serpent Bearer.",
+    "type": "star"
+  },
+  {
+    "word": "Phecda",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A star in the constellation Ursa Major, its name is derived from the Arabic phrase for the thigh of the bear.",
+    "type": "star"
+  },
+  {
+    "word": "Aludra",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A blue supergiant star in the constellation Canis Major, forming part of the figure of the Great Dog.",
+    "type": "star"
+  },
+  {
+    "word": "Alderamin",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An Arabic name meaning the right arm, referencing its position within the constellation Cepheus.",
+    "type": "star"
+  },
+  {
+    "word": "Markeb",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An Arabic name meaning the ship, traditionally designating the hull of the constellation Argo Navis.",
+    "type": "star"
+  },
+  {
+    "word": "Tiansi",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A star in the Chinese constellation of the Heavenly Stable, representing the official responsible for the celestial horses.",
+    "type": "star"
+  },
+  {
+    "word": "Markab",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An Arabic name meaning the saddle of the horse, representing the star Alpha Pegasi in the constellation Pegasus.",
+    "type": "star"
+  },
+  {
+    "word": "Aljanah",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Derived from the Arabic word for wing, this star marks the right wing of the constellation Cygnus.",
+    "type": "star"
+  },
+  {
+    "word": "Acrab",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A star in the constellation Scorpius, its name is derived from the Arabic word for scorpion.",
+    "type": "star"
+  },
+  {
+    "word": "SK 69",
+    "syl": 1,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A blue supergiant star located in the Large Magellanic Cloud, most famous as the progenitor of the supernova SN 1987A.",
+    "type": "star"
+  },
+  {
+    "word": "Antlia",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Named by Nicolas-Louis de Lacaille in the 18th century to represent the air pump used by Robert Boyle.",
+    "type": "constellation"
+  },
+  {
+    "word": "Apus",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Representing the bird of paradise, this constellation was introduced by Petrus Plancius in the late sixteenth century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Aquarius",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "An ancient zodiac constellation representing a water-bearer pouring a stream into the mouth of the Southern Fish.",
+    "type": "constellation"
+  },
+  {
+    "word": "Aquila",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "A constellation representing the eagle that carried Zeus's thunderbolts in Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Ara",
+    "syl": 2,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient southern constellation representing the altar where the gods swore an oath before the war against the Titans.",
+    "type": "constellation"
+  },
+  {
+    "word": "Aries",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Representing the golden ram from Greek mythology whose fleece was sought by Jason and the Argonauts.",
+    "type": "constellation"
+  },
+  {
+    "word": "Auriga",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An ancient constellation representing a charioteer, often associated with the mythological figure Erichthonius of Athens.",
+    "type": "constellation"
+  },
+  {
+    "word": "Boötes",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient constellation depicted as a herdsman driving the Great Bear around the celestial pole.",
+    "type": "constellation"
+  },
+  {
+    "word": "Caelum",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A faint constellation in the southern sky introduced by Nicolas-Louis de Lacaille in the 18th century to represent a sculptor's chisel.",
+    "type": "constellation"
+  },
+  {
+    "word": "Camelopardalis",
+    "syl": 6,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A faint constellation representing a giraffe introduced by Petrus Plancius in the early 17th century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Cancer",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A faint constellation representing the crab sent by Hera to hinder Hercules during his battle with the Hydra.",
+    "type": "constellation"
+  },
+  {
+    "word": "Canes Venatici",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Representing the hunting dogs of Asterion and Chara held by Boötes the Herdsman, this constellation was introduced by Johannes Hevelius in the 17th century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Canis Major",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "A prominent constellation representing the greater dog following the hunter Orion across the night sky.",
+    "type": "constellation"
+  },
+  {
+    "word": "Canis Minor",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A small constellation representing the lesser of Orion's two hunting dogs, containing the bright star Procyon.",
+    "type": "constellation"
+  },
+  {
+    "word": "Capricornus",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient constellation represented by a sea-goat, a hybrid creature from Babylonian mythology associated with the winter solstice.",
+    "type": "constellation"
+  },
+  {
+    "word": "Centaurus",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A large southern constellation representing a centaur, a creature from Greek mythology with the upper body of a human and the lower body of a horse.",
+    "type": "constellation"
+  },
+  {
+    "word": "Cepheus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the legendary King of Aethiopia in Greek mythology, husband of Cassiopeia and father of Andromeda.",
+    "type": "constellation"
+  },
+  {
+    "word": "Cetus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A large constellation in the southern sky representing the sea monster sent by Poseidon to devour Andromeda.",
+    "type": "constellation"
+  },
+  {
+    "word": "Chamaeleon",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A faint southern constellation named by Dutch navigators in the late 16th century after the lizard-like reptile.",
+    "type": "constellation"
+  },
+  {
+    "word": "Circinus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A faint southern constellation named by Nicolas-Louis de Lacaille in the 18th century after the drafting compass.",
+    "type": "constellation"
+  },
+  {
+    "word": "Columba",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A minor constellation introduced in the late 16th century, representing the dove that returned to Noah with an olive branch.",
+    "type": "constellation"
+  },
+  {
+    "word": "Coma Berenices",
+    "syl": 6,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Named for the hair of Queen Berenice II of Egypt, which she sacrificed as a votive offering for her husband's safe return from war.",
+    "type": "constellation"
+  },
+  {
+    "word": "Corona Australis",
+    "syl": 6,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A small southern constellation representing a crown, often associated with the myths of Sagittarius or Dionysus.",
+    "type": "constellation"
+  },
+  {
+    "word": "Corona Borealis",
+    "syl": 7,
+    "len": 15,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A small constellation representing the crown given by Dionysus to the Cretan princess Ariadne.",
+    "type": "constellation"
+  },
+  {
+    "word": "Corvus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A small constellation representing a crow or raven in Greek mythology, associated with the god Apollo.",
+    "type": "constellation"
+  },
+  {
+    "word": "Crater",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Representing a cup or goblet in the sky, associated in Greek mythology with the chalice of Apollo.",
+    "type": "constellation"
+  },
+  {
+    "word": "Crux",
+    "syl": 1,
+    "len": 4,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Small but prominent constellation in the southern sky shaped like a cross and used for navigation.",
+    "type": "constellation"
+  },
+  {
+    "word": "Cygnus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A prominent northern constellation representing a swan, associated with the Greek myths of Zeus and Leda.",
+    "type": "constellation"
+  },
+  {
+    "word": "Delphinus",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small northern constellation representing the dolphin that carried the poet Arion to safety in Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Dorado",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A constellation in the southern sky representing the dolphinfish, first introduced by Dutch navigators in the late sixteenth century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Draco",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A large circumpolar constellation in the northern sky representing the dragon Ladon from Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Equuleus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A small northern constellation representing a little horse, cataloged by Ptolemy in the second century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Eridanus",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A sprawling constellation representing the river into which Phaethon fell after losing control of the sun chariot of Helios.",
+    "type": "constellation"
+  },
+  {
+    "word": "Fornax",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Named by Nicolas-Louis de Lacaille in the 18th century to represent a chemical furnace used in alchemical experiments.",
+    "type": "constellation"
+  },
+  {
+    "word": "Gemini",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Zodiacal constellation representing the twins Castor and Pollux from Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Grus",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A southern constellation introduced by Petrus Plancius in the late sixteenth century, representing a crane.",
+    "type": "constellation"
+  },
+  {
+    "word": "Hercules",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Named for the hero of Greek mythology, this constellation represents the son of Zeus known for his twelve labors.",
+    "type": "constellation"
+  },
+  {
+    "word": "Horologium",
+    "syl": 5,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Named by Nicolas-Louis de Lacaille in the 18th century to represent a pendulum clock.",
+    "type": "constellation"
+  },
+  {
+    "word": "Hydra",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "The largest constellation in the sky, representing the multi-headed serpent defeated by Heracles in Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Hydrus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A constellation in the southern sky representing a sea serpent, introduced by Petrus Plancius in the late sixteenth century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Indus",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A constellation in the southern sky introduced by Petrus Plancius in the late 16th century, representing the indigenous peoples encountered during European exploration.",
+    "type": "constellation"
+  },
+  {
+    "word": "Lacerta",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A faint constellation introduced by Johannes Hevelius in 1687, representing a lizard.",
+    "type": "constellation"
+  },
+  {
+    "word": "Leo",
+    "syl": 2,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "A prominent constellation of the zodiac representing the Nemean Lion slain by Heracles.",
+    "type": "constellation"
+  },
+  {
+    "word": "Leo Minor",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A faint northern constellation introduced by Johannes Hevelius in the 17th century to represent a smaller lion companion to Leo.",
+    "type": "constellation"
+  },
+  {
+    "word": "Lepus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A minor constellation located south of the celestial equator, representing a hare pursued by the hunter Orion.",
+    "type": "constellation"
+  },
+  {
+    "word": "Libra",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A zodiacal constellation representing the scales held by the goddess of justice, Astraea.",
+    "type": "constellation"
+  },
+  {
+    "word": "Lupus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A southern constellation representing a wolf, historically associated with the Centaur in Greek astronomy.",
+    "type": "constellation"
+  },
+  {
+    "word": "Lynx",
+    "syl": 1,
+    "len": 4,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Constellation introduced in the late 17th century by astronomer Johannes Hevelius, named for the sharp-eyed wild cat.",
+    "type": "constellation"
+  },
+  {
+    "word": "Lyra",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Small constellation representing the lyre played by Orpheus in Greek mythology, associated with his divine musical talent.",
+    "type": "constellation"
+  },
+  {
+    "word": "Mensa",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Named by Nicolas-Louis de Lacaille in the 18th century to represent Table Mountain in South Africa.",
+    "type": "constellation"
+  },
+  {
+    "word": "Microscopium",
+    "syl": 5,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A faint constellation in the southern sky introduced by Nicolas-Louis de Lacaille in the 18th century to represent the microscope.",
+    "type": "constellation"
+  },
+  {
+    "word": "Monoceros",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A faint constellation representing the mythical unicorn, introduced by astronomer Petrus Plancius in the early 17th century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Musca",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific"
+    ],
+    "origin": "A small constellation in the southern sky named by Petrus Plancius to represent a fly.",
+    "type": "constellation"
+  },
+  {
+    "word": "Norma",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Defined by Nicolas Louis de Lacaille in the 18th century, representing a carpenter's square.",
+    "type": "constellation"
+  },
+  {
+    "word": "Octans",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Defined by Nicolas-Louis de Lacaille in the 18th century, this constellation represents the octant instrument used for celestial navigation.",
+    "type": "constellation"
+  },
+  {
+    "word": "Ophiuchus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient constellation representing a serpent-bearer, often identified with the healer Asclepius from Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Orion",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "A prominent constellation named after a hunter in Greek mythology who was placed among the stars by Zeus.",
+    "type": "constellation"
+  },
+  {
+    "word": "Pavo",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Latin for peacock, this southern constellation represents the bird associated with the goddess Hera in Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Pegasus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A major northern constellation named after the winged horse of Greek mythology that sprang from the blood of Medusa.",
+    "type": "constellation"
+  },
+  {
+    "word": "Perseus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Named after the Greek hero who slew the Gorgon Medusa, this constellation represents the figure holding her severed head.",
+    "type": "constellation"
+  },
+  {
+    "word": "Phoenix",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A constellation in the southern sky named after the immortal bird of Greek mythology that rises from its own ashes.",
+    "type": "constellation"
+  },
+  {
+    "word": "Pictor",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A faint southern constellation named by Nicolas-Louis de Lacaille in the 18th century as Equuleus Pictoris, representing an artist's easel.",
+    "type": "constellation"
+  },
+  {
+    "word": "Pisces",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A large zodiacal constellation representing two fish tied together by a cord, rooted in Babylonian and Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Piscis Austrinus",
+    "syl": 5,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A southern constellation representing the Southern Fish, often depicted as drinking water from the stream poured by Aquarius.",
+    "type": "constellation"
+  },
+  {
+    "word": "Puppis",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The stern of the mythological ship Argo Navis, depicted as a constellation in the southern sky.",
+    "type": "constellation"
+  },
+  {
+    "word": "Pyxis",
+    "syl": 2,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Representing a mariner's compass, this constellation was introduced by Nicolas Louis de Lacaille in the 18th century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Reticulum",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Constellation in the southern sky named by Nicolas Louis de Lacaille after a reticle used in telescopes.",
+    "type": "constellation"
+  },
+  {
+    "word": "Sagitta",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "A small northern constellation representing the arrow shot by Hercules or Cupid.",
+    "type": "constellation"
+  },
+  {
+    "word": "Sagittarius",
+    "syl": 5,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Represented by the centaur archer in Greek mythology, this constellation marks the direction of the center of the Milky Way galaxy.",
+    "type": "constellation"
+  },
+  {
+    "word": "Scorpius",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Zodiacal constellation representing the scorpion that stung the hunter Orion in Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Sculptor",
+    "syl": 2,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A faint southern constellation named by Nicolas Louis de Lacaille in the eighteenth century to represent an artist's workshop.",
+    "type": "constellation"
+  },
+  {
+    "word": "Scutum",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "Named by Johannes Hevelius in 1684 to commemorate the victory of King John III Sobieski at the Battle of Vienna.",
+    "type": "constellation"
+  },
+  {
+    "word": "Serpens",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "The only constellation divided into two non-contiguous parts, representing a serpent held by the healer Ophiuchus.",
+    "type": "constellation"
+  },
+  {
+    "word": "Sextans",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A faint constellation created by Johannes Hevelius in the 17th century to commemorate his sextant instrument.",
+    "type": "constellation"
+  },
+  {
+    "word": "Taurus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Ancient zodiac constellation representing the bull, associated with the myth of Zeus abducting Europa.",
+    "type": "constellation"
+  },
+  {
+    "word": "Telescopium",
+    "syl": 5,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A faint southern constellation named by Nicolas-Louis de Lacaille in the 18th century to commemorate the invention of the telescope.",
+    "type": "constellation"
+  },
+  {
+    "word": "Triangulum",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A small northern constellation named for its distinct triangular shape, noted by Ptolemy in the second century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Triangulum Australe",
+    "syl": 6,
+    "len": 19,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A small southern constellation named by Petrus Plancius in the late sixteenth century to represent a surveyor's triangle.",
+    "type": "constellation"
+  },
+  {
+    "word": "Tucana",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A constellation in the southern sky representing the toucan, introduced by Petrus Plancius in the late sixteenth century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Ursa Major",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A prominent northern constellation representing the Great Bear in Greek mythology, often associated with the nymph Callisto.",
+    "type": "constellation"
+  },
+  {
+    "word": "Ursa Minor",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A constellation in the northern sky containing the Little Dipper and the star Polaris, representing the son of Callisto in Greek mythology.",
+    "type": "constellation"
+  },
+  {
+    "word": "Vela",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Latin for the sails of a ship, representing the sails of the mythical Argo Navis constellation.",
+    "type": "constellation"
+  },
+  {
+    "word": "Virgo",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A large zodiacal constellation associated with various harvest goddesses in antiquity, most notably Astraea or Demeter.",
+    "type": "constellation"
+  },
+  {
+    "word": "Volans",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A constellation in the southern sky representing a flying fish, introduced by Petrus Plancius in the late 16th century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Vulpecula",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Latin for little fox, this faint constellation was introduced by Johannes Hevelius in the seventeenth century.",
+    "type": "constellation"
+  },
+  {
+    "word": "Phobos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "The larger of the two moons of Mars, named after the Greek personification of fear and panic who accompanied his father Ares into battle.",
+    "type": "moon"
+  },
+  {
+    "word": "Deimos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Named after the Greek personification of terror and dread, who accompanied his father Ares into battle.",
+    "type": "moon"
+  },
+  {
+    "word": "Ganymede",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "The largest moon of Jupiter, named after the Trojan prince abducted by Zeus.",
+    "type": "moon"
+  },
+  {
+    "word": "Callisto",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A Galilean moon of Jupiter, named after a nymph from Greek mythology who was transformed into a bear.",
+    "type": "moon"
+  },
+  {
+    "word": "Amalthea",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A nymph who nurtured the infant Zeus with goat's milk in Greek mythology, later honored as a moon orbiting Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Himalia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "One of the moons of Jupiter, named after a nymph pursued by Zeus in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Elara",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small irregular moon of Jupiter named after a lover of Zeus in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Pasiphae",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after the daughter of Helios in Greek mythology who was the mother of the Minotaur.",
+    "type": "moon"
+  },
+  {
+    "word": "Sinope",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a nymph in Greek mythology who was abducted by Zeus and taken to the region of Paphlagonia.",
+    "type": "moon"
+  },
+  {
+    "word": "Lysithea",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of Zeus's lovers in Greek mythology, this small, irregular moon orbits Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Carme",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A small retrograde moon of Jupiter named after a Cretan nymph in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Ananke",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named for the Greek personification of inevitability and necessity, this retrograde moon of Jupiter is part of an outer group of satellites.",
+    "type": "moon"
+  },
+  {
+    "word": "Leda",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named for the mother of Helen of Troy in Greek mythology, this small moon orbits Jupiter within the Himalia group.",
+    "type": "moon"
+  },
+  {
+    "word": "Thebe",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a nymph in Greek mythology, this small moon of Jupiter was discovered by the Voyager 1 probe.",
+    "type": "moon"
+  },
+  {
+    "word": "Adrastea",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named for the Greek nymph who cared for Zeus in his infancy and represents the personification of inevitable retribution.",
+    "type": "moon"
+  },
+  {
+    "word": "Metis",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Titaness of wisdom and deep thought, who was the first wife of Zeus.",
+    "type": "moon"
+  },
+  {
+    "word": "Callirrhoe",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the daughter of the river god Achelous in Greek mythology, this small moon orbits Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Themisto",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named for a daughter of the river god Inachus in Greek mythology, this small moon of Jupiter was discovered in 1975 and later lost before being recovered in 2000.",
+    "type": "moon"
+  },
+  {
+    "word": "Megaclite",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after a figure from Greek mythology who was one of the many lovers of Zeus.",
+    "type": "moon"
+  },
+  {
+    "word": "Taygete",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Pleiades, the seven daughters of the Titan Atlas in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Chaldene",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small prograde irregular moon of Jupiter named after a lover of Zeus in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Harpalyke",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a daughter of Harpalycus in Greek mythology who was known for her exceptional speed and martial prowess.",
+    "type": "moon"
+  },
+  {
+    "word": "Kalyke",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after a nymph in Greek mythology who was a daughter of Aeolus and mother of Endymion by Zeus.",
+    "type": "moon"
+  },
+  {
+    "word": "Iocaste",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A small retrograde moon of Jupiter named after the mother and wife of Oedipus in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Erinome",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after a figure from Greek mythology, this small, irregular retrograde moon orbits Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Isonoe",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small moon of Jupiter named after one of the Danaides in Greek mythology who was a lover of Zeus.",
+    "type": "moon"
+  },
+  {
+    "word": "Praxidike",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Greek goddess of justice and oaths, this moon orbits Jupiter as part of the Ananke group.",
+    "type": "moon"
+  },
+  {
+    "word": "Autonoe",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after one of the daughters of Cadmus and Harmonia in Greek mythology, this small irregular moon orbits Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Thyone",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "One of the moons of Jupiter, named after a nymph from Greek mythology who was the mother of Dionysus.",
+    "type": "moon"
+  },
+  {
+    "word": "Hermippe",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after a figure from Greek mythology who was a lover of Zeus and mother of Orchomenus.",
+    "type": "moon"
+  },
+  {
+    "word": "Aitne",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A small moon of Jupiter named after the Sicilian nymph associated with Mount Etna.",
+    "type": "moon"
+  },
+  {
+    "word": "Eurydome",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A moon of Jupiter named after a figure from Greek mythology, often identified as one of the Charites or Graces.",
+    "type": "moon"
+  },
+  {
+    "word": "Euanthe",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Graces in Greek mythology, this small moon orbits Jupiter in a retrograde path.",
+    "type": "moon"
+  },
+  {
+    "word": "Euporie",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Named after one of the Horae in Greek mythology, representing the season of abundance and fruitfulness.",
+    "type": "moon"
+  },
+  {
+    "word": "Orthosie",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "One of the minor moons of Jupiter, named after a daughter of Zeus and Themis in Greek mythology who represented prosperity.",
+    "type": "moon"
+  },
+  {
+    "word": "Sponde",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Horae in Greek mythology, representing the hour of libation.",
+    "type": "moon"
+  },
+  {
+    "word": "Kale",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after one of the Charites in Greek mythology, this moon orbits Jupiter as part of the Carme group.",
+    "type": "moon"
+  },
+  {
+    "word": "Pasithee",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Charites in Greek mythology, who represents the personification of relaxation and meditation.",
+    "type": "moon"
+  },
+  {
+    "word": "Hegemone",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Graces in Greek mythology, this small moon orbits Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Mneme",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "One of the minor moons of Jupiter, named after the Greek muse of memory.",
+    "type": "moon"
+  },
+  {
+    "word": "Aoede",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the three original Muses of Boeotia, representing the Muse of song.",
+    "type": "moon"
+  },
+  {
+    "word": "Thelxinoe",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "One of the Muses in Greek mythology, whose name translates to the mind-soother, and a moon of Jupiter.",
+    "type": "moon"
+  },
+  {
+    "word": "Arche",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named for the Muse of beginnings in Greek mythology, this small retrograde moon of Jupiter was discovered in 2002.",
+    "type": "moon"
+  },
+  {
+    "word": "Kallichore",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "One of the Muse daughters in Greek mythology, this moon of Jupiter is named for the personification of beautiful dance.",
+    "type": "moon"
+  },
+  {
+    "word": "Helike",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A small irregular moon of Jupiter named after a nymph from Greek mythology who served as a nurse to Zeus.",
+    "type": "moon"
+  },
+  {
+    "word": "Carpo",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after one of the Horae in Greek mythology, the goddess of fruit and autumn.",
+    "type": "moon"
+  },
+  {
+    "word": "Eukelade",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Muses in Greek mythology, this small moon orbits Jupiter within the Carme group.",
+    "type": "moon"
+  },
+  {
+    "word": "Cyllene",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after a nymph in Greek mythology, this small moon orbits Jupiter in a retrograde path.",
+    "type": "moon"
+  },
+  {
+    "word": "Kore",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the maiden form of Persephone in Greek mythology, this irregular moon of Jupiter follows a retrograde orbit.",
+    "type": "moon"
+  },
+  {
+    "word": "Herse",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A moon of Jupiter named after a daughter of Cecrops in Greek mythology, who was associated with the morning dew.",
+    "type": "moon"
+  },
+  {
+    "word": "Dia",
+    "syl": 2,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A small, irregular moon of Jupiter named after a minor Greek goddess associated with the sky.",
+    "type": "moon"
+  },
+  {
+    "word": "Eirene",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Named after the Greek goddess of peace and the daughter of Zeus and Themis, representing the state of tranquility.",
+    "type": "moon"
+  },
+  {
+    "word": "Philophrosyne",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Named after the Greek spirit of friendliness and welcome, who was a daughter of Hephaestus.",
+    "type": "moon"
+  },
+  {
+    "word": "Eupheme",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Named for the Greek spirit of praise, acclamation, and good omens, she is the daughter of Hephaestus and Aglaia.",
+    "type": "moon"
+  },
+  {
+    "word": "Valetudo",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A small, irregularly shaped moon of Jupiter named after the Roman goddess of health and hygiene.",
+    "type": "moon"
+  },
+  {
+    "word": "Pandia",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "In Greek mythology, Pandia is the daughter of Zeus and Selene, representing the full moon.",
+    "type": "moon"
+  },
+  {
+    "word": "Ersa",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Named after the daughter of Selene and Zeus in Greek mythology, representing the goddess of dew.",
+    "type": "moon"
+  },
+  {
+    "word": "Mimas",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A small moon of Saturn heavily scarred by the massive Herschel crater, giving it a striking resemblance to a space station.",
+    "type": "moon"
+  },
+  {
+    "word": "Enceladus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous",
+      "austere"
+    ],
+    "origin": "A moon of Saturn named after a giant from Greek mythology who was defeated by Athena and buried under Mount Etna.",
+    "type": "moon"
+  },
+  {
+    "word": "Tethys",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the Greek Titaness of fresh water and wife of Oceanus, this moon of Saturn was discovered by Giovanni Cassini.",
+    "type": "moon"
+  },
+  {
+    "word": "Dione",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "One of the moons of Saturn, named after the Titaness Dione in Greek mythology who was the mother of Aphrodite.",
+    "type": "moon"
+  },
+  {
+    "word": "Rhea",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the Titaness of fertility and motherhood in Greek mythology, this moon of Saturn is the second-largest in its system.",
+    "type": "moon"
+  },
+  {
+    "word": "Titan",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The largest moon of Saturn, named after the race of powerful deities in Greek mythology who preceded the Olympians.",
+    "type": "moon"
+  },
+  {
+    "word": "Hyperion",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Titan of heavenly light in Greek mythology, this irregularly shaped moon orbits Saturn.",
+    "type": "moon"
+  },
+  {
+    "word": "Iapetus",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a Titan from Greek mythology, this moon of Saturn is distinct for its two-toned coloration and massive equatorial ridge.",
+    "type": "moon"
+  },
+  {
+    "word": "Phoebe",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the Titaness of the moon in Greek mythology and discovered by William Henry Pickering in 1898.",
+    "type": "moon"
+  },
+  {
+    "word": "Janus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Roman god of beginnings and transitions who possesses two faces looking in opposite directions.",
+    "type": "moon"
+  },
+  {
+    "word": "Epimetheus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Titan brother of Prometheus in Greek mythology who was known for acting before thinking.",
+    "type": "moon"
+  },
+  {
+    "word": "Helene",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A moon of Saturn named after Helen of Troy, the daughter of Zeus and Leda in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Telesto",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after a daughter of Oceanus and Tethys in Greek mythology, this small moon orbits within the E ring of Saturn.",
+    "type": "moon"
+  },
+  {
+    "word": "Calypso",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small moon of Saturn named after the sea nymph from Greek mythology who held Odysseus captive on her island.",
+    "type": "moon"
+  },
+  {
+    "word": "Atlas",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Inner moon of Saturn named after the Titan of Greek mythology who supported the celestial sphere.",
+    "type": "moon"
+  },
+  {
+    "word": "Prometheus",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Greek Titan who stole fire from the gods, this small moon orbits within the rings of Saturn.",
+    "type": "moon"
+  },
+  {
+    "word": "Pandora",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "In Greek mythology, Pandora was the first woman, created by Hephaestus and known for opening a jar that released evils into the world; the moon is named for this figure.",
+    "type": "moon"
+  },
+  {
+    "word": "Pan",
+    "syl": 1,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named for the Greek god of the wild and shepherds, this small moon orbits within the Encke Gap of Saturn's rings.",
+    "type": "moon"
+  },
+  {
+    "word": "Ymir",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the primordial giant from Norse mythology whose body was used to create the world.",
+    "type": "moon"
+  },
+  {
+    "word": "Paaliaq",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An irregular satellite of Saturn named after a giant from Inuit mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Tarvos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A small irregular moon of Saturn named after a deity from Gaulish mythology often depicted with a bull.",
+    "type": "moon"
+  },
+  {
+    "word": "Ijiraq",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after a shapeshifting creature from Inuit mythology that hides in the shadows to kidnap children.",
+    "type": "moon"
+  },
+  {
+    "word": "Suttungr",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after a giant in Norse mythology who possessed the mead of poetry.",
+    "type": "moon"
+  },
+  {
+    "word": "Kiviuq",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a legendary figure in Inuit mythology who is an eternal wanderer through the Arctic landscape.",
+    "type": "moon"
+  },
+  {
+    "word": "Mundilfari",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A giant in Norse mythology who fathered the sun and moon, named for his role in moving the celestial bodies.",
+    "type": "moon"
+  },
+  {
+    "word": "Albiorix",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a Gallic deity who was considered the king of the world and the sun.",
+    "type": "moon"
+  },
+  {
+    "word": "Skathi",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the jötunn Skadi from Norse mythology, a goddess associated with bow hunting, skiing, and winter.",
+    "type": "moon"
+  },
+  {
+    "word": "Erriapus",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A small, irregular moon of Saturn named after a giant from Gallic mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Siarnaq",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after a giant in Inuit mythology, this irregular moon of Saturn belongs to the Inuit group of satellites.",
+    "type": "moon"
+  },
+  {
+    "word": "Thrymr",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Named after a king of the jötnar in Norse mythology who stole Thor's hammer Mjölnir.",
+    "type": "moon"
+  },
+  {
+    "word": "Narvi",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A small, irregular moon of Saturn named after a giant in Norse mythology who was the son of Loki and Sigyn.",
+    "type": "moon"
+  },
+  {
+    "word": "Methone",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Alkyonides in Greek mythology, this small moon orbits Saturn between Mimas and Enceladus.",
+    "type": "moon"
+  },
+  {
+    "word": "Pallene",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A small natural satellite of Saturn named after one of the Alkyonides in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Polydeuces",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small moon of Saturn named after the twin brother of Castor in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Daphnis",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A small shepherd moon of Saturn named after a pastoral poet from Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Aegir",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Aegir is a moon of Saturn named after a Norse giant who personified the power of the ocean.",
+    "type": "moon"
+  },
+  {
+    "word": "Bebhionn",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A moon of Saturn named after a giantess from Irish mythology who was known for her beauty and tragic end.",
+    "type": "moon"
+  },
+  {
+    "word": "Bergelmir",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after a frost giant in Norse mythology who survived the flood of Ymir's blood by building a wooden box.",
+    "type": "moon"
+  },
+  {
+    "word": "Bestla",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A giantess in Norse mythology and the mother of Odin, for whom this irregular moon of Saturn is named.",
+    "type": "moon"
+  },
+  {
+    "word": "Farbauti",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Named after a jötunn in Norse mythology whose name translates to cruel striker or lightning striker.",
+    "type": "moon"
+  },
+  {
+    "word": "Fenrir",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A moon of Saturn named after the monstrous wolf from Norse mythology destined to devour Odin during Ragnarok.",
+    "type": "moon"
+  },
+  {
+    "word": "Fornjot",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a jötunn from Norse mythology who is described as the king of the land of the giants.",
+    "type": "moon"
+  },
+  {
+    "word": "Hati",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A moon of Saturn named after a wolf in Norse mythology that relentlessly chases the moon Máni across the sky.",
+    "type": "moon"
+  },
+  {
+    "word": "Hyrrokkin",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A giantess in Norse mythology who launched the funeral ship of the god Baldur.",
+    "type": "moon"
+  },
+  {
+    "word": "Kari",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after a giant in Norse mythology who is the personification of the wind, this irregular moon of Saturn was discovered in 2006.",
+    "type": "moon"
+  },
+  {
+    "word": "Loge",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after the fire god from Norse mythology, this is an irregular moon of Saturn.",
+    "type": "moon"
+  },
+  {
+    "word": "Skoll",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A moon of Saturn named after the wolf from Norse mythology that pursues the sun across the sky.",
+    "type": "moon"
+  },
+  {
+    "word": "Surtur",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous",
+      "aggressive"
+    ],
+    "origin": "Named after the fire giant from Norse mythology who leads his kin to battle during Ragnarök.",
+    "type": "moon"
+  },
+  {
+    "word": "Anthe",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A small moon of Saturn named after one of the Alkyonides in Greek mythology who was a daughter of Alkyoneus.",
+    "type": "moon"
+  },
+  {
+    "word": "Jarnsaxa",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive",
+      "austere"
+    ],
+    "origin": "In Norse mythology, Jarnsaxa is a jötunn and one of the mothers of the god Thor's son Magni.",
+    "type": "moon"
+  },
+  {
+    "word": "Greip",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A small irregular moon of Saturn named after a giantess from Norse mythology who was one of the nine daughters of Aegir.",
+    "type": "moon"
+  },
+  {
+    "word": "Tarqeq",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after the Inuit god of the moon who keeps the souls of animals and humans.",
+    "type": "moon"
+  },
+  {
+    "word": "Aegaeon",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A small moon of Saturn named after a Hecatoncheire from Greek mythology who was a son of Uranus and Gaia.",
+    "type": "moon"
+  },
+  {
+    "word": "Gridr",
+    "syl": 1,
+    "len": 5,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A designation for a minor moon or orbital body identified through contemporary satellite surveying.",
+    "type": "moon"
+  },
+  {
+    "word": "Angrboda",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A giantess in Norse mythology and mother of Fenrir, Hel, and Jormungandr, whose name translates to the one who brings grief.",
+    "type": "moon"
+  },
+  {
+    "word": "Skrymir",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A giant from Norse mythology known for his immense size and deceptive illusions.",
+    "type": "moon"
+  },
+  {
+    "word": "Gerd",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a giantess in Norse mythology who became the wife of the god Freyr.",
+    "type": "moon"
+  },
+  {
+    "word": "Eggther",
+    "syl": 2,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A giant in Norse mythology who sits at the edge of the world and plays a harp, often associated with the darkening of the sun.",
+    "type": "moon"
+  },
+  {
+    "word": "Beli",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A moon of Saturn named after a giant from Norse mythology who was slain by the god Freyr.",
+    "type": "moon"
+  },
+  {
+    "word": "Gunnlod",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named for a giantess in Norse mythology who guarded the mead of poetry after being seduced by Odin.",
+    "type": "moon"
+  },
+  {
+    "word": "Thiazzi",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after a giant from Norse mythology who kidnapped the goddess Idunn and was eventually slain by the gods.",
+    "type": "moon"
+  },
+  {
+    "word": "Alvaldi",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A giant from Norse mythology and the father of the goddess Idunn, representing a figure of ancient legend.",
+    "type": "moon"
+  },
+  {
+    "word": "Geirrod",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Named after a jötunn from Norse mythology who attempted to kill the god Thor in his own hall.",
+    "type": "moon"
+  },
+  {
+    "word": "Ariel",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A moon of Uranus named after a mischievous air spirit from Shakespeare's The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Umbriel",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A moon of Uranus named after a gloomy, melancholy spirit from Alexander Pope's poem The Rape of the Lock.",
+    "type": "moon"
+  },
+  {
+    "word": "Titania",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "The largest moon of Uranus, named after the queen of the fairies in Shakespeare's A Midsummer Night's Dream.",
+    "type": "moon"
+  },
+  {
+    "word": "Miranda",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A moon of Uranus named after the daughter of Prospero in Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Cordelia",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An inner moon of Uranus named after the youngest daughter of King Lear in the play by William Shakespeare.",
+    "type": "moon"
+  },
+  {
+    "word": "Ophelia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Inner moon of Uranus named after the tragic heroine in Shakespeare's play Hamlet.",
+    "type": "moon"
+  },
+  {
+    "word": "Bianca",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A small inner moon of Uranus discovered by Voyager 2, named after a character in Shakespeare's The Taming of the Shrew.",
+    "type": "moon"
+  },
+  {
+    "word": "Cressida",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "An inner moon of Uranus named after a character in the Shakespearean play Troilus and Cressida.",
+    "type": "moon"
+  },
+  {
+    "word": "Desdemona",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An inner satellite of Uranus named after the tragic heroine in William Shakespeare's play Othello.",
+    "type": "moon"
+  },
+  {
+    "word": "Juliet",
+    "syl": 3,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A small inner satellite of Uranus named after the heroine of William Shakespeare's tragedy Romeo and Juliet.",
+    "type": "moon"
+  },
+  {
+    "word": "Portia",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A moon of Uranus named after the heroine in William Shakespeare's play The Merchant of Venice.",
+    "type": "moon"
+  },
+  {
+    "word": "Rosalind",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A small moon of Uranus named after the heroine in Shakespeare's comedy As You Like It.",
+    "type": "moon"
+  },
+  {
+    "word": "Belinda",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Belinda is an inner moon of Uranus, discovered in 1986 by the Voyager 2 spacecraft and named after a character in Alexander Pope's poem The Rape of the Lock.",
+    "type": "moon"
+  },
+  {
+    "word": "Puck",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A small inner moon of Uranus named after the mischievous sprite from William Shakespeare's A Midsummer Night's Dream.",
+    "type": "moon"
+  },
+  {
+    "word": "Caliban",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An irregular moon of Uranus named after the monstrous character from William Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Sycorax",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A retrograde irregular moon of Uranus named after the powerful witch from William Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Prospero",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small irregular moon of Uranus named after the powerful sorcerer protagonist in William Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Setebos",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A retrograde irregular moon of Uranus, named after a deity referenced in Shakespeare's The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Stephano",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A small, retrograde irregular moon of Uranus named after a character in Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Trinculo",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A small irregular satellite of Uranus named after the jester character from William Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Francisco",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A small retrograde irregular moon of Uranus named after a character in William Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Margaret",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A small prograde irregular moon of Uranus discovered in 2003 and named after a character in William Shakespeare's Much Ado About Nothing.",
+    "type": "moon"
+  },
+  {
+    "word": "Ferdinand",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An irregular moon of Uranus named after the King of Naples in William Shakespeare's play The Tempest.",
+    "type": "moon"
+  },
+  {
+    "word": "Perdita",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A small moon of Uranus named after the daughter of Leontes and Hermione in Shakespeare's play The Winter's Tale.",
+    "type": "moon"
+  },
+  {
+    "word": "Mab",
+    "syl": 1,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A tiny inner moon of Uranus named after the queen of the fairies in English folklore.",
+    "type": "moon"
+  },
+  {
+    "word": "Cupid",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A small inner moon of Uranus, named after the character from Shakespeare's play Timon of Athens.",
+    "type": "moon"
+  },
+  {
+    "word": "Nereid",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A moon of Neptune named after the sea nymphs of Greek mythology who were daughters of the sea god Nereus.",
+    "type": "moon"
+  },
+  {
+    "word": "Naiad",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Inner moon of Neptune named after the water nymphs of Greek mythology who presided over fountains, wells, and springs.",
+    "type": "moon"
+  },
+  {
+    "word": "Thalassa",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the primeval Greek goddess of the sea, this moon orbits the planet Neptune.",
+    "type": "moon"
+  },
+  {
+    "word": "Despina",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the daughter of Poseidon and Demeter in Greek mythology, this small moon orbits Neptune.",
+    "type": "moon"
+  },
+  {
+    "word": "Galatea",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A moon of Neptune named after the Nereid of Greek mythology who was transformed from a statue into a living woman.",
+    "type": "moon"
+  },
+  {
+    "word": "Larissa",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after a nymph in Greek mythology who was beloved by Poseidon.",
+    "type": "moon"
+  },
+  {
+    "word": "Proteus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named for the shape-shifting sea god of Greek mythology, this moon is the second largest of Neptune.",
+    "type": "moon"
+  },
+  {
+    "word": "Halimede",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Named after one of the Nereids in Greek mythology, this small moon of Neptune orbits in a highly eccentric and inclined path.",
+    "type": "moon"
+  },
+  {
+    "word": "Psamathe",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after one of the Nereids in Greek mythology, this moon of Neptune is a small, irregular satellite.",
+    "type": "moon"
+  },
+  {
+    "word": "Sao",
+    "syl": 1,
+    "len": 3,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A small, irregular moon of Neptune named after a Nereid from Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Laomedeia",
+    "syl": 5,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named for a Nereid in Greek mythology, this moon orbits the planet Neptune.",
+    "type": "moon"
+  },
+  {
+    "word": "Neso",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Named after one of the Nereids in Greek mythology, this moon of Neptune orbits at an extreme distance from the planet.",
+    "type": "moon"
+  },
+  {
+    "word": "Hippocamp",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A small moon of Neptune named after the sea creature from Greek mythology that is half-horse and half-fish.",
+    "type": "moon"
+  },
+  {
+    "word": "Vanth",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named for an Etruscan underworld deity, this moon orbits the trans-Neptunian object Orcus.",
+    "type": "moon"
+  },
+  {
+    "word": "Charon",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Named for the ferryman in Greek mythology who carried souls across the river Acheron to the underworld.",
+    "type": "moon"
+  },
+  {
+    "word": "Nix",
+    "syl": 1,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Named after the Greek personification of the night who preceded the gods of Olympus.",
+    "type": "moon"
+  },
+  {
+    "word": "Kerberos",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A small moon of Pluto named after the three-headed hound that guards the entrance to the underworld in Greek mythology.",
+    "type": "moon"
+  },
+  {
+    "word": "Styx",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Named for the river of the underworld in Greek mythology, this small moon orbits the dwarf planet Pluto.",
+    "type": "moon"
+  },
+  {
+    "word": "Hiʻiaka",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The larger moon of the dwarf planet Haumea, named after the Hawaiian goddess born from the creator's mouth.",
+    "type": "moon"
+  },
+  {
+    "word": "Namaka",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Named after the Hawaiian goddess of the sea, this moon orbits the dwarf planet Haumea.",
+    "type": "moon"
+  },
+  {
+    "word": "Weywot",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Named after a deity from the Tongva people of California, Weywot is the moon of the trans-Neptunian object Quaoar.",
+    "type": "moon"
+  },
+  {
+    "word": "Xiangliu",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Named after the nine-headed venomous serpent of Chinese mythology that brought disaster and floods.",
+    "type": "moon"
+  },
+  {
+    "word": "Dysnomia",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Named for the Greek daemon of lawlessness, this moon orbits the dwarf planet Eris.",
+    "type": "moon"
+  }
+]

@@ -1,0 +1,6769 @@
+[
+  {
+    "word": "Hecate",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Goddess of magic, crossroads, and the night.",
+    "type": "god"
+  },
+  {
+    "word": "Erebus",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Primordial deity of shadow and darkness.",
+    "type": "god"
+  },
+  {
+    "word": "Atalanta",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Swift-footed huntress of Arcadia.",
+    "type": "hero"
+  },
+  {
+    "word": "Hyperion",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Titan of heavenly light; father of Helios.",
+    "type": "god"
+  },
+  {
+    "word": "Selene",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Personification of the moon.",
+    "type": "god"
+  },
+  {
+    "word": "Charon",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "Ferryman of Hades across the Styx.",
+    "type": "god"
+  },
+  {
+    "word": "Perseus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Slayer of Medusa; founder of Mycenae.",
+    "type": "hero"
+  },
+  {
+    "word": "Chimera",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Fire-breathing hybrid of lion, goat, and serpent.",
+    "type": "creature"
+  },
+  {
+    "word": "Thanatos",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "Personification of non-violent death.",
+    "type": "god"
+  },
+  {
+    "word": "Elysium",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Final resting place for the heroic and virtuous.",
+    "type": "place"
+  },
+  {
+    "word": "Typhon",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Monstrous father of all monsters.",
+    "type": "creature"
+  },
+  {
+    "word": "Ariadne",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Cretan princess of the labyrinth thread.",
+    "type": "hero"
+  },
+  {
+    "word": "Acratopotes",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Minor deity of the Greek pantheon known as the drinker of unmixed wine.",
+    "type": "god"
+  },
+  {
+    "word": "Adonis",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure of extreme beauty in Greek mythology representing the cycle of life and death, beloved by Aphrodite.",
+    "type": "god"
+  },
+  {
+    "word": "Aegipan",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A composite deity of Greek mythology depicted with goat-like features, often associated with the god Pan.",
+    "type": "god"
+  },
+  {
+    "word": "Agathodaemon",
+    "syl": 5,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A benevolent spirit in Greek mythology associated with good luck, health, and the harvest.",
+    "type": "god"
+  },
+  {
+    "word": "Agon",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "austere"
+    ],
+    "origin": "The personification of struggle, contest, and the spirit of competition in Greek athletic and intellectual games.",
+    "type": "god"
+  },
+  {
+    "word": "Alastor",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Greek personification of family feuds and the avenger of evil deeds.",
+    "type": "god"
+  },
+  {
+    "word": "Anemoi",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The collective deities of the four winds in Greek mythology, each representing a cardinal direction.",
+    "type": "god"
+  },
+  {
+    "word": "Anytos",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An Arcadian deity associated with the upbringing of the god Despoina at Lycosura.",
+    "type": "god"
+  },
+  {
+    "word": "Apollo",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Greek god of the sun, music, archery, and prophecy, often associated with light and truth.",
+    "type": "god"
+  },
+  {
+    "word": "Apotropaei",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A group of Greek deities or spirits invoked to avert evil, bad luck, or malevolent influences.",
+    "type": "god"
+  },
+  {
+    "word": "Aristaeus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek rustic god of shepherds, cheese-making, beekeeping, and olive growing.",
+    "type": "god"
+  },
+  {
+    "word": "Asclepius",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek god of medicine and healing, famously depicted holding a staff entwined with a serpent.",
+    "type": "god"
+  },
+  {
+    "word": "Astraeus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek titan god of dusk, stars, and planets, and the father of the four winds.",
+    "type": "god"
+  },
+  {
+    "word": "Caerus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The personification of opportunity, luck, and the favorable moment in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Chronos",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Personification of time in Greek philosophy, often depicted as a primordial deity wielding a scythe.",
+    "type": "god"
+  },
+  {
+    "word": "Chrysus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "The personification of gold in Greek mythology, representing wealth and precious metal.",
+    "type": "god"
+  },
+  {
+    "word": "Coeus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "One of the original Titans, associated with the intellect and the celestial axis of the heavens.",
+    "type": "god"
+  },
+  {
+    "word": "Comus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek god of festivity, revelry, and nocturnal entertainment who is often depicted holding a torch.",
+    "type": "god"
+  },
+  {
+    "word": "Crius",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "One of the twelve Titans of Greek mythology, associated with the constellations and the ram.",
+    "type": "god"
+  },
+  {
+    "word": "Cronus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Leader of the Titans and father of the Olympian gods who was overthrown by his son Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Darrhon",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A healing deity from the region of Paeonia often associated with solar radiance and restoration.",
+    "type": "god"
+  },
+  {
+    "word": "Dionysus",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Greek god of wine, winemaking, fertility, ritual madness, and theatre.",
+    "type": "god"
+  },
+  {
+    "word": "Elasioi",
+    "syl": 5,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A group of deities associated with the sun or solar rays in ancient Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Eleos",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The personification of mercy, pity, and compassion in Greek mythology, honored with an altar in the Athenian agora.",
+    "type": "god"
+  },
+  {
+    "word": "Enyalius",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "An ancient Greek deity of war often identified as an epithet for Ares or a separate minor war god.",
+    "type": "god"
+  },
+  {
+    "word": "Epactaeus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A Greek epithet for Poseidon, signifying his role as the god who presides over the shore and the coast.",
+    "type": "god"
+  },
+  {
+    "word": "Epiales",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous"
+    ],
+    "origin": "Greek personification of nightmares who brought terror during sleep.",
+    "type": "god"
+  },
+  {
+    "word": "Epidotes",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An epithet for deities like Zeus or Apollo signifying one who grants prosperity or brings aid.",
+    "type": "god"
+  },
+  {
+    "word": "Epimetheus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Titan brother of Prometheus who accepted Pandora as his wife despite warnings about the consequences.",
+    "type": "god"
+  },
+  {
+    "word": "Epiphron",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The Greek personification of prudence, shrewdness, and careful thought.",
+    "type": "god"
+  },
+  {
+    "word": "Erikepaios",
+    "syl": 6,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "An Orphic epithet for Phanes, representing the primordial, light-bearing creator deity who emerged from the cosmic egg.",
+    "type": "god"
+  },
+  {
+    "word": "Geras",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The personification of old age and the decrepitude that inevitably follows a long life in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Harpocrates",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Hellenistic adaptation of the Egyptian child deity Horus, represented as a god of silence and secrets.",
+    "type": "god"
+  },
+  {
+    "word": "Hecaterus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Minor deity in Greek mythology, often cited as the father of the Dactyls and husband of Anchiale.",
+    "type": "god"
+  },
+  {
+    "word": "Helios",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Personification of the sun in Greek mythology who drove his golden chariot across the sky each day.",
+    "type": "god"
+  },
+  {
+    "word": "Hephaestus",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Greek god of fire, metalworking, and craftsmanship who forged weapons for the Olympians.",
+    "type": "god"
+  },
+  {
+    "word": "Heracles",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Divine hero of Greek mythology known for his immense strength and his completion of twelve legendary labors.",
+    "type": "god"
+  },
+  {
+    "word": "Hesperus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek personification of the Evening Star and the planet Venus at dusk.",
+    "type": "god"
+  },
+  {
+    "word": "Homados",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Personification of the din, clamor, and confusion of battle in ancient Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Homer",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Legendary ancient Greek poet attributed with the composition of the Iliad and the Odyssey.",
+    "type": "god"
+  },
+  {
+    "word": "Horkos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "The personification of oaths and the punisher of those who break them in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Hylates",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An epithet of Apollo meaning lord of the woods, associated with forests and woodland groves.",
+    "type": "god"
+  },
+  {
+    "word": "Hypnos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek personification of sleep who dwells in the underworld and brings rest to mortals and gods alike.",
+    "type": "god"
+  },
+  {
+    "word": "Iacchus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A deity associated with the Eleusinian Mysteries and the ritual procession of the torch-bearing initiates.",
+    "type": "god"
+  },
+  {
+    "word": "Iapetus",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Titan of mortality and father of Prometheus, Atlas, and Epimetheus in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Inachus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A primordial river god and the first king of Argos in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Koalemos",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "The Greek personification of stupidity and foolishness mentioned in the works of Aristophanes.",
+    "type": "god"
+  },
+  {
+    "word": "Kydoimos",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "The personification of the din and confusion of battle, often depicted as a demon of war who thrives amidst the slaughter.",
+    "type": "god"
+  },
+  {
+    "word": "Lelantos",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Titan of the air and the unseen, considered the father of Aura.",
+    "type": "god"
+  },
+  {
+    "word": "Lycurgus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "austere"
+    ],
+    "origin": "Thracian king who was struck with madness by Dionysus for opposing his cult.",
+    "type": "god"
+  },
+  {
+    "word": "Meilichios",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An epithet for Zeus associated with propitiatory rites and the underworld, often depicted as a serpent.",
+    "type": "god"
+  },
+  {
+    "word": "Melicertes",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A primordial sea deity of the Greek pantheon who was transformed into a god after falling into the ocean.",
+    "type": "god"
+  },
+  {
+    "word": "Momus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "The Greek personification of satire, mockery, and unfair criticism who was expelled from Olympus for his constant fault-finding.",
+    "type": "god"
+  },
+  {
+    "word": "Moros",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "The personification of impending doom and the force that drives mortals toward their inevitable fate.",
+    "type": "god"
+  },
+  {
+    "word": "Morpheus",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Greek god of dreams who shapes the forms of those who appear in the sleeper's visions.",
+    "type": "god"
+  },
+  {
+    "word": "Myiagros",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A minor deity invoked to drive away swarms of flies during sacrifices.",
+    "type": "god"
+  },
+  {
+    "word": "Olethros",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Greek personification of destruction and ruin.",
+    "type": "god"
+  },
+  {
+    "word": "Oneiros",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "The personifications of dreams in Greek mythology, often depicted as winged spirits who emerge from the gates of sleep.",
+    "type": "god"
+  },
+  {
+    "word": "Orthanes",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An obscure epithet of the Greek god Priapus, associated with the phallus and fertility rites.",
+    "type": "god"
+  },
+  {
+    "word": "Ourea",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Primordial deities in Greek mythology representing the physical mountains born from Gaia.",
+    "type": "god"
+  },
+  {
+    "word": "Paean",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Ancient Greek deity who served as the physician to the gods and the personification of healing songs.",
+    "type": "god"
+  },
+  {
+    "word": "Palici",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A pair of chthonic twin deities associated with geysers and thermal springs in Sicily.",
+    "type": "god"
+  },
+  {
+    "word": "Penthus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "The personification of grief and lamentation in Greek mythology, often depicted as a companion to the goddess Eris.",
+    "type": "god"
+  },
+  {
+    "word": "Phaenon",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An ancient Greek name for the planet Saturn, personified as a celestial deity associated with the brightness of the heavens.",
+    "type": "god"
+  },
+  {
+    "word": "Phanes",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Primordial deity of procreation and life in the Orphic tradition, often depicted as a golden-winged being emerging from a cosmic egg.",
+    "type": "god"
+  },
+  {
+    "word": "Phantasos",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "One of the Oneiroi, the god of inanimate objects and surreal manifestations in dreams.",
+    "type": "god"
+  },
+  {
+    "word": "Philomelus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Greek minor deity associated with the invention of the wagon and the plow.",
+    "type": "god"
+  },
+  {
+    "word": "Phobetor",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "One of the Oneiroi, the god of nightmares who appears in the form of beasts and monsters in dreams.",
+    "type": "god"
+  },
+  {
+    "word": "Planetae",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "The ancient Greek term for wandering stars, referring to the seven celestial bodies that moved independently against the backdrop of the fixed stars.",
+    "type": "god"
+  },
+  {
+    "word": "Plutus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Greek god of wealth, often depicted as the son of Demeter and Iasion.",
+    "type": "god"
+  },
+  {
+    "word": "Polemos",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "The personification of war and battle in Greek mythology, often associated with the violent aspects of conflict.",
+    "type": "god"
+  },
+  {
+    "word": "Ponos",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Greek personification of hard labor and toil, born of Eris.",
+    "type": "god"
+  },
+  {
+    "word": "Priapus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Greek god of fertility, protector of livestock, fruit plants, and gardens.",
+    "type": "god"
+  },
+  {
+    "word": "Prometheus",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Titan of foresight who defied the gods by stealing fire to bestow upon humanity.",
+    "type": "god"
+  },
+  {
+    "word": "Pyroeis",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An ancient Greek name for the planet Mars, derived from the word for fiery or burning.",
+    "type": "god"
+  },
+  {
+    "word": "Pyrrhichos",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A figure associated with the martial Pyrrhic dance, often linked to the mythic training of the Curetes.",
+    "type": "god"
+  },
+  {
+    "word": "Serapis",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A syncretic deity introduced in Ptolemaic Egypt combining aspects of Osiris and Apis with Greek iconography.",
+    "type": "god"
+  },
+  {
+    "word": "Silenus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "An elderly companion and tutor to Dionysus, often depicted as a wise but hedonistic satyr.",
+    "type": "god"
+  },
+  {
+    "word": "Syceus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A giant who was transformed by Gaia into a fig tree to escape the wrath of Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Theandrios",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An epithet meaning man-divine or god-man, often associated with the intersection of human and divine nature in Hellenistic theology.",
+    "type": "god"
+  },
+  {
+    "word": "Thrasos",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "The personification of boldness, insolence, and rashness in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Tritopatores",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Attic deities representing the ancestors, often associated with the winds and the cycle of life.",
+    "type": "god"
+  },
+  {
+    "word": "Trophonius",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Chthonic deity of architecture and prophecy whose subterranean oracle in Lebadeia was known for inducing terror in visitors.",
+    "type": "god"
+  },
+  {
+    "word": "Tychon",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A minor deity or spirit associated with good fortune and chance in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Zagreus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An archaic chthonic deity often associated with the Orphic mysteries and the cycle of rebirth.",
+    "type": "god"
+  },
+  {
+    "word": "Zelus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "The personification of dedication, emulation, eager rivalry, envy, and jealousy in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Zeus",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "The king of the Olympian gods and ruler of the sky, known for wielding thunderbolts.",
+    "type": "god"
+  },
+  {
+    "word": "Achlys",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Greek personification of misery and sadness, often depicted as the death-mist covering the eyes of those dying.",
+    "type": "god"
+  },
+  {
+    "word": "Adephagia",
+    "syl": 5,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek personification of gluttony and insatiable hunger.",
+    "type": "god"
+  },
+  {
+    "word": "Adikia",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "The personification of injustice and wrongdoing in Greek mythology, often depicted as a companion to Eris.",
+    "type": "god"
+  },
+  {
+    "word": "Adrasteia",
+    "syl": 5,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek goddess of inevitable retribution and the inescapable nature of divine justice.",
+    "type": "god"
+  },
+  {
+    "word": "Aergia",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "The personification of sloth, idleness, and indolence in Greek mythology, often depicted as a daughter of Erebus and Nyx.",
+    "type": "god"
+  },
+  {
+    "word": "Aidos",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The Greek personification of shame, modesty, and reverence who fled the earth at the end of the Golden Age.",
+    "type": "god"
+  },
+  {
+    "word": "Alala",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Personification of the war cry in Greek mythology, often associated with the battle shout of Ares.",
+    "type": "god"
+  },
+  {
+    "word": "Aletheia",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The personification of truth and sincerity in Greek mythology, often depicted as a woman emerging from a well.",
+    "type": "god"
+  },
+  {
+    "word": "Amechania",
+    "syl": 5,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The personification of helplessness, lack of means, and the inability to find a path forward.",
+    "type": "god"
+  },
+  {
+    "word": "Amphictyonis",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An epithet of the goddess Demeter referring to her role as a protector of the Amphictyonic League.",
+    "type": "god"
+  },
+  {
+    "word": "Anaideia",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The personification of ruthlessness, shamelessness, and lack of pity in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Ananke",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Greek personification of inevitability, compulsion, and necessity who predates the Olympian gods.",
+    "type": "god"
+  },
+  {
+    "word": "Angelia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek messenger goddess and daughter of Hermes who serves as the personification of messages, tidings, and proclamations.",
+    "type": "god"
+  },
+  {
+    "word": "Apate",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Personification of deceit, guile, and fraud who emerged from the primordial darkness of Erebus.",
+    "type": "god"
+  },
+  {
+    "word": "Aphaia",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A Greek goddess worshipped primarily on the island of Aegina, often associated with hunting and fertility.",
+    "type": "god"
+  },
+  {
+    "word": "Apheleia",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Greek personification of simplicity, innocence, and ease of mind.",
+    "type": "god"
+  },
+  {
+    "word": "Arae",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "The personified spirits of curses in Greek mythology who pursued those who swore false oaths.",
+    "type": "god"
+  },
+  {
+    "word": "Arke",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The messenger of the Titans who possessed iridescent wings and was cast into Tartarus by Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Asteria",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek titan goddess of the stars and daughter of Coeus and Phoebe.",
+    "type": "god"
+  },
+  {
+    "word": "Bendis",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Thracian goddess of the moon and the hunt, later assimilated into the Athenian pantheon.",
+    "type": "god"
+  },
+  {
+    "word": "Benthesikyme",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A daughter of Poseidon and Amphitrite who ruled over the deep waves of the sea.",
+    "type": "god"
+  },
+  {
+    "word": "Brimo",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "An epithet for various underworld deities, meaning the terrifying or the raging one.",
+    "type": "god"
+  },
+  {
+    "word": "Caryatis",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An epithet of Artemis associated with the walnut tree and the village of Caryae in Laconia.",
+    "type": "god"
+  },
+  {
+    "word": "Ceto",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Ancient Greek primordial sea goddess representing the dangers of the ocean and sea monsters.",
+    "type": "god"
+  },
+  {
+    "word": "Charites",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The three goddesses of charm, beauty, nature, and human creativity who attended to Aphrodite.",
+    "type": "god"
+  },
+  {
+    "word": "Circe",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Enchantress from Greek mythology who transformed her enemies into animals on the island of Aiaia.",
+    "type": "god"
+  },
+  {
+    "word": "Cybele",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Anatolian mother goddess associated with wild nature, mountains, and fertility, often depicted accompanied by lions.",
+    "type": "god"
+  },
+  {
+    "word": "Demeter",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Greek goddess of the harvest, agriculture, and the fertility of the earth.",
+    "type": "god"
+  },
+  {
+    "word": "Despoina",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An ancient Greek mystery goddess of Arcadia who was the daughter of Demeter and Poseidon.",
+    "type": "god"
+  },
+  {
+    "word": "Dysis",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek personification of the sunset and the western horizon.",
+    "type": "god"
+  },
+  {
+    "word": "Dyssebeia",
+    "syl": 5,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "Greek personification of impiety, irreverence, and the neglect of religious duty.",
+    "type": "god"
+  },
+  {
+    "word": "Eileithyia",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The Greek goddess of childbirth and midwifery, daughter of Zeus and Hera.",
+    "type": "god"
+  },
+  {
+    "word": "Eiresione",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An olive branch wrapped in wool, hung with fruits and cakes, carried in ancient Greek harvest festivals to ensure prosperity.",
+    "type": "god"
+  },
+  {
+    "word": "Ekecheiria",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The personification of the Olympic truce, representing the cessation of hostilities and the sanctity of the games.",
+    "type": "god"
+  },
+  {
+    "word": "Elete",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Minor Greek personification associated with the arts and poetic inspiration.",
+    "type": "god"
+  },
+  {
+    "word": "Eleutheria",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The personification of liberty and freedom in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Enodia",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An epithet of Hecate meaning of the way, referring to her role as a guardian of paths and gateways.",
+    "type": "god"
+  },
+  {
+    "word": "Enyo",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Greek goddess of war who accompanies Ares into battle and delights in the destruction of cities.",
+    "type": "god"
+  },
+  {
+    "word": "Eos",
+    "syl": 2,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "luminous"
+    ],
+    "origin": "Greek goddess of the dawn who rises from the edge of the world to bring light to mortals and gods.",
+    "type": "god"
+  },
+  {
+    "word": "Erinyes",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Chthonic deities of vengeance who pursued those who had committed crimes against the natural order.",
+    "type": "god"
+  },
+  {
+    "word": "Ersa",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "luminous"
+    ],
+    "origin": "Greek goddess of the morning dew, daughter of Zeus and Selene.",
+    "type": "god"
+  },
+  {
+    "word": "Eucleia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek personification of glory and good repute often associated with the goddess Artemis.",
+    "type": "god"
+  },
+  {
+    "word": "Eunostus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek deity of the flour mill and guardian of the sacred grove at Tanagra.",
+    "type": "god"
+  },
+  {
+    "word": "Eusebeia",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "The personification of piety, holiness, and reverence in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Gaia",
+    "syl": 3,
+    "len": 4,
+    "era": "timeless",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "The personification of Earth in Greek mythology and the ancestral mother of all life.",
+    "type": "god"
+  },
+  {
+    "word": "Genetyllides",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A group of minor deities associated with Aphrodite, often invoked in relation to procreation and the act of birth.",
+    "type": "god"
+  },
+  {
+    "word": "Graeae",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Three sisters in Greek mythology who shared a single eye and tooth among them.",
+    "type": "god"
+  },
+  {
+    "word": "Gymnastica",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A minor deity or personification associated with the training and physical discipline of the gymnasium in ancient Greek culture.",
+    "type": "god"
+  },
+  {
+    "word": "Harmonia",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek goddess of harmony and concord, daughter of Ares and Aphrodite.",
+    "type": "god"
+  },
+  {
+    "word": "Heimarmene",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek personification of fate, destiny, and the unavoidable lot assigned to every individual.",
+    "type": "god"
+  },
+  {
+    "word": "Hemera",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek personification of the day and daughter of Erebus and Nyx.",
+    "type": "god"
+  },
+  {
+    "word": "Hera",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Queen of the Greek gods and goddess of marriage, women, and childbirth.",
+    "type": "god"
+  },
+  {
+    "word": "Hippeia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An epithet of Athena meaning horse-related, reflecting her role as the inventor of the bit and the patron of horsemanship.",
+    "type": "god"
+  },
+  {
+    "word": "Horae",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "The goddesses of the seasons and the natural portions of time, acting as guardians of the gates of Olympus.",
+    "type": "god"
+  },
+  {
+    "word": "Horme",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Greek personification of impulse, effort, and the urge to act.",
+    "type": "god"
+  },
+  {
+    "word": "Hygieia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Greek goddess of health, cleanliness, and sanitation, often depicted holding a serpent and a bowl.",
+    "type": "god"
+  },
+  {
+    "word": "Hysminai",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "The Hysminai were the female personifications of combat and fighting, serving as attendants to Ares on the battlefield.",
+    "type": "god"
+  },
+  {
+    "word": "Idyia",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An Oceanid nymph and goddess of knowledge who became the queen of Colchis.",
+    "type": "god"
+  },
+  {
+    "word": "Kakia",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Greek personification of vice and moral badness, often depicted as a beautiful woman who tempts individuals toward an easy but corrupt life.",
+    "type": "god"
+  },
+  {
+    "word": "Kourotrophos",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An epithet for various Greek goddesses representing their role as nurturers and protectors of children.",
+    "type": "god"
+  },
+  {
+    "word": "Lampetia",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A daughter of Helios and Neaera who served as a guardian of her father's sacred cattle on the island of Thrinacia.",
+    "type": "god"
+  },
+  {
+    "word": "Lampsace",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "An ancient nymph or divinity associated with the city of Lampsacus on the Hellespont.",
+    "type": "god"
+  },
+  {
+    "word": "Leto",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Titaness of motherhood and mother of the twins Apollo and Artemis by Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Litae",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The personified spirits of prayer and repentance in Greek mythology who follow behind Ate to heal the damage caused by sin.",
+    "type": "god"
+  },
+  {
+    "word": "Machai",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "The personified spirits of battle, carnage, and slaughter in Greek mythology who accompanied Ares to war.",
+    "type": "god"
+  },
+  {
+    "word": "Maniae",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Personifications of madness, insanity, and frenzy in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Methe",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek personification of drunkenness and an attendant of the god Dionysus.",
+    "type": "god"
+  },
+  {
+    "word": "Mnemosyne",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The Titan personification of memory and the mother of the nine Muses.",
+    "type": "god"
+  },
+  {
+    "word": "Muses",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The nine daughters of Zeus and Mnemosyne who presided over the arts and sciences in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Nemesis",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "Greek goddess who enacted retribution against those who succumbed to hubris.",
+    "type": "god"
+  },
+  {
+    "word": "Nesoi",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Ancient Greek deities representing the individual islands born from Gaia.",
+    "type": "god"
+  },
+  {
+    "word": "Nysiads",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Nymphs of the mountain Nysa who were said to have nursed the infant Dionysus.",
+    "type": "god"
+  },
+  {
+    "word": "Nyx",
+    "syl": 1,
+    "len": 3,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Primordial deity of the night and mother of many personified spirits in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Oizys",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "The Greek personification of misery, anxiety, and grief, born as a daughter of Nyx.",
+    "type": "god"
+  },
+  {
+    "word": "Palioxis",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "The personification of the retreat or rout in battle, representing the tactical withdrawal of soldiers during combat.",
+    "type": "god"
+  },
+  {
+    "word": "Pandia",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek goddess of the full moon and daughter of Selene and Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Pandora",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "The first mortal woman in Greek mythology, fashioned by Hephaestus and endowed with a jar that unleashed suffering upon humanity.",
+    "type": "god"
+  },
+  {
+    "word": "Paregoros",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "Greek personification of consolation and solace.",
+    "type": "god"
+  },
+  {
+    "word": "Pasikrata",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "An epithet of Persephone meaning queen of all, often used in mystery cults to denote her sovereignty over the underworld.",
+    "type": "god"
+  },
+  {
+    "word": "Pasiphaë",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Daughter of the sun god Helios and mother of the Minotaur in Cretan mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Peitharchia",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "austere"
+    ],
+    "origin": "Greek personification of obedience to authority and civil discipline.",
+    "type": "god"
+  },
+  {
+    "word": "Penia",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Greek personification of poverty and need, often depicted as a beggar.",
+    "type": "god"
+  },
+  {
+    "word": "Pepromene",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Ancient Greek personification of fate or destiny, often associated with the inescapable nature of one's end.",
+    "type": "god"
+  },
+  {
+    "word": "Persephone",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Queen of the Underworld and goddess of springtime vegetation, daughter of Demeter and Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Phaethusa",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "One of the Heliades and a daughter of the sun god Helios, her name signifies the radiant one.",
+    "type": "god"
+  },
+  {
+    "word": "Pheme",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Greek personification of fame, renown, and rumor, often depicted with wings and a trumpet.",
+    "type": "god"
+  },
+  {
+    "word": "Pistis",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "Greek personification of trust, faith, and good faith in contracts and social bonds.",
+    "type": "god"
+  },
+  {
+    "word": "Poena",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "The personification of punishment and retribution in Greek mythology, often associated with the vengeance of the gods.",
+    "type": "god"
+  },
+  {
+    "word": "Potnia",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient Mycenaean title meaning mistress or lady, used to address various goddesses before the establishment of the Olympian pantheon.",
+    "type": "god"
+  },
+  {
+    "word": "Potnia Theron",
+    "syl": 5,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An archaic title meaning Mistress of Animals, referring to a goddess who commands the wilderness and its creatures.",
+    "type": "god"
+  },
+  {
+    "word": "Praxidice",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek goddess of justice, specifically the enforcer of oaths and the executor of judicial sentences.",
+    "type": "god"
+  },
+  {
+    "word": "Proioxis",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "The personification of the onset or the rush of battle in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Prophasis",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek personification of excuses and pretexts, often invoked in the context of moral justification.",
+    "type": "god"
+  },
+  {
+    "word": "Ptocheia",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek personification of beggary and the state of being a destitute wanderer.",
+    "type": "god"
+  },
+  {
+    "word": "Rhapso",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Derived from the Greek term for the weaving of epic poetry and song, associated with the tradition of the rhapsode.",
+    "type": "god"
+  },
+  {
+    "word": "Semele",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Daughter of Cadmus and Harmonia who was consumed by fire after witnessing the true form of Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Sophrosyne",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "austere"
+    ],
+    "origin": "The personification of moderation, self-control, and temperance in Greek mythology.",
+    "type": "god"
+  },
+  {
+    "word": "Telete",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek personification of initiation and the rites of the mystery cults.",
+    "type": "god"
+  },
+  {
+    "word": "Theia",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "Titaness of sight and the shining light of the sky, said to endow gold and silver with their brilliance.",
+    "type": "god"
+  },
+  {
+    "word": "Themis",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "austere",
+      "mythic"
+    ],
+    "origin": "Greek Titaness of divine law, order, and custom who presided over the oracles at Delphi.",
+    "type": "god"
+  },
+  {
+    "word": "Titans",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The primordial elder gods of Greek mythology who ruled during the Golden Age before being overthrown by the Olympians.",
+    "type": "god"
+  },
+  {
+    "word": "Menoetius",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Titan of rash action and violent anger who was cast into Tartarus by Zeus.",
+    "type": "god"
+  },
+  {
+    "word": "Oceanus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The primordial titan who personified the vast world-encircling river that the ancient Greeks believed surrounded the Earth.",
+    "type": "god"
+  },
+  {
+    "word": "Agdistis",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "An androgynous deity of Phrygian origin associated with fertility and primal chaos.",
+    "type": "god"
+  },
+  {
+    "word": "Aeginetes",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An ancient Greek term referring to the inhabitants of the island of Aegina, often associated with legendary seafarers and the myth of Aeacus.",
+    "type": "hero"
+  },
+  {
+    "word": "Aeopolus",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure derived from Greek linguistic roots associated with the winds and high places.",
+    "type": "hero"
+  },
+  {
+    "word": "Aepytus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A king of Arcadia and son of Elatus who appears in various Greek genealogical traditions.",
+    "type": "hero"
+  },
+  {
+    "word": "Alabandus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "The legendary founder of the Carian city Alabanda who was worshipped as a hero.",
+    "type": "hero"
+  },
+  {
+    "word": "Alcimede",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Daughter of Phylacus and mother of Jason in Greek mythology, known for her role in the lineage of the Argonauts.",
+    "type": "hero"
+  },
+  {
+    "word": "Alcimedonte",
+    "syl": 5,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A skilled craftsman of the Argonauts who fashioned the ship's mast and served as a capable commander.",
+    "type": "hero"
+  },
+  {
+    "word": "Ancaeus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "An Argonaut and king of Samos who was famously killed by a wild boar after boasting he would never taste the wine from his own vineyard.",
+    "type": "hero"
+  },
+  {
+    "word": "Androgeos",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A prince of Crete and son of King Minos whose death in Athens triggered the tribute of youths to the Minotaur.",
+    "type": "hero"
+  },
+  {
+    "word": "Androthoe",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A legendary Amazonian queen known for her martial prowess and leadership in battle.",
+    "type": "hero"
+  },
+  {
+    "word": "Anethus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Derived from the Greek word for dill, this name appears in mythic contexts as a minor figure associated with the pastoral landscapes of ancient Greece.",
+    "type": "hero"
+  },
+  {
+    "word": "Arisbas",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology mentioned as a king of Methymna on the island of Lesbos.",
+    "type": "hero"
+  },
+  {
+    "word": "Armenius",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "An archaic name associated with the historical figure Arminius who led a coalition of Germanic tribes against the Roman Empire.",
+    "type": "hero"
+  },
+  {
+    "word": "Arneus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A beggar from Ithaca who served as the town messenger and was known by the name Iros.",
+    "type": "hero"
+  },
+  {
+    "word": "Ascalaphus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A son of Acheron and Orphne who served as the orchard keeper of Hades and witnessed Persephone eating the pomegranate seeds.",
+    "type": "hero"
+  },
+  {
+    "word": "Astomi",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A legendary race of people in Greek mythology described by Megasthenes as lacking mouths and surviving solely on the scent of roots and flowers.",
+    "type": "hero"
+  },
+  {
+    "word": "Astrabacus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A Spartan hero and son of Irbus who allegedly discovered the wooden statue of Artemis Orthia.",
+    "type": "hero"
+  },
+  {
+    "word": "Astygonus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary figure in Greek tradition whose name implies a connection to the lineage or ancestors of the city.",
+    "type": "hero"
+  },
+  {
+    "word": "Autarieus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary figure in Greek mythology often associated with the Illyrian tribes and the son of Illyrius.",
+    "type": "hero"
+  },
+  {
+    "word": "Autolaus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A legendary master thief and trickster in Greek mythology, known as the son of Hermes and grandfather of Odysseus.",
+    "type": "hero"
+  },
+  {
+    "word": "Baptes",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A secret society of Athenian men who held nocturnal, effeminate rituals in honor of the Thracian goddess Cotys.",
+    "type": "hero"
+  },
+  {
+    "word": "Bathycleia",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology known as the daughter of Amphidamas of Opus.",
+    "type": "hero"
+  },
+  {
+    "word": "Bormus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A legendary youth of the Mariandyni people whose mysterious disappearance during the harvest became the subject of a traditional lamenting song.",
+    "type": "hero"
+  },
+  {
+    "word": "Borus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology known as the father of Periphetes, associated with the lineage of the early kings.",
+    "type": "hero"
+  },
+  {
+    "word": "Bouzyges",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Attic hero credited with introducing the plow and the first yoking of oxen to agriculture.",
+    "type": "hero"
+  },
+  {
+    "word": "Branchus",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A youth beloved by Apollo who was granted the gift of prophecy and became the founder of the Branchidae priesthood at Didyma.",
+    "type": "hero"
+  },
+  {
+    "word": "Cecrops",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The autochthonous first king of Athens who was depicted as half-man and half-serpent.",
+    "type": "hero"
+  },
+  {
+    "word": "Cerambus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A legendary shepherd from Mount Othrys who was transformed into a long-horned beetle by the nymphs for his arrogance.",
+    "type": "hero"
+  },
+  {
+    "word": "Cercaphus",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Son of the sun god Helios and the nymph Clymene, he was a legendary king of Rhodes.",
+    "type": "hero"
+  },
+  {
+    "word": "Chaeresilaus",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek historical annals and mythic lineages, often associated with the aristocratic traditions of the archaic period.",
+    "type": "hero"
+  },
+  {
+    "word": "Chersidamas",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Trojan warrior mentioned in the Iliad who was killed by Odysseus during the conflict.",
+    "type": "hero"
+  },
+  {
+    "word": "Chlorus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Derived from the Greek word chloros meaning pale green or yellowish, traditionally associated with the fresh vitality of young vegetation.",
+    "type": "hero"
+  },
+  {
+    "word": "Cicones",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A Thracian tribe encountered by Odysseus and his men during their return from the Trojan War.",
+    "type": "hero"
+  },
+  {
+    "word": "Clinis",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A Babylonian nobleman mentioned in Ovid's Metamorphoses who was transformed into a hawk by Apollo.",
+    "type": "hero"
+  },
+  {
+    "word": "Clydon",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An obscure figure from Greek legend, often associated with the sea and the tumultuous nature of waves.",
+    "type": "hero"
+  },
+  {
+    "word": "Clysonymus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology known primarily as a son of King Amphidamas of Opus.",
+    "type": "hero"
+  },
+  {
+    "word": "Cobis",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology associated with the early traditions of the region of Arcadia.",
+    "type": "hero"
+  },
+  {
+    "word": "Coresus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A priest of Dionysus in Calydon who sought to sacrifice his beloved Callirhoe and subsequently took his own life in remorse.",
+    "type": "hero"
+  },
+  {
+    "word": "Cychreides",
+    "syl": 2,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A legendary hero of Salamis, often identified as a serpent or a warrior who aided the Greeks in the Battle of Salamis.",
+    "type": "hero"
+  },
+  {
+    "word": "Cydippe of Argos",
+    "syl": 6,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A priestess of Hera whose sons were granted the gift of peaceful death after they pulled her chariot to the temple.",
+    "type": "hero"
+  },
+  {
+    "word": "Cyllarus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A centaur of extraordinary beauty who perished at the wedding of Pirithous, causing his mate Hylonome to take her own life in grief.",
+    "type": "hero"
+  },
+  {
+    "word": "Damasiclus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A Trojan warrior mentioned in the Iliad who was killed by the hero Ajax.",
+    "type": "hero"
+  },
+  {
+    "word": "Demonice",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A daughter of Agenor in Greek mythology who was loved by the god Ares and became the mother of Evenus.",
+    "type": "hero"
+  },
+  {
+    "word": "Didaeon",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary figure associated with the early traditions of Attic hero cults and ancestral lineage.",
+    "type": "hero"
+  },
+  {
+    "word": "Diomedeia",
+    "syl": 6,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A narrative sequence within the Iliad detailing the aristeia and martial exploits of the hero Diomedes on the battlefield.",
+    "type": "hero"
+  },
+  {
+    "word": "Dotia",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An ancient region of Thessaly named after the daughter of Elatus, often associated with the foundation of local Pelasgian settlements.",
+    "type": "hero"
+  },
+  {
+    "word": "Dotus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A figure from Greek mythology mentioned as the father of the nymph Calypso.",
+    "type": "hero"
+  },
+  {
+    "word": "Emathus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Legendary king of Cyprus and son of Paphos who founded the city of Emathia.",
+    "type": "hero"
+  },
+  {
+    "word": "Enalus",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A youth from Lesbos who was carried into the sea by dolphins and eventually returned as a prophet.",
+    "type": "hero"
+  },
+  {
+    "word": "Enarephoros",
+    "syl": 5,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "A son of Hippocoon who was killed by Heracles during the hero's campaign against Sparta.",
+    "type": "hero"
+  },
+  {
+    "word": "Encheleus",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek mythology associated with the Illyrian Encheleae tribe, often linked to the transformation of Cadmus and Harmonia into snakes.",
+    "type": "hero"
+  },
+  {
+    "word": "Enorches",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A son of Heracles and a woman of the Dryopes, mentioned in Greek mythology as a figure associated with the lineage of the Heracleidae.",
+    "type": "hero"
+  },
+  {
+    "word": "Epigeus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A Myrmidon commander from Dulichium who fought for the Achaeans at Troy before being killed by a falling stone thrown by Hector.",
+    "type": "hero"
+  },
+  {
+    "word": "Epopeus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A king of Sicyon in Greek mythology who was the son of Poseidon and Canace.",
+    "type": "hero"
+  },
+  {
+    "word": "Erasus",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An obscure figure from Greek mythology occasionally referenced in heroic genealogies.",
+    "type": "hero"
+  },
+  {
+    "word": "Ereuthalion",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "An Arcadian warrior in the Iliad who wore the armor of King Areithous and was slain by Nestor.",
+    "type": "hero"
+  },
+  {
+    "word": "Erymas",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A Trojan warrior mentioned in the Iliad who was killed by the hero Idomeneus.",
+    "type": "hero"
+  },
+  {
+    "word": "Eurymache",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology appearing as a daughter of Agamemnon in certain accounts of the Trojan War cycle.",
+    "type": "hero"
+  },
+  {
+    "word": "Eurysaces",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The son of Ajax the Great, named for his father's iconic broad shield.",
+    "type": "hero"
+  },
+  {
+    "word": "Eurythoe",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An Oceanid nymph in Greek mythology often listed among the attendants of Cyrene.",
+    "type": "hero"
+  },
+  {
+    "word": "Eusorus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary figure in Greek tradition often associated with the early kingship of the Mytileneans.",
+    "type": "hero"
+  },
+  {
+    "word": "Exadius",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A Lapith warrior who fought against the centaurs at the wedding of Pirithous.",
+    "type": "hero"
+  },
+  {
+    "word": "Galas",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology often associated with the lineage of the Gauls or Galatians.",
+    "type": "hero"
+  },
+  {
+    "word": "Gargareans",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A legendary tribe of men who lived in the Caucasus and visited the Amazons annually to ensure the continuation of both tribes.",
+    "type": "hero"
+  },
+  {
+    "word": "Gemon",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A legendary figure associated with the heroic lineage of ancient Greek tradition.",
+    "type": "hero"
+  },
+  {
+    "word": "Gorgophone",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Daughter of Perseus and Andromeda whose name translates to slayer of the Gorgon.",
+    "type": "hero"
+  },
+  {
+    "word": "Hagius",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek legend noted for his association with the sanctuary of Delphi.",
+    "type": "hero"
+  },
+  {
+    "word": "Hecamede",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A captive woman of Tenedos known for her skill in preparing restorative potions for Nestor during the Trojan War.",
+    "type": "hero"
+  },
+  {
+    "word": "Hecaton",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Derived from the Greek Hecatoncheires, referring to the hundred-handed giants of immense strength who fought for Zeus.",
+    "type": "hero"
+  },
+  {
+    "word": "Hephaestine",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A derivative term associated with the forge and craftsmanship of the Olympian god of fire.",
+    "type": "hero"
+  },
+  {
+    "word": "Hippalces",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "An obscure figure from Greek mythology often associated with the horse-taming traditions of the heroic age.",
+    "type": "hero"
+  },
+  {
+    "word": "Hippocoon",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Spartan king and son of Oebalus who was deposed and eventually killed by Heracles for his role in the murder of Oeonus.",
+    "type": "hero"
+  },
+  {
+    "word": "Hodites",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure in Greek mythology known as a traveler or wayfarer, often referenced in archaic epics.",
+    "type": "hero"
+  },
+  {
+    "word": "Hyettus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A legendary figure from Boeotian mythology who fled Argos after accidentally killing Molurus and founded the city of Hyettus.",
+    "type": "hero"
+  },
+  {
+    "word": "Hyleus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A centaur from Greek mythology who was known for his participation in the Calydonian Boar hunt.",
+    "type": "hero"
+  },
+  {
+    "word": "Hylonome",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A centaur who committed suicide upon the death of her mate Cyllarus during the battle with the Lapiths.",
+    "type": "hero"
+  },
+  {
+    "word": "Hyperasius",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "An Argonaut from Pherae who participated in the epic quest for the Golden Fleece.",
+    "type": "hero"
+  },
+  {
+    "word": "Hypsicerus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology whose name translates to high-horned, often associated with the strength and ferocity of ancient warriors.",
+    "type": "hero"
+  },
+  {
+    "word": "Icarius",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An Athenian hero who learned the art of winemaking from Dionysus and met a tragic end at the hands of suspicious shepherds.",
+    "type": "hero"
+  },
+  {
+    "word": "Iobes",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A legendary figure of Euboean tradition, sometimes identified as a son of Heracles or an early king associated with the founding of local cults.",
+    "type": "hero"
+  },
+  {
+    "word": "Iphianeira",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A daughter of Megapenthes in Greek mythology who was known as a princess of Tiryns.",
+    "type": "hero"
+  },
+  {
+    "word": "Iphinous",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A hero mentioned in Homeric epics as one of the suitors of Penelope who fought alongside the Greeks during the Trojan War.",
+    "type": "hero"
+  },
+  {
+    "word": "Karpos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Greek personification of fruit and the harvest, often depicted as a youth.",
+    "type": "hero"
+  },
+  {
+    "word": "Krotos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "In Greek mythology, Krotos was a son of Pan and Eupheme, credited with the invention of applause and the hunt.",
+    "type": "hero"
+  },
+  {
+    "word": "Kyrbas",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A figure from Greek tradition often associated with the Phrygian cap and the ritualistic origins of the Korybantes.",
+    "type": "hero"
+  },
+  {
+    "word": "Lamis",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A legendary figure associated with the foundation of the city of Lamia in Thessaly.",
+    "type": "hero"
+  },
+  {
+    "word": "Laonome",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Daughter of Amphitryon and sister of Heracles in Greek mythology.",
+    "type": "hero"
+  },
+  {
+    "word": "Leipephilene",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek myth who, according to legend, died of grief after her lover Orestes left her.",
+    "type": "hero"
+  },
+  {
+    "word": "Lenobius",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An obscure figure from Greek tradition often associated with the patronage of the vine and the harvest.",
+    "type": "hero"
+  },
+  {
+    "word": "Leucippe",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A name found in Greek mythology often associated with the daughters of Minyas or the Oceanids.",
+    "type": "hero"
+  },
+  {
+    "word": "Leucophryne",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology associated with the sanctuary of Artemis Leucophryene in Magnesia.",
+    "type": "hero"
+  },
+  {
+    "word": "Lysithous",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology mentioned in the context of the Trojan War as a son of Priam.",
+    "type": "hero"
+  },
+  {
+    "word": "Mariandynus",
+    "syl": 5,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A legendary figure associated with the Mariandyni people of Bithynia and the mournful dirge tradition in Greek myth.",
+    "type": "hero"
+  },
+  {
+    "word": "Marmax",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "An ancient Greek name associated with a warrior mentioned in the context of the battle against the Centaurs.",
+    "type": "hero"
+  },
+  {
+    "word": "Marpessa",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A princess who chose the mortal Idas over the god Apollo, preferring a human life and inevitable death.",
+    "type": "hero"
+  },
+  {
+    "word": "Mecionice",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology known as the daughter of Euphemus and mother of Euphemus of Taenarum.",
+    "type": "hero"
+  },
+  {
+    "word": "Meganeira",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A figure from Greek mythology known as the daughter of Creon and wife of Heracles who inadvertently caused his death.",
+    "type": "hero"
+  },
+  {
+    "word": "Megapenthes",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Son of Menelaus whose name translates to great grief and who was born of a slave woman.",
+    "type": "hero"
+  },
+  {
+    "word": "Megareus",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A son of Onchestus or Apollo who died defending the gates of Thebes during the war of the Seven against Thebes.",
+    "type": "hero"
+  },
+  {
+    "word": "Melantheia",
+    "syl": 5,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A name derived from Greek roots meaning dark flower, often associated with figures of tragic beauty in Hellenic folklore.",
+    "type": "hero"
+  },
+  {
+    "word": "Meneclus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology known as a son of Lycaon and a minor hero within the context of Arcadian genealogy.",
+    "type": "hero"
+  },
+  {
+    "word": "Molion",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "The Molionides were twin sons of Poseidon and Molione, known for their conjoined bodies and martial prowess in the heroic age.",
+    "type": "hero"
+  },
+  {
+    "word": "Molurus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A character in Greek mythology who was the son of Arion and a participant in the events surrounding the death of Periphetes.",
+    "type": "hero"
+  },
+  {
+    "word": "Mopsus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "scientific"
+    ],
+    "origin": "A legendary Greek seer and prophet who participated in the voyage of the Argonauts and the Calydonian Boar hunt.",
+    "type": "hero"
+  },
+  {
+    "word": "Mygdon",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A Thracian king and hero who fought alongside the Amazons against the forces of Priam.",
+    "type": "hero"
+  },
+  {
+    "word": "Myrmidone",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "An eponymous ancestor of the Myrmidons, the legendary warriors who were said to have been transformed from ants into men by Zeus.",
+    "type": "hero"
+  },
+  {
+    "word": "Mysus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary figure associated with the Mysian people of northwestern Asia Minor who fought alongside Telephus in the Trojan War.",
+    "type": "hero"
+  },
+  {
+    "word": "Nephalion",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek mythology often associated with the lineage of the early kings of Arcadia.",
+    "type": "hero"
+  },
+  {
+    "word": "Nychius",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A figure from Greek legend noted in the context of nocturnal associations and shadowy tactical maneuvers.",
+    "type": "hero"
+  },
+  {
+    "word": "Ocypete",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "One of the three Harpies in Greek mythology, whose name translates to the swift-flying one.",
+    "type": "hero"
+  },
+  {
+    "word": "Ocythous",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology occasionally associated with the lineage of heroes and the complex genealogies of the heroic age.",
+    "type": "hero"
+  },
+  {
+    "word": "Oeonus",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A nephew of Heracles who fought alongside the hero in his campaigns against the Eurytids.",
+    "type": "hero"
+  },
+  {
+    "word": "Onthyrius",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek heroic tradition often associated with obscure local cults and regional lineage myths.",
+    "type": "hero"
+  },
+  {
+    "word": "Ophelestes",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A Trojan warrior mentioned in the Iliad who was slain by Teucer during the defense of the city.",
+    "type": "hero"
+  },
+  {
+    "word": "Ornytus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A king of Cyllene in Arcadia who was known for his martial prowess and involvement in mythological lineage.",
+    "type": "hero"
+  },
+  {
+    "word": "Paroreus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek mythology mentioned in the Catalog of Women as a king of the Epeians.",
+    "type": "hero"
+  },
+  {
+    "word": "Pergamus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient citadel in Mysia, often associated with the Greek hero who allegedly founded the city.",
+    "type": "hero"
+  },
+  {
+    "word": "Pericastor",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A minor hero of Greek legend who served as a companion to the Argonauts during their voyage to Colchis.",
+    "type": "hero"
+  },
+  {
+    "word": "Perrhaebus",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "An eponymous hero of the Perrhaebi, an ancient tribe dwelling in the mountainous region of Thessaly.",
+    "type": "hero"
+  },
+  {
+    "word": "Phaon",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A boatman of Mytilene who was granted youth and beauty by the goddess Aphrodite.",
+    "type": "hero"
+  },
+  {
+    "word": "Pherespondus",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A herald or messenger figure in Greek tradition whose name translates to one who brings peace or a truce.",
+    "type": "hero"
+  },
+  {
+    "word": "Phlegraeus",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A name associated with the Phlegraean Fields, the legendary site of the battle between the Olympian gods and the Giants.",
+    "type": "hero"
+  },
+  {
+    "word": "Phronius",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology occasionally referenced as a son of Neleus and Chloris.",
+    "type": "hero"
+  },
+  {
+    "word": "Phthius",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary figure associated with the region of Phthia in Thessaly, the ancestral home of Achilles.",
+    "type": "hero"
+  },
+  {
+    "word": "Physadeia",
+    "syl": 5,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A fountain nymph of Argos associated with the purification of the Danaides.",
+    "type": "hero"
+  },
+  {
+    "word": "Piasus",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A Pelasgian king who fell into a cauldron of boiling wine after attempting to force himself upon the priestess of Demeter.",
+    "type": "hero"
+  },
+  {
+    "word": "Pierus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A Macedonian king who named his nine daughters after the Muses, leading to a contest of skill between the Pierides and the Muses.",
+    "type": "hero"
+  },
+  {
+    "word": "Pleisthenes",
+    "syl": 2,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A figure in Greek tragedy and mythology, often associated with the cursed house of Atreus and the cycles of familial violence.",
+    "type": "hero"
+  },
+  {
+    "word": "Polites",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "A loyal companion of Odysseus who was known for his gentle and trusting nature.",
+    "type": "hero"
+  },
+  {
+    "word": "Polybule",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A figure from Greek mythology noted as the daughter of Perieres and mother of the king of Messenia.",
+    "type": "hero"
+  },
+  {
+    "word": "Pompholyge",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "Derived from the Greek term for a metal bubble or dross, appearing in ancient alchemical and metallurgical texts.",
+    "type": "hero"
+  },
+  {
+    "word": "Preugenes",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A figure in Greek mythology known as the father of Agastrophus and a descendant of the royal line of Messenia.",
+    "type": "hero"
+  },
+  {
+    "word": "Promedon",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A minor figure in Greek mythology known as the father of the nymph Leucothea.",
+    "type": "hero"
+  },
+  {
+    "word": "Pylaieus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A Trojan ally and warrior mentioned in the Iliad who was killed in the defense of the city.",
+    "type": "hero"
+  },
+  {
+    "word": "Pyreneus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A Thracian king who attempted to trap the Muses in his tower and perished falling from its heights.",
+    "type": "hero"
+  },
+  {
+    "word": "Rhoetus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A centaur who fought against the Lapiths during the wedding of Pirithous.",
+    "type": "hero"
+  },
+  {
+    "word": "Salagus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek legend occasionally associated with the lineage of regional heroic figures.",
+    "type": "hero"
+  },
+  {
+    "word": "Sidymos",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient name associated with the Lycian region and the mountain range of Sidymus.",
+    "type": "hero"
+  },
+  {
+    "word": "Sikanos",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An eponymous hero of the Sicani people who led his followers from Iberia to settle in Sicily.",
+    "type": "hero"
+  },
+  {
+    "word": "Suitors of Helen",
+    "syl": 5,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A collection of Greek kings and princes who pledged an oath to defend the marriage of Helen and Menelaus.",
+    "type": "hero"
+  },
+  {
+    "word": "Talaemenes",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Persian satrap who led the Maeonian and Lydian contingents during the invasion of Greece under Xerxes I.",
+    "type": "hero"
+  },
+  {
+    "word": "Taulas",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek lore occasionally associated with the lineage of regional heroic traditions in antiquity.",
+    "type": "hero"
+  },
+  {
+    "word": "Teleboans",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A legendary tribe of pirates from the islands of Taphos who were descendants of Teleboas.",
+    "type": "hero"
+  },
+  {
+    "word": "Telestas",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek mythology often associated with the lineage of kings or the ritualistic completion of sacred rites.",
+    "type": "hero"
+  },
+  {
+    "word": "Tenthredon",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek mythology occasionally referenced in genealogies as a minor hero or descendant of noble houses.",
+    "type": "hero"
+  },
+  {
+    "word": "Thelxion",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A king of Sicyon in Greek mythology who was the son of Apis and a descendant of the autochthonous kings.",
+    "type": "hero"
+  },
+  {
+    "word": "Theona",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A name of Greek origin meaning godly or god-fearing which appears in various Hellenistic contexts as a virtuous figure.",
+    "type": "hero"
+  },
+  {
+    "word": "Theonoe",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A prophetic daughter of Proteus in Greek mythology known for her gift of foresight and adherence to truth.",
+    "type": "hero"
+  },
+  {
+    "word": "Thrasybule",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Athenian general who led the resistance against the Thirty Tyrants to restore democracy.",
+    "type": "hero"
+  },
+  {
+    "word": "Tisamenus",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A son of Orestes who reigned as king of Sparta and Argos before falling in battle against the Heracleidae.",
+    "type": "hero"
+  },
+  {
+    "word": "Tloos",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A figure from Greek mythology mentioned as a son of the hero Heracles and Lysippe.",
+    "type": "hero"
+  },
+  {
+    "word": "Tragasus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A figure from Greek legend associated with the geography of the Troad and the city of Tragasai.",
+    "type": "hero"
+  },
+  {
+    "word": "Tremilus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A legendary figure associated with the founding of the city of Tlos in Lycia.",
+    "type": "hero"
+  },
+  {
+    "word": "Trojan Leaders",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "aggressive"
+    ],
+    "origin": "Legendary commanders of the city of Troy during the ten-year siege by the Achaeans.",
+    "type": "hero"
+  },
+  {
+    "word": "Tyrimmas of Dodona",
+    "syl": 7,
+    "len": 18,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary king of Dodona in Epirus known from early Greek genealogical traditions.",
+    "type": "hero"
+  },
+  {
+    "word": "Xanthius",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A name derived from the Greek word for fair-haired or golden, often associated with figures of nobility in classical literature.",
+    "type": "hero"
+  },
+  {
+    "word": "Zorus",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A legendary figure associated with the martial traditions and early warrior cults of ancient Greece.",
+    "type": "hero"
+  },
+  {
+    "word": "Aeternae",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Legendary creatures of ancient lore representing eternal or immortal entities often associated with the boundaries of the afterlife.",
+    "type": "creature"
+  },
+  {
+    "word": "Alphito",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A Greek bogeywoman or flour-goddess used by nurses to frighten children into obedience.",
+    "type": "creature"
+  },
+  {
+    "word": "Anthropophage",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A term from ancient Greek literature describing beings or tribes that practice cannibalism.",
+    "type": "creature"
+  },
+  {
+    "word": "Aspidochelone",
+    "syl": 5,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A colossal sea monster of medieval bestiaries described as a whale or island that lures sailors to their doom.",
+    "type": "creature"
+  },
+  {
+    "word": "Basilisk",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A lethal serpent of Greek legend capable of killing with a single glance or its venomous breath.",
+    "type": "creature"
+  },
+  {
+    "word": "Bonnacon",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A legendary beast described by Pliny the Elder as having a bull-like head and inward-curving horns that expelled caustic fire-like dung to repel pursuers.",
+    "type": "creature"
+  },
+  {
+    "word": "Calydonian boar hunt",
+    "syl": 7,
+    "len": 20,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A monstrous boar sent by Artemis to ravage the region of Calydon until it was slain by a band of heroes led by Meleager.",
+    "type": "creature"
+  },
+  {
+    "word": "Campe",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A chthonic monster with a serpent tail and scorpion sting tasked by Cronus to guard the Hecatoncheires in Tartarus.",
+    "type": "creature"
+  },
+  {
+    "word": "Cattle of Helios",
+    "syl": 6,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Seven herds of sacred cattle tended by the daughters of the sun god Helios on the island of Thrinacia.",
+    "type": "creature"
+  },
+  {
+    "word": "Centaur",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A creature from Greek mythology possessing the upper body of a human and the lower body and legs of a horse.",
+    "type": "creature"
+  },
+  {
+    "word": "Cerastes",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A legendary desert serpent described in ancient texts as having horns and the ability to mimic the voices of humans to lure prey.",
+    "type": "creature"
+  },
+  {
+    "word": "Cerberus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "The multi-headed hound that guards the gates of the Greek underworld to prevent the dead from leaving.",
+    "type": "creature"
+  },
+  {
+    "word": "Cercopes",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A pair of mischievous, shape-shifting forest brothers who were turned into monkeys by Zeus for their deceitful behavior.",
+    "type": "creature"
+  },
+  {
+    "word": "Ceryneian Hind",
+    "syl": 6,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A golden-horned deer sacred to Artemis that Heracles pursued for an entire year to complete his third labor.",
+    "type": "creature"
+  },
+  {
+    "word": "Ceuthonymus",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A chthonic deity in Greek mythology who resides in the underworld and is identified as the father of Menoetes.",
+    "type": "creature"
+  },
+  {
+    "word": "Cinnamon bird",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A legendary creature from Greek accounts of Arabia said to collect cinnamon sticks to build its nest in inaccessible cliffs.",
+    "type": "creature"
+  },
+  {
+    "word": "Crocotta",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A mythical dog-wolf hybrid from Indian and Ethiopian folklore said to mimic the human voice to lure prey into the forest.",
+    "type": "creature"
+  },
+  {
+    "word": "Crommyonian Sow",
+    "syl": 5,
+    "len": 15,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A monstrous pig that terrorized the region of Crommyon before being slain by the hero Theseus.",
+    "type": "creature"
+  },
+  {
+    "word": "Echeneis",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A legendary fish described by ancient writers as having the power to halt ships by attaching itself to the hull.",
+    "type": "creature"
+  },
+  {
+    "word": "Gelin",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A figure from Greek folklore often associated with the restless spirits of those who died before their wedding day.",
+    "type": "creature"
+  },
+  {
+    "word": "Gello",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Ancient Greek female demon said to kidnap or kill children.",
+    "type": "creature"
+  },
+  {
+    "word": "Griffin",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A legendary creature with the body of a lion and the head and wings of an eagle, often depicted as a guardian of divine treasure.",
+    "type": "creature"
+  },
+  {
+    "word": "Hecatoncheires",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Giants of Greek mythology possessing one hundred hands and fifty heads, born to Uranus and Gaia.",
+    "type": "creature"
+  },
+  {
+    "word": "Hellhound",
+    "syl": 2,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A supernatural canine guardian of the underworld in Greek mythology, most notably represented by the three-headed Cerberus.",
+    "type": "creature"
+  },
+  {
+    "word": "Hieracosphinx",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A creature with the body of a lion and the head of a hawk, often associated with divine protection in ancient Egyptian and Greek-influenced iconography.",
+    "type": "creature"
+  },
+  {
+    "word": "Hippalectryon",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A chimerical creature from Greek mythology depicted as the front half of a horse and the hind half of a rooster.",
+    "type": "creature"
+  },
+  {
+    "word": "Ichthyocentaur",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A pair of sea-gods with the upper bodies of human men, the lower foreparts of horses, and the tails of fish.",
+    "type": "creature"
+  },
+  {
+    "word": "Indus worm",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A legendary white, nocturnal worm found in the Indus River that was said to be indestructible and highly valuable for its silk-like secretions.",
+    "type": "creature"
+  },
+  {
+    "word": "Jaculus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A winged serpent from Greek and Roman mythology capable of launching itself like a javelin at its prey.",
+    "type": "creature"
+  },
+  {
+    "word": "Kallikantzaros",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Malevolent goblin-like creatures of Greek folklore that emerge from the underworld during the twelve days of Christmas.",
+    "type": "creature"
+  },
+  {
+    "word": "Kobalos",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A mischievous and shape-shifting spirit in Greek folklore known for trickery and thievery.",
+    "type": "creature"
+  },
+  {
+    "word": "Laestrygonians",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A tribe of man-eating giants encountered by Odysseus during his journey home to Ithaca.",
+    "type": "creature"
+  },
+  {
+    "word": "Lamia",
+    "syl": 3,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A Libyan queen turned into a child-eating monster after her children were destroyed by Hera.",
+    "type": "creature"
+  },
+  {
+    "word": "Leontophone",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A small, lethal creature mentioned in ancient bestiaries whose body was said to be so toxic that it could kill a lion upon contact.",
+    "type": "creature"
+  },
+  {
+    "word": "Macrocephali",
+    "syl": 5,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A legendary race of long-headed people described by ancient Greek geographers as living near the Euxine Sea.",
+    "type": "creature"
+  },
+  {
+    "word": "Maenad",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Female followers of Dionysus who engaged in ecstatic frenzied rituals in the wilderness.",
+    "type": "creature"
+  },
+  {
+    "word": "Minoan Genius",
+    "syl": 5,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A supernatural being depicted in Bronze Age Cretan art, often shown as a lion-headed figure carrying a libation jug.",
+    "type": "creature"
+  },
+  {
+    "word": "Mormo",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A night-fearing spirit from Greek folklore described as a biting monster that frightened children into obedience.",
+    "type": "creature"
+  },
+  {
+    "word": "Myrmekes",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "Gold-digging giant ants from Greek mythology that inhabited the mountains of India.",
+    "type": "creature"
+  },
+  {
+    "word": "Neades",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A legendary monster of Samos described by ancient writers as being so large and loud that its roar could cause earthquakes.",
+    "type": "creature"
+  },
+  {
+    "word": "Odontotyrannos",
+    "syl": 6,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A legendary giant beast described in medieval bestiaries as a tooth-tyrant with a horn and a human-like face.",
+    "type": "creature"
+  },
+  {
+    "word": "Onocentaur",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A creature from Greek mythology with the upper body of a man and the lower body of a donkey.",
+    "type": "creature"
+  },
+  {
+    "word": "Ophiotaurus",
+    "syl": 5,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A creature from Greek mythology with the body of a bull and the tail of a serpent, whose entrails were said to grant the power to defeat the gods.",
+    "type": "creature"
+  },
+  {
+    "word": "Podarge",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "One of the Harpies in Greek mythology, whose name translates to swift-footed.",
+    "type": "creature"
+  },
+  {
+    "word": "Pyrausta",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A legendary insect-like creature from Cypriot folklore said to live within fire and perish if removed from the flames.",
+    "type": "creature"
+  },
+  {
+    "word": "Satyr",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "A woodland deity associated with Dionysus, depicted as a man with horse or goat features.",
+    "type": "creature"
+  },
+  {
+    "word": "Satyress",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Female counterpart to the satyr in Greek mythology, often associated with the wild and the retinue of Dionysus.",
+    "type": "creature"
+  },
+  {
+    "word": "Sea goat",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A hybrid creature with the upper body of a goat and the lower body of a fish, identified with the constellation Capricorn.",
+    "type": "creature"
+  },
+  {
+    "word": "Sea serpent",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A serpentine sea monster appearing in various Greek myths, most notably as the creatures sent by Poseidon to punish Laocoön and his sons.",
+    "type": "creature"
+  },
+  {
+    "word": "Serpent symbolism",
+    "syl": 6,
+    "len": 17,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Ancient Greek iconography often depicted serpents as chthonic manifestations of the earth, wisdom, or guardians of sacred spaces.",
+    "type": "creature"
+  },
+  {
+    "word": "Spercheides",
+    "syl": 2,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A group of nymphs associated with the Spercheios River in Thessaly.",
+    "type": "creature"
+  },
+  {
+    "word": "Sphinx",
+    "syl": 1,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A creature with the head of a human, the body of a lion, and the wings of a bird, known for guarding the city of Thebes and posing lethal riddles.",
+    "type": "creature"
+  },
+  {
+    "word": "Stymphalian birds",
+    "syl": 5,
+    "len": 17,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Man-eating birds with metallic feathers that plagued the marshes of Arcadia and were defeated by Heracles.",
+    "type": "creature"
+  },
+  {
+    "word": "Taraxippus",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A spectral entity in Greek mythology that frightened horses during chariot races at the Isthmian and Olympian games.",
+    "type": "creature"
+  },
+  {
+    "word": "Teumessian fox",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A giant fox in Greek mythology destined never to be caught, which was later turned into stone by Zeus.",
+    "type": "creature"
+  },
+  {
+    "word": "Thelxinoë",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "One of the four original Muses in Spartan tradition, whose name signifies the charming of the mind.",
+    "type": "creature"
+  },
+  {
+    "word": "Vrykolakas",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A malevolent undead creature from Greek folklore that rises from the grave to terrorize the living.",
+    "type": "creature"
+  },
+  {
+    "word": "Winged horse",
+    "syl": 2,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A divine creature born from the blood of Medusa that serves as a mount for heroes and gods in Greek mythology.",
+    "type": "creature"
+  },
+  {
+    "word": "Winged unicorn",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A composite creature combining the grace of the equine form with the celestial symbolism of wings found in various mythological traditions.",
+    "type": "creature"
+  },
+  {
+    "word": "Aello",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "One of the Harpies in Greek mythology, whose name translates to storm swift.",
+    "type": "creature"
+  },
+  {
+    "word": "Amphisbaena",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A serpent with a head at each end of its body, often described in Greek mythology as having venomous fangs and glowing eyes.",
+    "type": "creature"
+  },
+  {
+    "word": "Argus Panoptes",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A hundred-eyed giant from Greek mythology who served as a vigilant, all-seeing watchman for Hera.",
+    "type": "creature"
+  },
+  {
+    "word": "Cretan Bull",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A powerful beast associated with King Minos that was captured by Heracles as one of his twelve labors.",
+    "type": "creature"
+  },
+  {
+    "word": "Empusa",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A monstrous shapeshifter in Greek mythology that served Hecate and preyed on travelers.",
+    "type": "creature"
+  },
+  {
+    "word": "Erymanthian boar",
+    "syl": 6,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A monstrous boar from Mount Erymanthus that was captured by Heracles as his fourth labor.",
+    "type": "creature"
+  },
+  {
+    "word": "Gorgons",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Three monstrous sisters in Greek mythology whose gaze could turn onlookers into stone.",
+    "type": "creature"
+  },
+  {
+    "word": "A Libyan Myth",
+    "syl": 5,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Ancient Greek accounts describe the Libyan desert as a region teeming with legendary monsters and monstrous serpents.",
+    "type": "creature"
+  },
+  {
+    "word": "Lion of Cithaeron",
+    "syl": 6,
+    "len": 17,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A monstrous lion that terrorized the region of Cithaeron and was eventually slain by Alcathous.",
+    "type": "creature"
+  },
+  {
+    "word": "Mares of Diomedes",
+    "syl": 5,
+    "len": 17,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "A set of four man-eating horses belonging to the Thracian king Diomedes, captured by Heracles as his eighth labor.",
+    "type": "creature"
+  },
+  {
+    "word": "Minotaur",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A bull-headed monster born of Pasiphae, imprisoned within the Labyrinth of Minos.",
+    "type": "creature"
+  },
+  {
+    "word": "Nemean lion",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "mythic"
+    ],
+    "origin": "A monstrous beast from Nemea with impenetrable golden fur that was the first labor of Heracles.",
+    "type": "creature"
+  },
+  {
+    "word": "Orthrus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "ominous"
+    ],
+    "origin": "Two-headed dog of Geryon who was eventually slain by Heracles.",
+    "type": "creature"
+  },
+  {
+    "word": "Abii",
+    "syl": 3,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient people described by Greek writers as living in the far north, noted for their simplicity and rejection of wealth.",
+    "type": "place"
+  },
+  {
+    "word": "Acadine",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A legendary fountain in Sicily whose waters were said to reveal the truth when written on a tablet and cast into the pool.",
+    "type": "place"
+  },
+  {
+    "word": "Acherusia",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A region in Greek mythology believed to be an entrance to the underworld, often associated with dark lakes or subterranean rivers.",
+    "type": "place"
+  },
+  {
+    "word": "Adonis Baths",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A secluded waterfall and pool in Cyprus where the mythological figure Adonis is said to have bathed.",
+    "type": "place"
+  },
+  {
+    "word": "Aeaea",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "The mythical island of the sorceress Circe in the Odyssey, located in the far reaches of the eastern sea.",
+    "type": "place"
+  },
+  {
+    "word": "Agelasta",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mythical rock in Eleusis where Demeter was said to have sat in silent mourning during her search for Persephone.",
+    "type": "place"
+  },
+  {
+    "word": "Amphilochian Argos",
+    "syl": 7,
+    "len": 18,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in the region of Amphilochia, said to have been founded by the hero Amphilochus after the Trojan War.",
+    "type": "place"
+  },
+  {
+    "word": "Andromeda's rock",
+    "syl": 5,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A jagged coastal formation in Aethiopia where Andromeda was chained as a sacrifice to a sea monster.",
+    "type": "place"
+  },
+  {
+    "word": "Antissa",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An ancient city on the island of Lesbos named after the daughter of Macareus, famously associated with the head of Orpheus.",
+    "type": "place"
+  },
+  {
+    "word": "Aornum",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "An ancient Greek term for a place lacking birds, often associated with entrances to the underworld or toxic volcanic craters.",
+    "type": "place"
+  },
+  {
+    "word": "Apesas",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain in the Peloponnese where Perseus supposedly sacrificed to Zeus Apesantius.",
+    "type": "place"
+  },
+  {
+    "word": "Aphidna",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient Attic deme located on the road between Athens and Boeotia.",
+    "type": "place"
+  },
+  {
+    "word": "Aroanian Mountains",
+    "syl": 6,
+    "len": 18,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A rugged mountain range in the northern Peloponnese of Greece, home to the Styx river and associated with ancient Arcadian traditions.",
+    "type": "place"
+  },
+  {
+    "word": "Aroanius",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "River of Arcadia in the Peloponnese, historically associated with singing fish that were said to chirp like thrushes.",
+    "type": "place"
+  },
+  {
+    "word": "Axos",
+    "syl": 2,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city-state on the island of Crete that served as a significant center for bronze working.",
+    "type": "place"
+  },
+  {
+    "word": "Beşparmak Mountains",
+    "syl": 5,
+    "len": 19,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain range in Anatolia historically known as Mount Latmus, traditionally associated with the sanctuary of Endymion.",
+    "type": "place"
+  },
+  {
+    "word": "Boösaule",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A sanctuary in Arcadia dedicated to Demeter, where the goddess was said to have hidden from Poseidon.",
+    "type": "place"
+  },
+  {
+    "word": "Bouneima",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient site associated with the region of Arcadia in the Peloponnese.",
+    "type": "place"
+  },
+  {
+    "word": "Caeno",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Derived from the Greek word kainos, signifying something new, fresh, or recently brought into existence.",
+    "type": "place"
+  },
+  {
+    "word": "Cape Malea",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A treacherous promontory on the Peloponnese peninsula known in antiquity for its violent storms and unpredictable currents.",
+    "type": "place"
+  },
+  {
+    "word": "Cape Matapan",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The southernmost point of the Peloponnese peninsula, historically known as the location of the entrance to the underworld.",
+    "type": "place"
+  },
+  {
+    "word": "Cape St. Vincent",
+    "syl": 4,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Known to the Greeks as the Sacred Promontory, this southwesternmost point of Europe was believed to be the place where the gods gathered at the edge of the world.",
+    "type": "place"
+  },
+  {
+    "word": "Castabus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in the Chersonesus of Caria that housed a significant sanctuary dedicated to Hemithea.",
+    "type": "place"
+  },
+  {
+    "word": "Cave of Euripides",
+    "syl": 5,
+    "len": 17,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A coastal cavern on the island of Salamis where the playwright Euripides allegedly retreated to write his tragedies.",
+    "type": "place"
+  },
+  {
+    "word": "Cebrenia",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient region in the Troad of northwestern Anatolia, named after the river Cebren.",
+    "type": "place"
+  },
+  {
+    "word": "Ceryneia",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain town in Arcadia where the golden-horned hind sacred to Artemis was pursued by Heracles.",
+    "type": "place"
+  },
+  {
+    "word": "Chalcedon",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient Greek city located in Bithynia, situated on the Bosporus opposite the site of Byzantium.",
+    "type": "place"
+  },
+  {
+    "word": "Cichyrus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in Epirus identified by some as the site of the Nekromanteion or oracle of the dead.",
+    "type": "place"
+  },
+  {
+    "word": "Cius",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient Greek city-state located on the coast of Bithynia that served as a significant port for trade in the Propontis region.",
+    "type": "place"
+  },
+  {
+    "word": "Cleitor",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city in Arcadia, Greece, known for a spring that allegedly caused drinkers to develop an aversion to wine.",
+    "type": "place"
+  },
+  {
+    "word": "Corfu",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An Ionian island known in antiquity as Scheria, the legendary home of the Phaeacians who aided Odysseus.",
+    "type": "place"
+  },
+  {
+    "word": "Corycian Cave",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A sacred cavern on Mount Parnassus in Greece, traditionally associated with the Corycian nymphs and the god Pan.",
+    "type": "place"
+  },
+  {
+    "word": "Cretea",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An archaic variant name for the island of Crete, a central hub of Minoan civilization and the legendary home of the labyrinth.",
+    "type": "place"
+  },
+  {
+    "word": "Crocylea",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient island mentioned in the Homeric Catalogue of Ships, often associated with the Ionian group of islands.",
+    "type": "place"
+  },
+  {
+    "word": "Crommyon",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A village in the Isthmus of Corinth notorious for being the lair of a giant, ravaging wild sow defeated by Theseus.",
+    "type": "place"
+  },
+  {
+    "word": "Cyclopean Isles",
+    "syl": 4,
+    "len": 15,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A group of islands mentioned in the Odyssey where the one-eyed Cyclopes were said to dwell.",
+    "type": "place"
+  },
+  {
+    "word": "Cynthus",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A mountain on the island of Delos believed to be the birthplace of the deities Apollo and Artemis.",
+    "type": "place"
+  },
+  {
+    "word": "Cyphanta",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient coastal town in the region of Laconia mentioned in historical geography.",
+    "type": "place"
+  },
+  {
+    "word": "Damalis",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant"
+    ],
+    "origin": "An ancient name for a location on the Bosphorus, often associated with a heifer or a calf in Greek mythology.",
+    "type": "place"
+  },
+  {
+    "word": "Deipnias",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient Greek term associated with the festival of the feast, often linked to ritual dining practices in religious contexts.",
+    "type": "place"
+  },
+  {
+    "word": "Dikti",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain range on the island of Crete, traditionally considered the birthplace of the god Zeus.",
+    "type": "place"
+  },
+  {
+    "word": "Dindymon",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain in Phrygia sacred to Cybele, the Great Mother of the gods.",
+    "type": "place"
+  },
+  {
+    "word": "Elefsina",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient Greek city home to the Eleusinian Mysteries, the most famous secret religious rites of the ancient world.",
+    "type": "place"
+  },
+  {
+    "word": "Eleutherae",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient border town between Attica and Boeotia that was once a sanctuary of Dionysus.",
+    "type": "place"
+  },
+  {
+    "word": "Ellopia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An ancient region in Euboea associated with the Ellopians and referenced in early Hellenic mythology.",
+    "type": "place"
+  },
+  {
+    "word": "Epidaurus Limera",
+    "syl": 7,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An ancient coastal city in the Peloponnese known for its strategic harbor and proximity to the cult centers of Laconia.",
+    "type": "place"
+  },
+  {
+    "word": "Erytheia",
+    "syl": 5,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A mythical island in the far west where the sun sets and the cattle of Geryon were kept.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Etna",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "An active stratovolcano on the east coast of Sicily associated in Greek mythology with the prison of the monster Typhon and the forge of Hephaestus.",
+    "type": "place"
+  },
+  {
+    "word": "Folegandros",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "A rugged Greek island in the Cyclades named after the son of King Minos of Crete.",
+    "type": "place"
+  },
+  {
+    "word": "Fortunate Isles",
+    "syl": 4,
+    "len": 15,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A legendary paradise in Greek mythology located at the edge of the world where the souls of heroes resided after death.",
+    "type": "place"
+  },
+  {
+    "word": "Gelonus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A legendary fortified city of Scythia mentioned by Herodotus as the dwelling place of the Budini.",
+    "type": "place"
+  },
+  {
+    "word": "Glisas",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city in Boeotia mentioned by Homer in the Catalogue of Ships.",
+    "type": "place"
+  },
+  {
+    "word": "Gortyna",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city-state on Crete known for the Gortyn Code, one of the oldest legal systems in Greece.",
+    "type": "place"
+  },
+  {
+    "word": "Harpagion",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient Greek coastal city located in the Propontis region, historically noted for its strategic position.",
+    "type": "place"
+  },
+  {
+    "word": "Helike",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient Achaean city that was suddenly destroyed and submerged by an earthquake and tsunami in 373 BCE.",
+    "type": "place"
+  },
+  {
+    "word": "Hierapytna",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city located on the southeastern coast of Crete, known for its strategic position and maritime influence.",
+    "type": "place"
+  },
+  {
+    "word": "Hippocrene",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A fountain on Mount Helicon created by the strike of Pegasus's hoof that served as a source of poetic inspiration.",
+    "type": "place"
+  },
+  {
+    "word": "Hippotae",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient settlement in the region of Aetolia frequently referenced in early Greek historical and geographical accounts.",
+    "type": "place"
+  },
+  {
+    "word": "Homer's Ithaca",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The rocky Ionian island home of Odysseus in the Odyssey, representing the ultimate destination and the concept of homecoming.",
+    "type": "place"
+  },
+  {
+    "word": "Ikaria",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "An island in the Aegean Sea named after Icarus, who fell into the surrounding waters after his wax wings melted.",
+    "type": "place"
+  },
+  {
+    "word": "Iolcus",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Ancient city in Thessaly that served as the home of Jason and the starting point for the voyage of the Argonauts.",
+    "type": "place"
+  },
+  {
+    "word": "Islands of Diomedes",
+    "syl": 6,
+    "len": 19,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Small islands in the Adriatic Sea said to be inhabited by the transformed companions of the hero Diomedes after his death.",
+    "type": "place"
+  },
+  {
+    "word": "Ithome",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain in Messenia known for its ancient fortress and as a site of significant historical resistance against Spartan rule.",
+    "type": "place"
+  },
+  {
+    "word": "Labyrinth",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "An elaborate maze constructed by Daedalus for King Minos to contain the Minotaur.",
+    "type": "place"
+  },
+  {
+    "word": "Lake Tritonis",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A legendary body of water in ancient North Africa where Athena was said to have been born or first appeared.",
+    "type": "place"
+  },
+  {
+    "word": "Lebaea",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city in Lower Macedonia mentioned by Herodotus as the place where the three brothers of the Argead dynasty fled to escape the king of the Temenidae.",
+    "type": "place"
+  },
+  {
+    "word": "Leibethra",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "An ancient city in Pieria associated with the death of Orpheus and the resting place of his remains.",
+    "type": "place"
+  },
+  {
+    "word": "Letrini",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An ancient city in the region of Elis, legendarily named after Letrinus, the son of Pelops.",
+    "type": "place"
+  },
+  {
+    "word": "Lousios",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A river in Arcadia, Greece, where the infant Zeus is said to have been bathed by nymphs.",
+    "type": "place"
+  },
+  {
+    "word": "Lyrnessus",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in the Troad region of Anatolia, famously sacked by Achilles during the Trojan War.",
+    "type": "place"
+  },
+  {
+    "word": "Madytus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient Greek town located on the Thracian Chersonesus overlooking the Hellespont.",
+    "type": "place"
+  },
+  {
+    "word": "Marathon, Greece",
+    "syl": 4,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Site of the 490 BCE battle where Athenian forces defeated the Persians, inspiring the modern long-distance race.",
+    "type": "place"
+  },
+  {
+    "word": "Matala, Crete",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A coastal village in Crete famous for its Neolithic caves carved into the sandstone cliffs overlooking the Libyan Sea.",
+    "type": "place"
+  },
+  {
+    "word": "Megara",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city-state in the Isthmus of Corinth known for its strategic importance and rivalry with Athens.",
+    "type": "place"
+  },
+  {
+    "word": "Mesatis",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in the region of Achaea, Greece, located in the vicinity of the modern town of Kalavryta.",
+    "type": "place"
+  },
+  {
+    "word": "Methydrium",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in Arcadia, Greece, situated on a hill near the confluence of the Maloetas and Ladon rivers.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Agdistis",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain in Phrygia associated with the cult of the hermaphroditic deity Agdistis born from the seed of Zeus.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Arganthonius",
+    "syl": 6,
+    "len": 18,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain in Bithynia where the youth Hylas was abducted by water nymphs.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Cragus",
+    "syl": 3,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain range in Lycia often associated with the residence of the Chimera in ancient Greek mythology.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Ida",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain in Crete associated with the cave where the infant Zeus was hidden and raised.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Kyllini",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain in the Peloponnese region of Greece traditionally considered the birthplace of the god Hermes.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Lichada",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A mountain in Euboea associated with the legend of Lichas, the servant who delivered the poisoned tunic to Heracles.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Lykaion",
+    "syl": 5,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain in Arcadia considered the sacred birthplace of Zeus and the site of archaic rituals.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Maenalus",
+    "syl": 4,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain range in Arcadia sacred to the god Pan, known for its dense forests and rugged terrain.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Olympus",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The highest peak in Greece and the mythical home of the twelve Olympian deities.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Othrys",
+    "syl": 3,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The mountain in central Greece that served as the base for the Titans during their war against the Olympian gods.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Phoukas",
+    "syl": 3,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "A mountain peak in the Peloponnese region of Greece, historically known as Mount Apesas.",
+    "type": "place"
+  },
+  {
+    "word": "Nemea",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient valley in Argolis where Heracles performed the first of his twelve labors by slaying the Nemean lion.",
+    "type": "place"
+  },
+  {
+    "word": "Nericus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city on the island of Leucas mentioned by Homer in the Catalogue of Ships.",
+    "type": "place"
+  },
+  {
+    "word": "Neritum",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient mountain and town on the island of Ithaca, mentioned in the Odyssey as a prominent landmark.",
+    "type": "place"
+  },
+  {
+    "word": "Nisaea",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "One of the Nereids in Greek mythology, often associated with the sea and coastal locations.",
+    "type": "place"
+  },
+  {
+    "word": "Oesyme",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient Thracian coastal town mentioned by Homer, located near the Strymon river.",
+    "type": "place"
+  },
+  {
+    "word": "Ogygia",
+    "syl": 4,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "The mythical island of the nymph Calypso where Odysseus was held captive for seven years.",
+    "type": "place"
+  },
+  {
+    "word": "Oncae",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in Boeotia, Greece, associated with the cult of Athena Onca.",
+    "type": "place"
+  },
+  {
+    "word": "Onceium",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A legendary or archaic site often referenced in obscure mythological texts as a place of ancient gathering.",
+    "type": "place"
+  },
+  {
+    "word": "Ortygia",
+    "syl": 4,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An ancient island in Syracuse associated with the myth of Artemis and the nymph Arethusa.",
+    "type": "place"
+  },
+  {
+    "word": "Pagae",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient coastal town in Megaris located on the Corinthian Gulf.",
+    "type": "place"
+  },
+  {
+    "word": "Panopeus",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in Phocis, Greece, said to be named after the son of Phocus in the Iliad.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Parnassus",
+    "syl": 4,
+    "len": 15,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "Limestone mountain in central Greece held sacred to Apollo and the Corycian nymphs and home to the Castalian Spring.",
+    "type": "place"
+  },
+  {
+    "word": "Mount Parthenion",
+    "syl": 4,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A mountain range in Arcadia known as the site where the god Pan appeared to the courier Pheidippides before the Battle of Marathon.",
+    "type": "place"
+  },
+  {
+    "word": "Pefnos",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A small islet off the coast of Laconia where, according to legend, the Dioscuri twins Castor and Pollux were born.",
+    "type": "place"
+  },
+  {
+    "word": "Peirana",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A sacred fountain in Corinth, said to have been created by the tears of a nymph mourning her son.",
+    "type": "place"
+  },
+  {
+    "word": "Pillars of Hercules",
+    "syl": 5,
+    "len": 19,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The promontories flanking the entrance to the Strait of Gibraltar, traditionally marking the edge of the known world for ancient Mediterranean civilizations.",
+    "type": "place"
+  },
+  {
+    "word": "Pimpleia",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "An ancient spring and sanctuary in Pieria associated with the Muses and the birthplace of Orpheus.",
+    "type": "place"
+  },
+  {
+    "word": "Piraeus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "The primary port city of Athens, serving as the strategic naval hub of the ancient Greek world.",
+    "type": "place"
+  },
+  {
+    "word": "Planctae",
+    "syl": 2,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "The wandering rocks of Greek mythology that crashed together to crush any ship passing between them.",
+    "type": "place"
+  },
+  {
+    "word": "Psophis",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city in Arcadia, Greece, said to be founded by Psophis, the son of Arrhon.",
+    "type": "place"
+  },
+  {
+    "word": "Psychro Cave",
+    "syl": 3,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A cave located on Mount Dicte in Crete believed by ancient tradition to be the birthplace of Zeus.",
+    "type": "place"
+  },
+  {
+    "word": "Pygela",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient coastal town in Ionia said to have been founded by Agamemnon on his return from the Trojan War.",
+    "type": "place"
+  },
+  {
+    "word": "Pyrrhichus",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient Laconian coastal town associated with the legendary hero Pyrrhichus and the development of the martial Pyrrhic dance.",
+    "type": "place"
+  },
+  {
+    "word": "Racecourse of Achilles",
+    "syl": 6,
+    "len": 22,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A legendary site in the Aegean Sea, often associated with the tomb of Achilles and the athletic games held in his honor.",
+    "type": "place"
+  },
+  {
+    "word": "Rarian Field",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A plain near Eleusis where the goddess Demeter first taught humans how to sow grain.",
+    "type": "place"
+  },
+  {
+    "word": "Scheria",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "The mythical island home of the Phaeacians in the Odyssey, known for its advanced craftsmanship and hospitality.",
+    "type": "place"
+  },
+  {
+    "word": "Scirum",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient settlement in the region of Attica located near the sacred road to Eleusis.",
+    "type": "place"
+  },
+  {
+    "word": "Serifos",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An island in the Cyclades where Perseus was said to have grown up after arriving in a chest with his mother Danae.",
+    "type": "place"
+  },
+  {
+    "word": "Silpium",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in Cyrenaica known for its proximity to the prized silphium plant which was harvested to extinction.",
+    "type": "place"
+  },
+  {
+    "word": "Sirenum Scopuli",
+    "syl": 6,
+    "len": 15,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Legendary jagged rocks off the coast of Italy where the Sirens lived and lured sailors to their doom with enchanting songs.",
+    "type": "place"
+  },
+  {
+    "word": "Skyros",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An island in the Aegean Sea where Theseus is said to have died and Achilles once hid.",
+    "type": "place"
+  },
+  {
+    "word": "Sparta",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "aggressive",
+      "austere"
+    ],
+    "origin": "Prominent city-state in ancient Greece known for its rigorous military training and disciplined society.",
+    "type": "place"
+  },
+  {
+    "word": "Symplegades",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Known as the Clashing Rocks, these legendary twin cliffs crushed any ship that attempted to pass between them.",
+    "type": "place"
+  },
+  {
+    "word": "Taenarum",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A cape in the Mani Peninsula featuring a cave entrance traditionally regarded as one of the gates to the underworld.",
+    "type": "place"
+  },
+  {
+    "word": "Telepylos",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "The mythical city of the Laestrygonians described in the Odyssey as a land of giants where the sun never sets.",
+    "type": "place"
+  },
+  {
+    "word": "Tenea",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient city in the Peloponnese of Greece, legendary for its wealth and its supposed founding by Trojan captives.",
+    "type": "place"
+  },
+  {
+    "word": "Termera",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient city in Caria, known for its strategic position and association with the tyrant Tymnes.",
+    "type": "place"
+  },
+  {
+    "word": "Teumessus",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A legendary mountain near Thebes, home to a monstrous fox destined never to be caught.",
+    "type": "place"
+  },
+  {
+    "word": "Teuthrania",
+    "syl": 4,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "An ancient region of Mysia in Asia Minor, traditionally ruled by the king Teuthras.",
+    "type": "place"
+  },
+  {
+    "word": "Thelpusa",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic"
+    ],
+    "origin": "An ancient city in Arcadia, Greece, named after the nymph Thelpusa, daughter of the river god Ladon.",
+    "type": "place"
+  },
+  {
+    "word": "Thera",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An Aegean island, also known as Santorini, famously associated with the volcanic eruption that inspired the legend of Atlantis.",
+    "type": "place"
+  },
+  {
+    "word": "Therapne",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "An ancient town in Laconia believed to be the site of the sanctuary of Menelaus and Helen.",
+    "type": "place"
+  },
+  {
+    "word": "Thira",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "luminous"
+    ],
+    "origin": "An ancient Greek island in the Aegean Sea, known for its dramatic volcanic caldera and white-washed architecture.",
+    "type": "place"
+  },
+  {
+    "word": "Thriasio Plain",
+    "syl": 5,
+    "len": 14,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A coastal plain in Attica associated with the Eleusinian Mysteries and the cult of Demeter.",
+    "type": "place"
+  },
+  {
+    "word": "Thrinacia",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "mythic"
+    ],
+    "origin": "The mythical island of the sun god Helios where his sacred cattle grazed during the Odyssey.",
+    "type": "place"
+  },
+  {
+    "word": "Thule",
+    "syl": 1,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A land described by ancient Greek explorers as the northernmost region of the known world.",
+    "type": "place"
+  },
+  {
+    "word": "Tilphussa",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A spring in Boeotia near Mount Helicon where the seer Teiresias drank and died.",
+    "type": "place"
+  },
+  {
+    "word": "Tinos",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A Greek island in the Aegean Sea known for its marble craftsmanship and religious significance in the Cyclades.",
+    "type": "place"
+  },
+  {
+    "word": "Trachis",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "An ancient Greek city in Trachinia located at the foot of Mount Oeta where Heracles is said to have died.",
+    "type": "place"
+  },
+  {
+    "word": "Troy",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Ancient city in Anatolia famous for the decade-long siege depicted in the Homeric epics.",
+    "type": "place"
+  }
+]

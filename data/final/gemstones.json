@@ -1,0 +1,1893 @@
+[
+  {
+    "word": "Cinnabar",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "elegant"
+    ],
+    "origin": "Mercury sulfide ore, deep vermilion.",
+    "color": "red",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Peridot",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Gem-variety olivine, olive green.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Obsidian",
+    "syl": 4,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "Volcanic glass, conchoidal fracture.",
+    "color": "black",
+    "rarity": "common"
+  },
+  {
+    "word": "Larimar",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Blue pectolite found only in Dominica.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Tanzanite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Blue-violet zoisite, Merelani Hills.",
+    "color": "violet",
+    "rarity": "rare"
+  },
+  {
+    "word": "Sugilite",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Purple cyclosilicate, discovered 1944.",
+    "color": "purple",
+    "rarity": "rare"
+  },
+  {
+    "word": "Malachite",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Banded green copper carbonate.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Kyanite",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "Aluminosilicate blade, strongly anisotropic.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Hematite",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Iron oxide with metallic luster.",
+    "color": "black",
+    "rarity": "common"
+  },
+  {
+    "word": "Citrine",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Yellow-orange quartz variety.",
+    "color": "yellow",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Alexandrite",
+    "syl": 4,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Chrysoberyl with dramatic color shift.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Pyrite",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Iron sulfide; \"fool’s gold.\"",
+    "color": "yellow",
+    "rarity": "common"
+  },
+  {
+    "word": "Actinolite",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A silicate mineral found in metamorphic rocks, often occurring as fibrous or radiating crystal aggregates.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Aegirine",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A sodium iron silicate mineral named after Aegir, the Norse god of the sea.",
+    "color": "black",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Afghanite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A rare complex silicate mineral first discovered in the Sar-e-Sang mines of Badakhshan, Afghanistan.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Albite",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A common sodium-rich plagioclase feldspar mineral found in igneous and metamorphic rocks.",
+    "color": "white",
+    "rarity": "common"
+  },
+  {
+    "word": "Amazonite",
+    "syl": 4,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A green to blue-green variety of microcline feldspar named for the Amazon River, though its occurrence there remains unverified.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Amblygonite",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A phosphate mineral often found in pegmatite deposits that forms pale yellow or colorless crystals.",
+    "color": "yellow",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Andalusite",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "An aluminum nesosilicate mineral that exhibits strong pleochroism, shifting colors when viewed from different angles.",
+    "color": "brown",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Andesine",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A plagioclase feldspar mineral found in volcanic rocks, often displaying a warm reddish or golden luster.",
+    "color": "red",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Anglesite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A lead sulfate mineral often found in the oxidation zones of lead deposits, named for its discovery at Anglesey, Wales.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Anorthite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A calcium-rich plagioclase feldspar mineral found in mafic igneous rocks and lunar highland crust.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Anyolite",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A metamorphic rock composed of green zoisite, black tschermakite, and ruby crystals originating from Tanzania.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Apache tears",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A rounded form of obsidian glass named for a legend concerning the grieving families of Apache warriors.",
+    "color": "black",
+    "rarity": "common"
+  },
+  {
+    "word": "Apatite",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A group of phosphate minerals found in diverse igneous and metamorphic environments, often displaying vivid fluorescent properties.",
+    "color": "blue",
+    "rarity": "common"
+  },
+  {
+    "word": "Assembled gem",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A composite stone made of two or more distinct layers fused together to simulate a single gemstone.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Augite",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A dark, common rock-forming pyroxene mineral found primarily in igneous and metamorphic rocks.",
+    "color": "black",
+    "rarity": "common"
+  },
+  {
+    "word": "Axinite",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A group of brown to violet-brown minerals named for their characteristic axe-shaped crystals.",
+    "color": "brown",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Azurite",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A soft, deep blue copper mineral often formed through the weathering of copper ore deposits.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Azurmalachite",
+    "syl": 5,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A natural intergrowth of deep blue azurite and bright green malachite resulting from the weathering of copper ore deposits.",
+    "color": "blue-green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Baryte",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A dense sulfate mineral often forming complex crystal clusters in hydrothermal veins.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Bayldonite",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A secondary mineral discovered in the 19th century consisting of a copper lead arsenate hydroxide.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Belomorite",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A variety of moonstone featuring a characteristic iridescent blue sheen found in the White Sea region of Russia.",
+    "color": "white",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Benitoite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare barium titanium silicate discovered in San Benito County, California, known for its intense blue color and high dispersion.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Beryl",
+    "syl": 2,
+    "len": 5,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A mineral species that serves as the base for several precious gems including emerald and aquamarine.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Bisbee Blue",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A highly prized variety of turquoise discovered in the copper mines of Bisbee, Arizona.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Bowenite",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A translucent, apple-green variety of antigorite serpentine often used for carving ornamental objects.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Brazilianite",
+    "syl": 5,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A phosphate mineral first discovered in the pegmatites of Minas Gerais, Brazil, in 1945.",
+    "color": "yellow",
+    "rarity": "rare"
+  },
+  {
+    "word": "Bytownite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A calcium-rich member of the plagioclase feldspar group named after the former name of Ottawa, Canada.",
+    "color": "yellow",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Callaïs",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "An ancient term for a blue-green gemstone, likely turquoise, referenced by Pliny the Elder.",
+    "color": "blue-green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Canary Diamond",
+    "syl": 6,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare yellow diamond colored by the presence of nitrogen atoms within its crystalline lattice.",
+    "color": "yellow",
+    "rarity": "rare"
+  },
+  {
+    "word": "Cerussite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A lead carbonate mineral known for its complex crystal formations and high brilliance.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Chiastolite",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A variety of andalusite displaying a natural dark cross-shaped inclusion of carbonaceous material.",
+    "color": "brown",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Chlorastrolite",
+    "syl": 4,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare variety of pumpellyite known as greenstone, found primarily on Isle Royale in Lake Superior.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Chrysocolla",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A hydrated copper silicate mineral formed in the oxidation zones of copper ore deposits.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Clinohumite",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A rare nesosilicate mineral of the humite group typically found in metamorphosed limestone.",
+    "color": "yellow",
+    "rarity": "rare"
+  },
+  {
+    "word": "Cordierite",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A magnesium aluminum cyclosilicate mineral named after the French geologist Louis Cordier, often displaying strong pleochroism.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Corundum",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A crystalline form of aluminium oxide that serves as the base mineral for rubies and sapphires.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Cubic zirconia",
+    "syl": 6,
+    "len": 14,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "Crystalline form of zirconium dioxide synthesized as a durable and affordable diamond simulant.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Dallasite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A brecciated variety of jasper and quartz found on Vancouver Island, characterized by its complex, fragmented appearance.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Danburite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A calcium boron silicate mineral named after the city of Danbury, Connecticut where it was first discovered.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Datolite",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A calcium borosilicate hydroxide mineral that forms in cavities of basaltic rocks and hydrothermal veins.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Dioptase",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A vivid emerald-green copper cyclosilicate mineral that forms distinct prismatic crystals.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Dumortierite",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "luminous"
+    ],
+    "origin": "A fibrous aluminium boro-silicate mineral often exhibiting a deep indigo or violet coloration.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Durr Al Najaf",
+    "syl": 4,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous",
+      "mythic"
+    ],
+    "origin": "A translucent variety of quartz found in the Wadi al-Salam valley in Najaf, Iraq, historically significant in regional religious traditions.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Ekanite",
+    "syl": 3,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "ominous"
+    ],
+    "origin": "A rare radioactive silicate mineral first discovered in gem gravels in Sri Lanka.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Elbaite",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A mineral species of the tourmaline group, named after the island of Elba where it was first discovered.",
+    "color": "multicolored",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Emerald",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A variety of the mineral beryl colored green by trace amounts of chromium or vanadium.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Eosphorite",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A manganese aluminum phosphate mineral often found in pegmatites, typically forming radiating clusters of slender crystals.",
+    "color": "pink",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Eudialyte",
+    "syl": 4,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "scientific"
+    ],
+    "origin": "A rare complex silicate mineral discovered in the alkaline igneous rocks of Greenland.",
+    "color": "red",
+    "rarity": "rare"
+  },
+  {
+    "word": "Fluorapatite",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A calcium phosphate mineral occurring in diverse colors, often forming hexagonal crystals in igneous and metamorphic rocks.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Gabronite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A variety of scapolite resulting from the alteration of minerals like cordierite or garnet.",
+    "color": "grey",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Gemstone irradiation",
+    "syl": 7,
+    "len": 20,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A laboratory process using ionizing radiation to induce color changes in gemstones by altering their atomic structure.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Grandidierite",
+    "syl": 4,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A rare magnesium aluminum borosilicate mineral first discovered in Madagascar, known for its distinct blue-green color.",
+    "color": "blue-green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Hardstone",
+    "syl": 2,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A geological term for various semi-precious stones like agate, jasper, or onyx, capable of taking a high polish.",
+    "color": "multicolored",
+    "rarity": "common"
+  },
+  {
+    "word": "Hauyne",
+    "syl": 1,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare tectosilicate mineral known for its intense, vivid azure blue coloration.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Helenite",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A man-made glass created by fusing volcanic ash from the 1980 eruption of Mount Saint Helens.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Hiddenite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A green gem-quality variety of spodumene discovered in North Carolina in 1879.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Humite",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A nesosilicate mineral belonging to the humite group, typically found in metamorphosed limestone deposits.",
+    "color": "yellow",
+    "rarity": "rare"
+  },
+  {
+    "word": "Hyalophane",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A barium-rich feldspar mineral that forms colorless or white translucent crystals.",
+    "color": "colorless",
+    "rarity": "rare"
+  },
+  {
+    "word": "Jacinth",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A historic term for the orange-red variety of zircon, historically significant in ancient jewelry and religious texts.",
+    "color": "orange",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Jade",
+    "syl": 1,
+    "len": 4,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A durable mineral aggregate historically carved into ornaments and ritual objects in East Asia.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Jargoon",
+    "syl": 2,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "An archaic term for zircon, specifically the pale or straw-colored varieties historically sourced from Sri Lanka.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Kashmir Sapphire",
+    "syl": 4,
+    "len": 16,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A highly prized variety of sapphire known for its velvety blue appearance, originating from the Zanskar range in the Himalayas.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Kornerupine",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A rare magnesium aluminum borosilicate mineral named after the Danish naturalist Andreas Nikolaus Kornerup.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Langgan",
+    "syl": 2,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare gem-quality variety of jadeite originating from specific geological formations in Southeast Asia.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Lapis armenus",
+    "syl": 5,
+    "len": 13,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A historical term for azurite, a deep blue copper mineral used as a pigment and ornamental stone in antiquity.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Lapis lazuli",
+    "syl": 5,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A deep-blue metamorphic rock containing lazurite, calcite, and pyrite, historically prized for pigment and jewelry.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Lead apatite",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A mineral species of the apatite group where lead replaces calcium in the crystal lattice.",
+    "color": "colorless",
+    "rarity": "rare"
+  },
+  {
+    "word": "Lepidolite",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A lilac-colored lithium-bearing mica mineral typically found in granitic pegmatites.",
+    "color": "violet",
+    "rarity": "common"
+  },
+  {
+    "word": "Lithiophilite",
+    "syl": 5,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A lithium-bearing phosphate mineral typically found in complex granite pegmatites.",
+    "color": "yellow",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Luminous gemstones",
+    "syl": 5,
+    "len": 18,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Gemstones exhibiting phenomena like adularescence or chatoyancy that cause them to glow or shimmer under light.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Lyngurium",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A legendary gemstone of antiquity described as being formed from the solidified urine of a lynx.",
+    "color": "yellow",
+    "rarity": "rare"
+  },
+  {
+    "word": "Marlborough gems",
+    "syl": 4,
+    "len": 16,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A historical collection of fine gemstones once held by the Dukes of Marlborough, now largely dispersed.",
+    "color": "colorless",
+    "rarity": "rare"
+  },
+  {
+    "word": "Metal-coated crystal",
+    "syl": 6,
+    "len": 20,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Natural quartz crystals treated with a vacuum-deposited thin layer of metal to produce an iridescent metallic finish.",
+    "color": "iridescent",
+    "rarity": "common"
+  },
+  {
+    "word": "Moissanite",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous",
+      "elegant"
+    ],
+    "origin": "Silicon carbide crystal originally discovered in a meteor crater, now synthetically produced for its extreme brilliance and hardness.",
+    "color": "colorless",
+    "rarity": "rare"
+  },
+  {
+    "word": "Moldavite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A tektite formed by a meteorite impact in southern Germany approximately fifteen million years ago.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Muscovite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A common phyllosilicate mineral known for its distinctive sheet-like cleavage and pearly luster.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Musgravite",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare magnesium aluminum beryllium oxide mineral discovered in the Musgrave Range of South Australia.",
+    "color": "green",
+    "rarity": "rare"
+  },
+  {
+    "word": "Nepheline",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A feldspathoid mineral found in silica-undersaturated igneous rocks, often appearing as glassy, colorless, or white crystals.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Nuummite",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "ominous",
+      "mythic",
+      "austere"
+    ],
+    "origin": "A metamorphic rock composed of gedrite and anthophyllite, discovered in the remote mountains of Greenland.",
+    "color": "black",
+    "rarity": "rare"
+  },
+  {
+    "word": "Oligoclase",
+    "syl": 4,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A plagioclase feldspar mineral often exhibiting a shimmering effect known as aventurescence.",
+    "color": "white",
+    "rarity": "common"
+  },
+  {
+    "word": "Oltu stone",
+    "syl": 3,
+    "len": 10,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "A dense, fossilized jet variety found in the Erzurum province of Turkey known for its high luster when polished.",
+    "color": "black",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Orthoclase",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A common rock-forming tectosilicate mineral of the feldspar group that is a major component of granite.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Painite",
+    "syl": 2,
+    "len": 7,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A rare borate mineral discovered in Myanmar in the 1950s that was long considered one of the world's rarest gemstones.",
+    "color": "brown",
+    "rarity": "rare"
+  },
+  {
+    "word": "Papagoite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare copper silicate mineral named after the Tohono O'odham people of Arizona where it was first discovered.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Pargasite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A complex calcium-magnesium-iron silicate mineral first discovered in the Pargas region of Finland.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Pearl",
+    "syl": 1,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "An organic gemstone formed within the soft tissue of a living shelled mollusk.",
+    "color": "white",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Pectolite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A calcium sodium hydroxide silicate mineral that typically forms as fibrous, white to grey radiating masses.",
+    "color": "white",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Petalite",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A lithium aluminum silicate mineral often found in pegmatites and known for its high clarity.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Petoskey stone",
+    "syl": 4,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A fossilized rugose coral from the Devonian period found along the shores of Lake Michigan.",
+    "color": "gray",
+    "rarity": "common"
+  },
+  {
+    "word": "Pezzottaite",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare cesium-rich beryl mineral discovered in Madagascar in 2002.",
+    "color": "pink",
+    "rarity": "rare"
+  },
+  {
+    "word": "Phenakite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A beryllium silicate mineral known for its high refractive index and diamond-like brilliance.",
+    "color": "colorless",
+    "rarity": "rare"
+  },
+  {
+    "word": "Poudretteite",
+    "syl": 3,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare borosilicate mineral discovered in the Poudrette quarry of Mont Saint-Hilaire, Quebec.",
+    "color": "pink",
+    "rarity": "rare"
+  },
+  {
+    "word": "Pounamu",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A durable nephrite jade found in the riverbeds of the South Island of New Zealand, traditionally carved into tools and ornaments.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Prehnite",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A calcium aluminum silicate mineral often found in basaltic cavities, first described in South Africa.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Rainbow lattice sunstone",
+    "syl": 6,
+    "len": 24,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A rare feldspar variety from Australia containing intricate lattice-like inclusions of hematite and ilmenite that produce an iridescent sheen.",
+    "color": "multicolor",
+    "rarity": "rare"
+  },
+  {
+    "word": "Red beryl",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare variety of the mineral beryl that contains manganese and is found primarily in the Wah Wah Mountains of Utah.",
+    "color": "red",
+    "rarity": "rare"
+  },
+  {
+    "word": "Rhodonite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A manganese silicate mineral characterized by its pink to rose-red color often veined with black manganese oxide.",
+    "color": "pink",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Rubellite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A pink to red variety of elbaite tourmaline characterized by its intense saturation and pleochroism.",
+    "color": "red",
+    "rarity": "rare"
+  },
+  {
+    "word": "Rumanite",
+    "syl": 3,
+    "len": 8,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "A variety of amber found in Romania, known for its deep reddish-brown tones.",
+    "color": "brown",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Sapphire",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A precious variety of the mineral corundum, consisting primarily of aluminum oxide with trace amounts of iron, titanium, or chromium.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Sapphirine",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare magnesium aluminum silicate mineral typically found in metamorphic rocks and named for its sapphire-like blue color.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Saussurite",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "scientific"
+    ],
+    "origin": "A metamorphic rock composed primarily of zoisite or epidote, often used as a substitute for jade.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Scheelite",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A calcium tungstate mineral that exhibits a brilliant blue fluorescence under ultraviolet light.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Serandite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A manganese-rich silicate mineral discovered in the Mont Saint-Hilaire complex of Quebec, Canada.",
+    "color": "pink",
+    "rarity": "rare"
+  },
+  {
+    "word": "Seraphinite",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A clinochlore variety containing mica inclusions that create characteristic feathery, silver chatoyant patterns.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Shattuckite",
+    "syl": 3,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A copper silicate mineral named after the Shattuck Mine in Arizona where it was first identified.",
+    "color": "blue",
+    "rarity": "rare"
+  },
+  {
+    "word": "Silicon carbide",
+    "syl": 5,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A rare naturally occurring mineral known as moissanite, now produced synthetically as a hard industrial abrasive and semiconductor.",
+    "color": "colorless",
+    "rarity": "rare"
+  },
+  {
+    "word": "Sodalite",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rich royal blue tectosilicate mineral first discovered in Greenland in the early nineteenth century.",
+    "color": "blue",
+    "rarity": "common"
+  },
+  {
+    "word": "Sphalerite",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A zinc sulfide mineral that exhibits high dispersion and brilliance when cut, often found in hydrothermal veins.",
+    "color": "yellow",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Spodumene",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A pyroxene mineral that produces gem-quality varieties such as kunzite and hiddenite.",
+    "color": "colorless",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Stibiotantalite",
+    "syl": 6,
+    "len": 15,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "A rare antimony-tantalum mineral species typically found in pegmatite deposits.",
+    "color": "brown",
+    "rarity": "rare"
+  },
+  {
+    "word": "Stichtite",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare carbonate mineral typically found in serpentinite rocks and named after Robert Carl Sticht.",
+    "color": "violet",
+    "rarity": "rare"
+  },
+  {
+    "word": "Stonesetting",
+    "syl": 4,
+    "len": 12,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "The technical practice of securing a gemstone into a metal setting to create jewelry.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Strontium titanate",
+    "syl": 6,
+    "len": 18,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A man-made synthetic gemstone with high dispersion that mimics the brilliance of diamond.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Sunstone",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A feldspar mineral known for its aventurescence, caused by light reflecting off inclusions of copper or hematite.",
+    "color": "orange",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Taaffeite",
+    "syl": 2,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A rare gemstone discovered in 1945 that is unique for being identified after it had already been faceted.",
+    "color": "violet",
+    "rarity": "rare"
+  },
+  {
+    "word": "Thulite",
+    "syl": 2,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A manganese-bearing variety of zoisite, valued for its distinct pink to rose-red coloration.",
+    "color": "pink",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Thunderegg",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A nodule-like geological structure filled with agate or chalcedony, found in volcanic ash beds.",
+    "color": "brown",
+    "rarity": "common"
+  },
+  {
+    "word": "Tinaksite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "scientific"
+    ],
+    "origin": "A rare silicate mineral discovered in the Murun Massif of Russia, characterized by its fibrous, pinkish-orange appearance.",
+    "color": "pink",
+    "rarity": "rare"
+  },
+  {
+    "word": "Titanite",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A calcium titanium nesosilicate mineral named for its titanium content, often featuring high dispersion and brilliance.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Topaz",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A silicate mineral of aluminium and fluorine that occurs in a wide spectrum of colors ranging from golden yellow to colorless.",
+    "color": "yellow",
+    "rarity": "common"
+  },
+  {
+    "word": "Tourmaline",
+    "syl": 3,
+    "len": 10,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A complex crystalline boron silicate mineral that exhibits the widest range of colors among all gemstone groups.",
+    "color": "multicolor",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Tugtupite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "luminous",
+      "elegant"
+    ],
+    "origin": "A rare fluorescent silicate mineral discovered in the Tugtup agdlît region of Greenland that shifts from white to deep pink upon exposure to ultraviolet light.",
+    "color": "pink",
+    "rarity": "rare"
+  },
+  {
+    "word": "Turquoise",
+    "syl": 3,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "An opaque, blue-to-green mineral that has been valued as an ornamental stone for thousands of years by cultures globally.",
+    "color": "blue",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Unakite",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "A metamorphic rock composed of pink orthoclase feldspar, green epidote, and colorless quartz, often used as a decorative stone.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Variscite",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "Hydrated aluminum phosphate mineral often mistaken for turquoise due to its vibrant green coloration.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Verd antique",
+    "syl": 4,
+    "len": 12,
+    "era": "classical",
+    "vibes": [
+      "elegant",
+      "austere"
+    ],
+    "origin": "A serpentinite breccia featuring dark green tones with white veining, historically quarried in Greece for architectural ornamentation.",
+    "color": "green",
+    "rarity": "common"
+  },
+  {
+    "word": "Vesuvianite",
+    "syl": 5,
+    "len": 11,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "elegant"
+    ],
+    "origin": "A silicate mineral originally identified on the slopes of Mount Vesuvius in Italy.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Wavellite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "luminous",
+      "elegant"
+    ],
+    "origin": "An aluminum phosphate mineral characterized by its distinct radiating, star-like crystal clusters.",
+    "color": "green",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Worry stone",
+    "syl": 3,
+    "len": 11,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "Smooth polished stones traditionally held to calm anxiety through repetitive tactile stimulation.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Xenotime",
+    "syl": 3,
+    "len": 8,
+    "era": "modern",
+    "vibes": [
+      "scientific",
+      "austere"
+    ],
+    "origin": "An yttrium phosphate mineral often containing rare earth elements, primarily found in igneous rocks.",
+    "color": "brown",
+    "rarity": "uncommon"
+  },
+  {
+    "word": "Zircon",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "scientific",
+      "luminous"
+    ],
+    "origin": "A silicate mineral found in crustal rocks that is often used for radiometric dating due to its extreme durability.",
+    "color": "colorless",
+    "rarity": "common"
+  },
+  {
+    "word": "Zultanite",
+    "syl": 3,
+    "len": 9,
+    "era": "modern",
+    "vibes": [
+      "elegant",
+      "luminous"
+    ],
+    "origin": "A color-changing diaspore variety discovered in the Anatolian mountains of Turkey.",
+    "color": "green",
+    "rarity": "rare"
+  }
+]

@@ -1,0 +1,1534 @@
+[
+  {
+    "word": "Denali",
+    "syl": 3,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Highest peak in North America, Alaska.",
+    "elev": 6190
+  },
+  {
+    "word": "Kilimanjaro",
+    "syl": 5,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "Dormant stratovolcano, Tanzania.",
+    "elev": 5895
+  },
+  {
+    "word": "Annapurna",
+    "syl": 4,
+    "len": 9,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "ominous"
+    ],
+    "origin": "Sanskrit — \"full of food\"; Himalayan massif.",
+    "elev": 8091
+  },
+  {
+    "word": "Makalu",
+    "syl": 3,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Fifth-highest mountain on earth, Nepal.",
+    "elev": 8485
+  },
+  {
+    "word": "Aconcagua",
+    "syl": 4,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Highest peak outside Asia, Argentina.",
+    "elev": 6961
+  },
+  {
+    "word": "Matterhorn",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "elegant"
+    ],
+    "origin": "Iconic pyramidal peak of the Pennine Alps.",
+    "elev": 4478
+  },
+  {
+    "word": "Fuji",
+    "syl": 2,
+    "len": 4,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "Sacred stratovolcano, Honshu, Japan.",
+    "elev": 3776
+  },
+  {
+    "word": "Olympus",
+    "syl": 3,
+    "len": 7,
+    "era": "classical",
+    "vibes": [
+      "mythic",
+      "elegant"
+    ],
+    "origin": "Home of the twelve Olympian gods.",
+    "elev": 2917
+  },
+  {
+    "word": "Erebus",
+    "syl": 3,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "ominous",
+      "mythic"
+    ],
+    "origin": "Active volcano on Ross Island, Antarctica.",
+    "elev": 3794
+  },
+  {
+    "word": "Vinson",
+    "syl": 2,
+    "len": 6,
+    "era": "modern",
+    "vibes": [
+      "austere"
+    ],
+    "origin": "Highest peak of Antarctica.",
+    "elev": 4892
+  },
+  {
+    "word": "Elbrus",
+    "syl": 2,
+    "len": 6,
+    "era": "classical",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Dormant volcano, highest peak in Europe.",
+    "elev": 5642
+  },
+  {
+    "word": "Jannu",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "ominous",
+      "austere"
+    ],
+    "origin": "Himalayan peak known as \"Kumbhakarna.\"",
+    "elev": 7711
+  },
+  {
+    "word": "Mount Everest",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Earth's highest mountain above sea level, reaching 8,849 m in the Mahalangur Himal sub-range of the Himalayas.",
+    "elev": 8849
+  },
+  {
+    "word": "K2",
+    "syl": 1,
+    "len": 2,
+    "era": "timeless",
+    "vibes": [
+      "aggressive",
+      "austere",
+      "ominous"
+    ],
+    "origin": "The second highest mountain on Earth at 8,611 m, located in the Karakoram range and known for its extreme technical difficulty and high fatality rate.",
+    "elev": 8611
+  },
+  {
+    "word": "Kangchenjunga",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "The third highest mountain in the world, located on the border between Nepal and India, its name translates to the five treasures of snow.",
+    "elev": 8586
+  },
+  {
+    "word": "Lhotse",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The fourth highest mountain in the world, located in the Himalayas on the border of Nepal and Tibet, reaching 8,516 meters.",
+    "elev": 8516
+  },
+  {
+    "word": "Cho Oyu",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "luminous"
+    ],
+    "origin": "The sixth highest mountain in the world, located in the Himalayas on the border between Nepal and Tibet, with a name meaning turquoise goddess in Tibetan.",
+    "elev": 8188
+  },
+  {
+    "word": "Dhaulagiri I",
+    "syl": 5,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Seventh highest mountain on Earth, located in the Himalayas of Nepal, with a name derived from Sanskrit meaning white beautiful mountain.",
+    "elev": 8167
+  },
+  {
+    "word": "Manaslu",
+    "syl": 3,
+    "len": 7,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The eighth highest mountain in the world at 8,163 m, located in the Mansiri Himal range of the Nepalese Himalayas.",
+    "elev": 8163
+  },
+  {
+    "word": "Nanga Parbat",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "aggressive",
+      "ominous",
+      "austere"
+    ],
+    "origin": "The ninth-highest mountain on Earth, located in the Himalayas of Pakistan, known for its extreme vertical relief and dangerous climbing conditions.",
+    "elev": 8126
+  },
+  {
+    "word": "Annapurna I",
+    "syl": 5,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous",
+      "mythic"
+    ],
+    "origin": "A massive 8,091 m peak in the Himalayas of Nepal, known as the Goddess of the Harvest in Sanskrit.",
+    "elev": 8091
+  },
+  {
+    "word": "Gasherbrum I",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote 8,080 m peak in the Karakoram range known as the Hidden Peak, located on the border of Pakistan and China.",
+    "elev": 8080
+  },
+  {
+    "word": "Broad Peak",
+    "syl": 2,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 8,051 m mountain in the Karakoram range, named for its expansive summit ridge.",
+    "elev": 8051
+  },
+  {
+    "word": "Gasherbrum II",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The 8,035 m peak located in the Karakoram range, whose name translates from Balti as beautiful mountain.",
+    "elev": 8035
+  },
+  {
+    "word": "Shishapangma Gosainthan",
+    "syl": 7,
+    "len": 23,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The fourteenth highest mountain in the world, located in the Himalayas of Tibet, known in Tibetan as the mountain above the grassy plains.",
+    "elev": 8027
+  },
+  {
+    "word": "Gyachung Kang",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Situated on the border of Nepal and Tibet, this is the highest mountain in the Mahalangur Himal section of the Himalayas at 7,952 m.",
+    "elev": 7952
+  },
+  {
+    "word": "Gasherbrum III",
+    "syl": 6,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,946 m peak in the Karakoram range, located on the border between Pakistan and China.",
+    "elev": 7946
+  },
+  {
+    "word": "Annapurna II",
+    "syl": 5,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent peak in the Annapurna range of the Himalayas, standing at 7,937 m in north-central Nepal.",
+    "elev": 7937
+  },
+  {
+    "word": "Gasherbrum IV",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "aggressive"
+    ],
+    "origin": "A 7,932 m peak in the Karakoram range known as the Shining Wall, noted for its sheer vertical rock face.",
+    "elev": 7932
+  },
+  {
+    "word": "Himalchuli",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The second highest peak of the Mansiri Himal range in the Himalayas, reaching an elevation of 7,893 m.",
+    "elev": 7893
+  },
+  {
+    "word": "Distaghil Sar",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest peak in the Hispar Muztagh range of the Karakoram, reaching 7,884 meters above sea level in northern Pakistan.",
+    "elev": 7884
+  },
+  {
+    "word": "Ngadi Chuli",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,871 m peak in the Mansiri Himal range of the Himalayas, also known as Peak 29.",
+    "elev": 7871
+  },
+  {
+    "word": "Nuptse",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A major mountain in the Mahalangur Himal section of the Himalayas, rising 7,864 m near Mount Everest.",
+    "elev": 7864
+  },
+  {
+    "word": "Khunyang Chhish",
+    "syl": 4,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A major peak in the Hispar Muztagh range of the Karakoram, reaching 7,823 m in Pakistan.",
+    "elev": 7823
+  },
+  {
+    "word": "Masherbrum K1",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,821 m peak in the Karakoram range of Pakistan, known for its formidable and steep faces.",
+    "elev": 7821
+  },
+  {
+    "word": "Nanda Devi",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "The second-highest mountain in India at 7,817 m, revered as the blessed goddess in local Hindu tradition.",
+    "elev": 7817
+  },
+  {
+    "word": "Chomo Lonzo",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A prominent satellite peak of Makalu in the Mahalangur Himal section of the Himalayas, rising 7,804 m.",
+    "elev": 7804
+  },
+  {
+    "word": "Batura Sar",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A high, glaciated peak in the Karakoram range of Pakistan, reaching an elevation of 7,795 m.",
+    "elev": 7795
+  },
+  {
+    "word": "Rakaposhi",
+    "syl": 4,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,788 m mountain in the Karakoram range of Pakistan, known for its steep, sheer vertical rise above the Hunza Valley.",
+    "elev": 7788
+  },
+  {
+    "word": "Namcha Barwa",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "ominous",
+      "austere"
+    ],
+    "origin": "A 7,782 m peak in the eastern Himalayas known as the Everest of the East, often shrouded in thick clouds and considered sacred by local Tibetan communities.",
+    "elev": 7782
+  },
+  {
+    "word": "Kanjut Sar",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent peak in the Hispar Muztagh range of the Karakoram, reaching an elevation of 7,760 m in Pakistan.",
+    "elev": 7760
+  },
+  {
+    "word": "Kamet",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Second highest mountain in the Garhwal region of the Himalayas, rising 7,756 m near the Tibetan border.",
+    "elev": 7756
+  },
+  {
+    "word": "Dhaulagiri II",
+    "syl": 5,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "Part of the Dhaulagiri massif in the Himalayas, this peak rises to 7,751 m in central Nepal.",
+    "elev": 7751
+  },
+  {
+    "word": "Saltoro Kangri",
+    "syl": 5,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A high peak in the Karakoram range of the Himalayas, reaching an elevation of 7,742 m near the disputed Siachen Glacier.",
+    "elev": 7742
+  },
+  {
+    "word": "Kumbhakarna Jannu",
+    "syl": 6,
+    "len": 17,
+    "era": "timeless",
+    "vibes": [
+      "ominous",
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,711 m peak in the Himalayas named after a demon king from the Ramayana, known for its sheer vertical faces.",
+    "elev": 7711
+  },
+  {
+    "word": "Tirich Mir",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest mountain in the Hindu Kush range of Pakistan, reaching an elevation of 7,708 m.",
+    "elev": 7708
+  },
+  {
+    "word": "Molamenqing",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote 7,703 m peak in the Himalayas of Tibet, often referred to as Phola Gangchen.",
+    "elev": 7703
+  },
+  {
+    "word": "Gurla Mandhata",
+    "syl": 5,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "The highest peak of the Nalakankar Himal in southwestern Tibet, rising 7,694 m near the sacred Lake Manasarovar.",
+    "elev": 7694
+  },
+  {
+    "word": "Saser Kangri",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest peak of the Saser Muztagh in the Karakoram range, reaching 7,672 m in elevation.",
+    "elev": 7672
+  },
+  {
+    "word": "Chogolisa",
+    "syl": 4,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "luminous"
+    ],
+    "origin": "A 7,665 m peak in the Karakoram range of Pakistan, famously known as the Bride Peak for its snow-covered slopes.",
+    "elev": 7665
+  },
+  {
+    "word": "Dhaulagiri IV",
+    "syl": 5,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,661 m peak in the Dhaulagiri massif of the Himalayas, known for its challenging and treacherous ascent.",
+    "elev": 7661
+  },
+  {
+    "word": "Kongur Tagh",
+    "syl": 3,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest peak of the Pamir Mountains in Xinjiang, China, rising 7,649 m as a massive, isolated massif.",
+    "elev": 7649
+  },
+  {
+    "word": "Dhaulagiri V",
+    "syl": 5,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A major peak in the Dhaulagiri massif of the Himalayas, reaching an elevation of 7,618 m.",
+    "elev": 7618
+  },
+  {
+    "word": "Shispare",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A striking, steep-walled peak in the Karakoram range of Pakistan reaching 7,611 m in elevation.",
+    "elev": 7611
+  },
+  {
+    "word": "Trivor",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,577 m peak located in the Hispar Muztagh range of the Karakoram in Pakistan.",
+    "elev": 7577
+  },
+  {
+    "word": "Gangkhar Puensum",
+    "syl": 5,
+    "len": 16,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest unclimbed mountain in the world, located on the border of Bhutan and China at an elevation of 7,570 m.",
+    "elev": 7570
+  },
+  {
+    "word": "Gongga Shan",
+    "syl": 3,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest mountain in the Hengduan Mountains of Sichuan province, known for its extreme vertical relief and frequent avalanches at 7,556 m.",
+    "elev": 7556
+  },
+  {
+    "word": "Annapurna III",
+    "syl": 7,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A major peak in the Annapurna Massif of the Himalayas in north-central Nepal, reaching 7,555 meters.",
+    "elev": 7555
+  },
+  {
+    "word": "Skyang Kangri",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,545 m peak in the Karakoram range, located near the border of Pakistan and China.",
+    "elev": 7545
+  },
+  {
+    "word": "Changtse",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,543 m mountain in the Himalayas located immediately north of Mount Everest, connected by the North Col.",
+    "elev": 7543
+  },
+  {
+    "word": "Kula Kangri",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic",
+      "ominous"
+    ],
+    "origin": "A 7,538 m peak located in the Himalayas on the border between Tibet and Bhutan.",
+    "elev": 7538
+  },
+  {
+    "word": "Kongur Tiube",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest peak of the Pamir Mountains in the Xinjiang region of China, rising to 7,530 m.",
+    "elev": 7530
+  },
+  {
+    "word": "Annapurna IV",
+    "syl": 5,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,525 m peak within the Annapurna Massif of the Himalayas, named after the Hindu goddess of food and nourishment.",
+    "elev": 7525
+  },
+  {
+    "word": "Mamostong Kangri",
+    "syl": 5,
+    "len": 16,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote mountain in the Karakoram range of India, standing 7,516 m above sea level.",
+    "elev": 7516
+  },
+  {
+    "word": "Muztagh Ata",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,509 m peak in the Pamir Mountains of Xinjiang, known as the Father of Ice Mountains in Uyghur.",
+    "elev": 7509
+  },
+  {
+    "word": "Ismoil Somoni",
+    "syl": 5,
+    "len": 13,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "Formerly known as Peak Communism, this 7,495 m mountain is the highest point in Tajikistan and the Pamir Mountains.",
+    "elev": 7495
+  },
+  {
+    "word": "Noshaq",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest mountain in Afghanistan, rising 7,492 m in the Hindu Kush range.",
+    "elev": 7492
+  },
+  {
+    "word": "Pumari Chhish",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged 7,492 m peak located in the Hispar Muztagh range of the Karakoram mountains in Pakistan.",
+    "elev": 7492
+  },
+  {
+    "word": "Passu Sar",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged 7,476 m peak located in the Batura Muztagh range of the Karakoram mountains in Pakistan.",
+    "elev": 7476
+  },
+  {
+    "word": "Yukshin Gardan",
+    "syl": 4,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, jagged peak in the Hispar Muztagh range of the Karakoram, reaching 7,469 meters.",
+    "elev": 7469
+  },
+  {
+    "word": "Teram Kangri",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, jagged peak situated in the Siachen Muztagh range of the Karakoram, reaching an elevation of 7,462 meters.",
+    "elev": 7462
+  },
+  {
+    "word": "Jongsong Peak",
+    "syl": 3,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,462 m high mountain in the Janak Himal section of the Himalayas, located on the border between Nepal and India.",
+    "elev": 7462
+  },
+  {
+    "word": "Malubiting",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent peak in the Karakoram range of Pakistan, reaching an elevation of 7,458 meters.",
+    "elev": 7458
+  },
+  {
+    "word": "Gangapurna",
+    "syl": 4,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,455 m peak in the Annapurna massif of the Himalayas, known for its sheer glaciers and rugged terrain.",
+    "elev": 7455
+  },
+  {
+    "word": "Jengish Chokusu",
+    "syl": 5,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest mountain in the Tian Shan range at 7,439 m, located on the border between Kyrgyzstan and China.",
+    "elev": 7439
+  },
+  {
+    "word": "Sunanda Devi",
+    "syl": 5,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "luminous"
+    ],
+    "origin": "A major peak in the Garhwal Himalayas of India, rising to 7,434 m and named after a Hindu goddess.",
+    "elev": 7434
+  },
+  {
+    "word": "K12",
+    "syl": 1,
+    "len": 3,
+    "era": "modern",
+    "vibes": [
+      "austere",
+      "scientific",
+      "ominous"
+    ],
+    "origin": "A 7,428 m peak in the Saltoro Mountains of the Karakoram range, designated by British surveyors during the Great Trigonometrical Survey.",
+    "elev": 7428
+  },
+  {
+    "word": "Yangra Ganesh",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A prominent peak in the Ganesh Himal range of the Himalayas, rising to 7,422 m on the border between Nepal and Tibet.",
+    "elev": 7422
+  },
+  {
+    "word": "Sia Kangri",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,422 m high peak in the Karakoram range, located on the border between the disputed Siachen Glacier region and the Chinese-administered territory.",
+    "elev": 7422
+  },
+  {
+    "word": "Momhil Sar",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent peak in the Karakoram range of Pakistan, reaching an elevation of 7,414 m in the Shimshal Valley.",
+    "elev": 7414
+  },
+  {
+    "word": "Kabru North",
+    "syl": 3,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A high-altitude peak in the Himalayas located on the border between Nepal and India, reaching an elevation of 7,412 m.",
+    "elev": 7412
+  },
+  {
+    "word": "Skil Brum",
+    "syl": 2,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote 7,410 m peak in the Karakoram range of Pakistan, located near the Godwin-Austen Glacier.",
+    "elev": 7410
+  },
+  {
+    "word": "Haramosh Peak",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent 7,409 m peak in the Karakoram range of Pakistan, known for its steep, challenging faces and isolated position.",
+    "elev": 7409
+  },
+  {
+    "word": "Istor-o-Nal",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A major peak in the Hindu Kush range of Pakistan, reaching an elevation of 7,403 m.",
+    "elev": 7403
+  },
+  {
+    "word": "Ghent Kangri",
+    "syl": 3,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A major peak in the Karakoram range of the Himalayas, rising 7,401 m near the disputed border region of Kashmir.",
+    "elev": 7401
+  },
+  {
+    "word": "Ultar",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A steep and notoriously difficult peak in the Karakoram range of Pakistan reaching 7,388 m.",
+    "elev": 7388
+  },
+  {
+    "word": "Rimo I",
+    "syl": 3,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, jagged peak in the Karakoram range of the Himalayas, reaching 7,385 m near the Siachen Glacier.",
+    "elev": 7385
+  },
+  {
+    "word": "Churen Himal",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged, remote peak in the Dhaulagiri Himal range of the Himalayas, rising to 7,385 m in Nepal.",
+    "elev": 7385
+  },
+  {
+    "word": "Sherpi Kangri",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote mountain in the Karakoram range of the Himalayas, rising to an elevation of 7,380 m.",
+    "elev": 7380
+  },
+  {
+    "word": "Labuche Kang",
+    "syl": 3,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote mountain in the Himalayas of Tibet reaching an elevation of 7,367 meters.",
+    "elev": 7367
+  },
+  {
+    "word": "Kirat Chuli",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,362 m peak in the Himalayas, also known as the Tent Peak, located on the border of Nepal and India.",
+    "elev": 7362
+  },
+  {
+    "word": "Abi Gamin",
+    "syl": 4,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,355 m peak in the Garhwal Himalaya of India, located near the Tibetan border.",
+    "elev": 7355
+  },
+  {
+    "word": "Gimmigela Chuli",
+    "syl": 6,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent 7,350 m peak located in the Kangchenjunga Himal section of the Himalayas on the border of Nepal and India.",
+    "elev": 7350
+  },
+  {
+    "word": "Nangpai Gosum",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,350 m high peak located in the Mahalangur Himal section of the Himalayas on the border of Nepal and China.",
+    "elev": 7350
+  },
+  {
+    "word": "Saraghrar",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A massive, remote mountain in the Hindu Kush range of Pakistan, reaching an elevation of 7,349 m.",
+    "elev": 7349
+  },
+  {
+    "word": "Talung",
+    "syl": 2,
+    "len": 6,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,349 m peak in the Kangchenjunga Himal of the Himalayas, known for its steep, isolated, and challenging topography.",
+    "elev": 7349
+  },
+  {
+    "word": "Jomolhari Chomo",
+    "syl": 6,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "austere",
+      "luminous"
+    ],
+    "origin": "A sacred 7,326 m mountain on the border of Tibet and Bhutan, known as the abode of the goddess Jomo.",
+    "elev": 7326
+  },
+  {
+    "word": "Chamlang",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, steep-sided massif in the Mahalangur Himal section of the Himalayas, rising to 7,321 m in eastern Nepal.",
+    "elev": 7321
+  },
+  {
+    "word": "Chongtar",
+    "syl": 2,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, high-altitude peak located in the Karakoram range of the Baltistan region, reaching 7,315 m.",
+    "elev": 7315
+  },
+  {
+    "word": "Baltoro Kangri",
+    "syl": 5,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged 7,312 m peak located in the Karakoram range of Pakistan near the Baltoro Glacier.",
+    "elev": 7312
+  },
+  {
+    "word": "Siguang Ri",
+    "syl": 3,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,309 m peak located in the Mahalangur Himal section of the Himalayas, near the border of Tibet and Nepal.",
+    "elev": 7309
+  },
+  {
+    "word": "The Crown",
+    "syl": 2,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "elegant",
+      "mythic"
+    ],
+    "origin": "A prominent peak in the Karakoram range, standing 7,295 m above the surrounding glaciers.",
+    "elev": 7295
+  },
+  {
+    "word": "Gyala Peri",
+    "syl": 5,
+    "len": 10,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote and exceptionally steep 7,294 m peak located in the eastern Himalayas near the Tsangpo Gorge.",
+    "elev": 7294
+  },
+  {
+    "word": "Porong Ri",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,292 m peak situated in the Jugal Himal of the Himalayas, known for its rugged and remote terrain.",
+    "elev": 7292
+  },
+  {
+    "word": "Baintha Brakk",
+    "syl": 3,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged 7,285 m granite peak in the Karakoram range of Pakistan, famously known as The Ogre.",
+    "elev": 7285
+  },
+  {
+    "word": "Yutmaru Sar",
+    "syl": 4,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,283 m peak located in the Hispar Muztagh range of the Karakoram in Pakistan.",
+    "elev": 7283
+  },
+  {
+    "word": "K6Baltistan Peak",
+    "syl": 4,
+    "len": 16,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent peak in the Masherbrum Mountains of the Karakoram range in Pakistan, reaching an elevation of 7,282 meters.",
+    "elev": 7282
+  },
+  {
+    "word": "Kangpenqing Gang",
+    "syl": 4,
+    "len": 16,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, glaciated peak in the Himalayas of Tibet, reaching an elevation of 7,281 meters.",
+    "elev": 7281
+  },
+  {
+    "word": "Muztagh Tower",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged, steep-sided peak in the Karakoram range on the border of Pakistan and China, rising 7,276 m.",
+    "elev": 7276
+  },
+  {
+    "word": "Mana Peak",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A prominent 7,272 m peak located in the Garhwal Himalayas of Uttarakhand, India, often associated with the nearby Mana Pass.",
+    "elev": 7272
+  },
+  {
+    "word": "Dhaulagiri VI",
+    "syl": 5,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,268 m peak in the Dhaulagiri Himal range of the Himalayas, known for its extreme elevation and rugged terrain.",
+    "elev": 7268
+  },
+  {
+    "word": "Diran",
+    "syl": 2,
+    "len": 5,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "luminous"
+    ],
+    "origin": "A prominent mountain in the Karakoram range of Pakistan reaching an elevation of 7,266 meters.",
+    "elev": 7266
+  },
+  {
+    "word": "Putha Hiunchuli",
+    "syl": 6,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A prominent mountain in the Dhaulagiri Himal range of the Himalayas, reaching an elevation of 7,246 meters.",
+    "elev": 7246
+  },
+  {
+    "word": "Apsarasas Kangri",
+    "syl": 6,
+    "len": 16,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "A prominent peak in the Siachen Muztagh range of the Karakoram, reaching an elevation of 7,245 meters.",
+    "elev": 7245
+  },
+  {
+    "word": "Mukut Parbat",
+    "syl": 4,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,242 m peak located in the Garhwal Himalaya range, known for its steep, challenging ice faces.",
+    "elev": 7242
+  },
+  {
+    "word": "Rimo III",
+    "syl": 5,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, high-altitude peak in the Karakoram range of India, reaching an elevation of 7,233 meters.",
+    "elev": 7233
+  },
+  {
+    "word": "Langtang Lirung",
+    "syl": 4,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "The highest peak of the Langtang Himal subrange in the Himalayas of Nepal, reaching an elevation of 7,227 meters.",
+    "elev": 7227
+  },
+  {
+    "word": "Karjiang",
+    "syl": 3,
+    "len": 8,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote and difficult 7,221 m peak located in the Himalayas on the border of Tibet and Bhutan.",
+    "elev": 7221
+  },
+  {
+    "word": "Annapurna Dakshin",
+    "syl": 6,
+    "len": 17,
+    "era": "timeless",
+    "vibes": [
+      "mythic",
+      "austere"
+    ],
+    "origin": "Part of the Annapurna Massif in the Himalayas, the name translates to Goddess of the Harvest in Sanskrit.",
+    "elev": 7219
+  },
+  {
+    "word": "Khartaphu",
+    "syl": 3,
+    "len": 9,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,213 m peak located in the Mahalangur Himal section of the Himalayas near the border of Nepal and Tibet.",
+    "elev": 7213
+  },
+  {
+    "word": "Tongshanjiabu",
+    "syl": 5,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote 7,207 m peak located in the Himalayas along the border of China and Bhutan.",
+    "elev": 7207
+  },
+  {
+    "word": "Malangutti Sar",
+    "syl": 5,
+    "len": 14,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A 7,207 m peak situated in the Hispar Muztagh range of the Karakoram mountains in Pakistan.",
+    "elev": 7207
+  },
+  {
+    "word": "Noijin Kangsang",
+    "syl": 4,
+    "len": 15,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "mythic"
+    ],
+    "origin": "A 7,206 m peak located in the Tibet Autonomous Region, part of the main Himalayan range.",
+    "elev": 7206
+  },
+  {
+    "word": "Langtang Ri",
+    "syl": 3,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A prominent mountain in the Langtang Himal section of the Himalayas, reaching an elevation of 7,205 meters.",
+    "elev": 7205
+  },
+  {
+    "word": "Kangphu Kang",
+    "syl": 3,
+    "len": 12,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote 7,204 m peak located in the Himalayas on the border between Bhutan and Tibet.",
+    "elev": 7204
+  },
+  {
+    "word": "Singhi Kangri",
+    "syl": 4,
+    "len": 13,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A remote, high-altitude peak in the Karakoram range reaching 7,202 m on the border of China and Pakistan.",
+    "elev": 7202
+  },
+  {
+    "word": "Lupghar Sar",
+    "syl": 3,
+    "len": 11,
+    "era": "timeless",
+    "vibes": [
+      "austere",
+      "ominous"
+    ],
+    "origin": "A jagged, high-altitude peak located in the Hispar Muztagh range of the Karakoram in Pakistan, reaching 7,200 m.",
+    "elev": 7200
+  }
+]
