@@ -1,0 +1,33 @@
+.root {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+}
+
+.label {
+  font-size: 11px;
+  letter-spacing: 0.2em;
+  color: var(--muted);
+}
+
+.count {
+  font-size: 64px;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.04em;
+  font-stretch: 125%;
+  color: var(--fg);
+}
+
+.count.big {
+  font-size: 96px;
+}
+
+.root[data-zero='true'] .count {
+  color: var(--accent);
+}
+
+.total {
+  font-size: 12px;
+  color: var(--muted);
+}

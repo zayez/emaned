@@ -1,4 +1,4 @@
-import { useState, useRef, useEffect, Fragment, type ReactNode } from 'react';
+import { useState, useRef, useEffect, Fragment, type CSSProperties, type ReactNode } from 'react';
 import type { EmanedApp } from '../hooks/use-emaned';
 import { useKeys } from '../hooks/use-keys';
 import { useAutoFit } from '../hooks/use-auto-fit';
@@ -9,6 +9,9 @@ import { CATS, CASE_CHOICES } from '../constants';
 import { getTotal } from '../domain/corpus';
 import { formatCase } from '../domain/casing';
 import { ERAS, VIBES, type Specimen } from '../domain/types';
+import shared from '../shared.module.css';
+import styles from './desktop.module.css';
+import { cx } from '../cx';
 
 const TOTAL = getTotal();
 
@@ -35,16 +38,7 @@ export function Desktop({ app }: { app: EmanedApp }) {
   };
 
   return (
-    <div
-      style={{
-        minHeight: '100vh',
-        display: 'grid',
-        gridTemplateRows: '56px 1fr 36px',
-        position: 'relative',
-        maxWidth: '100vw',
-        overflowX: 'hidden',
-      }}
-    >
+    <div className={styles.app}>
       <TopBar
         app={app}
         onFavs={() => setFavsOpen(true)}
@@ -52,7 +46,7 @@ export function Desktop({ app }: { app: EmanedApp }) {
         onHelp={() => setShortcutsOpen(true)}
       />
 
-      <main style={{ display: 'grid', gridTemplateColumns: '204px 1fr 268px', minHeight: 0, minWidth: 0 }}>
+      <main className={styles.main}>
         <CategoryRail app={app} />
         {app.page === 'home' ? <HomeStage app={app} /> : <GeneratorStage app={app} copied={copied} onCopy={doCopy} />}
         <FilterRail app={app} />
@@ -84,55 +78,29 @@ interface TopBarProps {
 
 function TopBar({ app, onFavs, onAbout, onHelp }: TopBarProps) {
   return (
-    <header
-      style={{
-        gridRow: 1,
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'space-between',
-        padding: '0 32px',
-        borderBottom: '1px solid var(--line)',
-      }}
-    >
-      <div style={{ display: 'flex', alignItems: 'baseline', gap: 16 }}>
-        <button
-          onClick={() => app.setPage('home')}
-          style={{ background: 'none', border: 'none', padding: 0, cursor: 'pointer' }}
-        >
-          <span style={{ fontSize: 20, fontWeight: 800, fontStretch: '125%', letterSpacing: '-.04em' }}>
-            emaned<span style={{ color: 'var(--accent)' }}>.</span>
+    <header className={styles.topBar}>
+      <div className={styles.brandGroup}>
+        <button onClick={() => app.setPage('home')} className={styles.brandBtn}>
+          <span className={styles.brand}>
+            emaned<span className={styles.accentDot}>.</span>
           </span>
         </button>
-        <span className="mono" style={{ fontSize: 10.5, letterSpacing: '.18em', color: 'var(--muted)' }}>
-          A CODENAME GENERATOR
-        </span>
+        <span className={cx(shared.mono, styles.subtitle)}>A CODENAME GENERATOR</span>
       </div>
-      <nav
-        className="mono"
-        style={{ fontSize: 11, letterSpacing: '.18em', color: 'var(--muted)', display: 'flex', gap: 24 }}
-      >
-        <button
-          onClick={onFavs}
-          style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'inherit', fontFamily: 'inherit', fontSize: 'inherit', letterSpacing: 'inherit' }}
-        >
-          FAVORITES{' '}
-          <span style={{ color: 'var(--fg)', marginLeft: 4 }}>
-            {app.favs.length.toString().padStart(2, '0')}
-          </span>
+      <nav className={cx(shared.mono, styles.topNav)}>
+        <button onClick={onFavs} className={styles.navBtn}>
+          FAVORITES <span className={styles.navCount}>{app.favs.length.toString().padStart(2, '0')}</span>
         </button>
-        <button
-          onClick={onAbout}
-          style={{ background: 'none', border: 'none', cursor: 'pointer', color: 'inherit', fontFamily: 'inherit', fontSize: 'inherit', letterSpacing: 'inherit' }}
-        >
+        <button onClick={onAbout} className={styles.navBtn}>
           ABOUT
         </button>
       </nav>
-      <div style={{ display: 'flex', gap: 10, alignItems: 'center' }}>
-        <button className="icon-btn" title="Shortcuts (?)" onClick={onHelp}>
+      <div className={styles.topActions}>
+        <button className={shared.iconBtn} title="Shortcuts (?)" onClick={onHelp}>
           <Icon name="help" size={14} />
         </button>
         <button
-          className="icon-btn"
+          className={shared.iconBtn}
           title="Theme"
           onClick={() => app.setTheme(app.theme === 'dark' ? 'light' : 'dark')}
         >
@@ -145,63 +113,24 @@ function TopBar({ app, onFavs, onAbout, onHelp }: TopBarProps) {
 
 function CategoryRail({ app }: { app: EmanedApp }) {
   return (
-    <aside
-      style={{
-        borderRight: '1px solid var(--line)',
-        padding: '28px 20px',
-        display: 'flex',
-        flexDirection: 'column',
-        gap: 6,
-        overflow: 'hidden',
-      }}
-    >
-      <div className="mono" style={{ fontSize: 10.5, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 14 }}>
-        CATEGORY
-      </div>
+    <aside className={styles.categoryRail}>
+      <div className={cx(shared.mono, styles.railLabel)}>CATEGORY</div>
       {CATS.map((c) => {
         const on = app.cat === c.id;
         return (
           <button
             key={c.id}
             onClick={() => app.setCat(c.id)}
-            style={{
-              background: 'transparent',
-              border: 'none',
-              textAlign: 'left',
-              padding: '8px 0',
-              cursor: 'pointer',
-              color: on ? 'var(--fg)' : 'var(--muted)',
-              fontSize: 16,
-              fontWeight: on ? 700 : 500,
-              letterSpacing: '-.01em',
-              display: 'flex',
-              alignItems: 'center',
-              gap: 10,
-              fontFamily: 'inherit',
-              fontStretch: '125%',
-            }}
+            className={cx(styles.catBtn, on && styles.on)}
           >
-            <span
-              style={{
-                width: 7,
-                height: 7,
-                borderRadius: 99,
-                background: on ? 'var(--accent)' : 'transparent',
-                border: on ? 'none' : '1px solid var(--line)',
-                flexShrink: 0,
-              }}
-            />
+            <span className={styles.catDot} />
             {c.label}
-            {c.id === 'all' && (
-              <span className="mono" style={{ marginLeft: 'auto', fontSize: 9.5, letterSpacing: '.18em', color: 'var(--muted)' }}>
-                {TOTAL}
-              </span>
-            )}
+            {c.id === 'all' && <span className={cx(shared.mono, styles.catCount)}>{TOTAL}</span>}
           </button>
         );
       })}
-      <div style={{ marginTop: 'auto', paddingTop: 24 }} className="mono">
-        <div style={{ fontSize: 10, letterSpacing: '.18em', color: 'var(--muted)', lineHeight: 1.7 }}>
+      <div className={cx(shared.mono, styles.railFooter)}>
+        <div className={styles.railFooterText}>
           CURATED WORDBANK
           <br />
           FOR NAMING THINGS.
@@ -214,41 +143,26 @@ function CategoryRail({ app }: { app: EmanedApp }) {
 function FilterRail({ app }: { app: EmanedApp }) {
   const activeCount = (app.era ? 1 : 0) + app.vibes.length + (app.maxSyl ? 1 : 0);
   return (
-    <aside
-      style={{
-        borderLeft: '1px solid var(--line)',
-        padding: '28px 24px',
-        display: 'flex',
-        flexDirection: 'column',
-        gap: 24,
-        overflow: 'hidden',
-      }}
-    >
-      <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline' }}>
-        <div className="mono" style={{ fontSize: 10.5, letterSpacing: '.2em', color: 'var(--muted)' }}>
-          FILTERS {activeCount ? <span style={{ color: 'var(--fg)' }}>· {activeCount}</span> : ''}
+    <aside className={styles.filterRail}>
+      <div className={styles.filterHeader}>
+        <div className={cx(shared.mono, styles.filterLabel)}>
+          FILTERS {activeCount ? <span className={styles.filterCountActive}>· {activeCount}</span> : ''}
         </div>
         {activeCount > 0 && (
-          <button
-            onClick={app.clearFilters}
-            className="mono"
-            style={{ background: 'none', border: 'none', fontSize: 10, letterSpacing: '.18em', color: 'var(--accent)', cursor: 'pointer' }}
-          >
+          <button onClick={app.clearFilters} className={cx(shared.mono, styles.clearBtn)}>
             CLEAR
           </button>
         )}
       </div>
 
       <div>
-        <div className="mono" style={{ fontSize: 10, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 10 }}>
-          VIBE
-        </div>
-        <div style={{ display: 'flex', flexWrap: 'wrap', gap: 5 }}>
+        <div className={cx(shared.mono, styles.sectionLabel)}>VIBE</div>
+        <div className={styles.vibeRow}>
           {VIBES.map((v) => (
             <button
               key={v}
               onClick={() => app.toggleVibe(v)}
-              className={`chip ${app.vibes.includes(v) ? 'accent-on' : ''}`}
+              className={cx(shared.chip, app.vibes.includes(v) && shared.accentOn)}
             >
               {v}
             </button>
@@ -257,18 +171,16 @@ function FilterRail({ app }: { app: EmanedApp }) {
       </div>
 
       <div>
-        <div className="mono" style={{ fontSize: 10, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 10 }}>
-          ERA
-        </div>
-        <div style={{ display: 'flex', gap: 5, flexWrap: 'wrap' }}>
-          <button onClick={() => app.setEra(null)} className={`chip ${!app.era ? 'on' : ''}`}>
+        <div className={cx(shared.mono, styles.sectionLabel)}>ERA</div>
+        <div className={styles.eraRow}>
+          <button onClick={() => app.setEra(null)} className={cx(shared.chip, !app.era && shared.on)}>
             any
           </button>
           {ERAS.map((e) => (
             <button
               key={e}
               onClick={() => app.setEra(app.era === e ? null : e)}
-              className={`chip ${app.era === e ? 'on' : ''}`}
+              className={cx(shared.chip, app.era === e && shared.on)}
             >
               {e}
             </button>
@@ -277,27 +189,16 @@ function FilterRail({ app }: { app: EmanedApp }) {
       </div>
 
       <div>
-        <div
-          className="mono"
-          style={{
-            fontSize: 10,
-            letterSpacing: '.2em',
-            color: 'var(--muted)',
-            marginBottom: 10,
-            display: 'flex',
-            justifyContent: 'space-between',
-          }}
-        >
+        <div className={cx(shared.mono, styles.sylHeader)}>
           <span>SYLLABLES</span>
-          <span style={{ color: app.maxSyl ? 'var(--fg)' : 'var(--muted)' }}>
+          <span className={styles.sylValue} data-active={app.maxSyl ? 'true' : 'false'}>
             {app.maxSyl ? `≤ ${app.maxSyl}` : 'any'}
           </span>
         </div>
-        <div style={{ display: 'flex', gap: 4 }}>
+        <div className={styles.sylRow}>
           <button
             onClick={() => app.setMaxSyl(null)}
-            className={`chip ${!app.maxSyl ? 'on' : ''}`}
-            style={{ flex: 1, justifyContent: 'center' }}
+            className={cx(shared.chip, styles.sylChip, !app.maxSyl && shared.on)}
           >
             any
           </button>
@@ -305,8 +206,7 @@ function FilterRail({ app }: { app: EmanedApp }) {
             <button
               key={n}
               onClick={() => app.setMaxSyl(app.maxSyl === n ? null : n)}
-              className={`chip ${app.maxSyl === n ? 'on' : ''}`}
-              style={{ flex: 1, justifyContent: 'center' }}
+              className={cx(shared.chip, styles.sylChip, app.maxSyl === n && shared.on)}
             >
               ≤{n}
             </button>
@@ -314,8 +214,8 @@ function FilterRail({ app }: { app: EmanedApp }) {
         </div>
       </div>
 
-      <div style={{ marginTop: 'auto', paddingTop: 20, borderTop: '1px solid var(--line)' }} className="mono">
-        <div style={{ fontSize: 10, letterSpacing: '.18em', color: 'var(--muted)', lineHeight: 1.8 }}>
+      <div className={cx(shared.mono, styles.shortcutsHints)}>
+        <div className={styles.shortcutsHintsText}>
           SPACE · GENERATE
           <br />
           C · COPY &nbsp;&nbsp; F · FAVORITE
@@ -339,64 +239,32 @@ function HomeStage({ app }: { app: EmanedApp }) {
   const [heroRef, heroSize] = useAutoFit<HTMLHeadingElement>([avail], avail, 260, 80);
 
   return (
-    <section
-      ref={stageRef}
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        justifyContent: 'center',
-        alignItems: 'center',
-        padding: '40px 48px',
-        textAlign: 'center',
-        position: 'relative',
-        minHeight: 0,
-        minWidth: 0,
-        overflow: 'hidden',
-      }}
-    >
-      <div className="mono" style={{ fontSize: 11, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 22 }}>
-        — A CODENAME GENERATOR —
-      </div>
+    <section ref={stageRef} className={styles.homeStage}>
+      <div className={cx(shared.mono, styles.eyebrow)}>— A CODENAME GENERATOR —</div>
 
       <h1
         ref={heroRef}
-        className="hero"
-        style={{ fontSize: heroSize, margin: 0, letterSpacing: '-.055em', whiteSpace: 'nowrap', maxWidth: '100%' }}
+        className={cx(shared.hero, styles.homeHero)}
+        style={{ '--hero-size': `${heroSize}px` } as CSSProperties}
       >
-        emaned<span style={{ color: 'var(--accent)' }}>.</span>
+        emaned<span className={styles.accentDot}>.</span>
       </h1>
 
-      <p
-        style={{
-          maxWidth: 680,
-          marginTop: 30,
-          fontSize: 21,
-          fontStretch: '125%',
-          lineHeight: 1.4,
-          color: 'var(--muted)',
-          textWrap: 'pretty',
-          letterSpacing: '-.015em',
-        }}
-      >
-        Draw a single evocative word from{' '}
-        <span style={{ color: 'var(--fg)' }}>{TOTAL} specimens</span> across five taxonomies — Intel processors, mountains, celestial bodies, gemstones, and Greek mythology. Filter by{' '}
-        <em style={{ fontStyle: 'normal', color: 'var(--fg)' }}>vibe</em>,{' '}
-        <em style={{ fontStyle: 'normal', color: 'var(--fg)' }}>era</em>, or{' '}
-        <em style={{ fontStyle: 'normal', color: 'var(--fg)' }}>length</em>. Keep what you like.
+      <p className={styles.intro}>
+        Draw a single evocative word from <span className={styles.fg}>{TOTAL} specimens</span> across five taxonomies
+        — Intel processors, mountains, celestial bodies, gemstones, and Greek mythology. Filter by{' '}
+        <em className={styles.em}>vibe</em>, <em className={styles.em}>era</em>, or <em className={styles.em}>length</em>.
+        Keep what you like.
       </p>
 
-      <button className="generate" style={{ marginTop: 44, padding: '22px 36px', fontSize: 14 }} onClick={app.generate}>
+      <button className={cx(shared.generate, styles.homeGenerate)} onClick={app.generate}>
         Generate a codename
-        <span className="mono" style={{ fontSize: 10, opacity: 0.55, letterSpacing: '.2em' }}>
-          SPACE
-        </span>
+        <span className={cx(shared.mono, styles.spaceHint)}>SPACE</span>
       </button>
 
-      <div style={{ marginTop: 56, display: 'flex', gap: 28, alignItems: 'center', opacity: 0.7 }}>
-        <span className="mono" style={{ fontSize: 10, letterSpacing: '.2em', color: 'var(--muted)' }}>
-          OR BROWSE →
-        </span>
-        <div style={{ display: 'flex', gap: 6 }}>
+      <div className={styles.browseRow}>
+        <span className={cx(shared.mono, styles.browseLabel)}>OR BROWSE →</span>
+        <div className={styles.browseChips}>
           {CATS.slice(1).map((c) => (
             <button
               key={c.id}
@@ -404,8 +272,7 @@ function HomeStage({ app }: { app: EmanedApp }) {
                 app.setCat(c.id);
                 app.generate();
               }}
-              className="chip"
-              style={{ fontStretch: 'normal' }}
+              className={cx(shared.chip, styles.browseChip)}
             >
               {c.label}
             </button>
@@ -445,26 +312,12 @@ function GeneratorStage({ app, copied, onCopy }: GeneratorStageProps) {
 
   if (!w && !zero) {
     return (
-      <section
-        style={{
-          display: 'flex',
-          flexDirection: 'column',
-          justifyContent: 'center',
-          alignItems: 'center',
-          padding: '0 48px',
-          textAlign: 'center',
-          minWidth: 0,
-          overflow: 'hidden',
-        }}
-      >
-        <div className="mono" style={{ fontSize: 11, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 22 }}>
-          POOL <span style={{ color: 'var(--fg)', fontWeight: 600 }}>{app.pool.length}</span> ready
+      <section className={styles.poolReadyStage}>
+        <div className={cx(shared.mono, styles.poolReadyEyebrow)}>
+          POOL <span className={styles.poolReadyCount}>{app.pool.length}</span> ready
         </div>
-        <button className="generate" onClick={app.generate} style={{ fontSize: 14, padding: '22px 36px' }}>
-          Generate{' '}
-          <span className="mono" style={{ fontSize: 10, opacity: 0.55, letterSpacing: '.2em' }}>
-            SPACE
-          </span>
+        <button className={cx(shared.generate, styles.bigGenerate)} onClick={app.generate}>
+          Generate <span className={cx(shared.mono, styles.spaceHint)}>SPACE</span>
         </button>
       </section>
     );
@@ -473,84 +326,24 @@ function GeneratorStage({ app, copied, onCopy }: GeneratorStageProps) {
 
   const displayed = formatCase(w!.word, app.casing);
   return (
-    <section
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        padding: '32px 48px 20px',
-        position: 'relative',
-        minHeight: 0,
-        minWidth: 0,
-        overflow: 'hidden',
-      }}
-    >
-      <div style={{ position: 'absolute', top: 32, left: 48 }}>
+    <section className={styles.generatorStage}>
+      <div className={styles.poolBlockSlot}>
         <PoolBlock app={app} big />
       </div>
-      <div
-        className="mono"
-        style={{ position: 'absolute', top: 32, right: 48, fontSize: 10.5, letterSpacing: '.2em', color: 'var(--muted)' }}
-      >
-        SPECIMEN · {w!._cat.toUpperCase()}
-      </div>
+      <div className={cx(shared.mono, styles.specimenLabel)}>SPECIMEN · {w!._cat.toUpperCase()}</div>
 
-      <div
-        ref={heroBoxRef}
-        style={{
-          flex: 1,
-          display: 'flex',
-          flexDirection: 'column',
-          alignItems: 'center',
-          justifyContent: 'center',
-          minHeight: 0,
-          minWidth: 0,
-          padding: '60px 0 20px',
-          width: '100%',
-          overflow: 'hidden',
-        }}
-      >
+      <div ref={heroBoxRef} className={styles.heroBox}>
         <button
           onClick={onCopy}
           title="Click to copy"
           ref={heroRef}
           key={w!.word + app.casing}
-          className="hero reveal"
-          style={{
-            background: 'none',
-            border: 'none',
-            padding: 0,
-            color: 'inherit',
-            cursor: 'pointer',
-            fontSize: heroSize,
-            // `.hero` sets line-height 0.82 for the home wordmark; at desktop's
-            // 200–400px hero sizes that pulls layout-bottom ~50–70px above the
-            // descender line, overlapping the origin caption below. Override.
-            lineHeight: 1,
-            whiteSpace: 'normal',
-            textWrap: 'balance',
-            letterSpacing: '-.055em',
-            fontStretch: '125%',
-            fontWeight: 800,
-            maxWidth: '100%',
-          }}
+          className={cx(shared.reveal, styles.specimenHero)}
+          style={{ '--hero-size': `${heroSize}px` } as CSSProperties}
         >
           {displayed}
         </button>
-        <div
-          className="mono"
-          style={{
-            marginTop: 24,
-            fontSize: 12,
-            color: 'var(--muted)',
-            letterSpacing: '.08em',
-            textAlign: 'center',
-            maxWidth: 640,
-            lineHeight: 1.7,
-            textWrap: 'pretty',
-          }}
-        >
-          {w!.origin}
-        </div>
+        <div className={cx(shared.mono, styles.origin)}>{w!.origin}</div>
       </div>
 
       <SpecimenCard w={w!} app={app} copied={copied} onCopy={onCopy} />
@@ -567,65 +360,45 @@ interface SpecimenCardProps {
 
 function SpecimenCard({ w, app, copied, onCopy }: SpecimenCardProps) {
   const rows = specimenRows(w);
+  const cols = Math.max(5, rows.length);
   return (
     <div>
       <div
-        style={{
-          display: 'grid',
-          gridTemplateColumns: `repeat(${Math.max(5, rows.length)},1fr)`,
-          gap: 2,
-          border: '1px solid var(--line)',
-          padding: '16px 20px',
-        }}
+        className={styles.specimenGrid}
+        style={{ '--row-count': cols } as CSSProperties}
       >
         {rows.map(([k, v]) => (
           <div key={k}>
-            <div className="mono" style={{ fontSize: 10, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 5 }}>
-              {k}
-            </div>
-            <div style={{ fontSize: 14, fontWeight: 500, letterSpacing: '-.01em' }}>{v}</div>
+            <div className={cx(shared.mono, styles.rowKey)}>{k}</div>
+            <div className={styles.rowValue}>{v}</div>
           </div>
         ))}
       </div>
-      <div
-        style={{
-          display: 'flex',
-          justifyContent: 'space-between',
-          alignItems: 'center',
-          marginTop: 18,
-          gap: 16,
-        }}
-      >
-        <div style={{ display: 'flex', gap: 8, alignItems: 'center', flexWrap: 'wrap' }}>
-          <button className="icon-btn" title="Copy (C)" onClick={onCopy}>
+      <div className={styles.actionsRow}>
+        <div className={styles.actionsLeft}>
+          <button className={shared.iconBtn} title="Copy (C)" onClick={onCopy}>
             <Icon name={copied ? 'check' : 'copy'} size={14} />
           </button>
           <button
-            className={`icon-btn ${app.isFav(w) ? 'on' : ''}`}
+            className={cx(shared.iconBtn, app.isFav(w) && shared.on)}
             title="Favorite (F)"
             onClick={() => app.toggleFav(w)}
           >
             <Icon name="star" size={14} />
           </button>
-          <span className="mono" style={{ marginLeft: 8, fontSize: 10.5, letterSpacing: '.16em', color: 'var(--muted)' }}>
-            CASE
-          </span>
+          <span className={cx(shared.mono, styles.caseLabel)}>CASE</span>
           {CASE_CHOICES.map((c) => (
             <button
               key={c.id}
               onClick={() => app.setCasing(c.id)}
-              className={`chip ${app.casing === c.id ? 'on' : ''}`}
-              style={{ fontSize: 10, padding: '6px 10px' }}
+              className={cx(shared.chip, styles.caseChip, app.casing === c.id && shared.on)}
             >
               {c.label}
             </button>
           ))}
         </div>
-        <button className="generate" onClick={app.generate}>
-          Generate{' '}
-          <span className="mono" style={{ fontSize: 10, opacity: 0.55, letterSpacing: '.2em' }}>
-            SPACE
-          </span>
+        <button className={shared.generate} onClick={app.generate}>
+          Generate <span className={cx(shared.mono, styles.spaceHint)}>SPACE</span>
         </button>
       </div>
     </div>
@@ -634,35 +407,17 @@ function SpecimenCard({ w, app, copied, onCopy }: SpecimenCardProps) {
 
 function ZeroStage({ app }: { app: EmanedApp }) {
   return (
-    <section
-      style={{
-        display: 'flex',
-        flexDirection: 'column',
-        alignItems: 'center',
-        justifyContent: 'center',
-        padding: '32px 48px',
-        textAlign: 'center',
-        position: 'relative',
-        minWidth: 0,
-        overflow: 'hidden',
-      }}
-    >
-      <div style={{ position: 'absolute', top: 32, left: 48 }}>
+    <section className={styles.zeroStage}>
+      <div className={styles.poolBlockSlot}>
         <PoolBlock app={app} big />
       </div>
-      <div className="mono" style={{ fontSize: 11, letterSpacing: '.2em', color: 'var(--muted)', marginBottom: 18 }}>
-        POOL EMPTY
-      </div>
-      <div className="hero" style={{ fontSize: 320, color: 'var(--accent)', lineHeight: 0.82 }}>
-        0
-      </div>
-      <div className="mono" style={{ marginTop: 26, fontSize: 13, color: 'var(--muted)', letterSpacing: '.08em' }}>
-        no specimens match. loosen a filter.
-      </div>
-      <button className="generate" disabled style={{ marginTop: 28 }}>
+      <div className={cx(shared.mono, styles.zeroEyebrow)}>POOL EMPTY</div>
+      <div className={cx(shared.hero, styles.zeroNum)}>0</div>
+      <div className={cx(shared.mono, styles.zeroNote)}>no specimens match. loosen a filter.</div>
+      <button className={cx(shared.generate, styles.zeroGenerate)} disabled>
         Generate
       </button>
-      <button onClick={app.clearFilters} className="chip" style={{ marginTop: 20 }}>
+      <button onClick={app.clearFilters} className={cx(shared.chip, styles.zeroClear)}>
         Clear filters
       </button>
     </section>
@@ -671,45 +426,16 @@ function ZeroStage({ app }: { app: EmanedApp }) {
 
 function HistoryStrip({ app }: { app: EmanedApp }) {
   return (
-    <footer
-      style={{
-        borderTop: '1px solid var(--line)',
-        display: 'flex',
-        alignItems: 'center',
-        padding: '0 48px',
-        gap: 24,
-        overflow: 'hidden',
-      }}
-    >
-      <span className="mono" style={{ fontSize: 10.5, letterSpacing: '.2em', color: 'var(--muted)' }}>
-        HISTORY
-      </span>
+    <footer className={styles.history}>
+      <span className={cx(shared.mono, styles.historyLabel)}>HISTORY</span>
       {app.history.length === 0 ? (
-        <span
-          className="mono"
-          style={{ fontSize: 10.5, color: 'var(--muted)', letterSpacing: '.08em', fontStyle: 'italic' }}
-        >
-          — the strip fills as you draw.
-        </span>
+        <span className={cx(shared.mono, styles.historyEmpty)}>— the strip fills as you draw.</span>
       ) : (
         app.history.map((h, i) => (
           <button
             key={h.word + i}
             onClick={() => app.setCurrent(h)}
-            className="mono"
-            style={{
-              background: 'none',
-              border: 'none',
-              cursor: 'pointer',
-              fontSize: 11,
-              letterSpacing: '.06em',
-              color: 'var(--muted)',
-              padding: 0,
-              fontFamily: 'inherit',
-              transition: 'color .15s',
-            }}
-            onMouseEnter={(e) => (e.currentTarget.style.color = 'var(--fg)')}
-            onMouseLeave={(e) => (e.currentTarget.style.color = 'var(--muted)')}
+            className={cx(shared.mono, styles.historyItem)}
           >
             {h.word}
           </button>
@@ -722,105 +448,44 @@ function HistoryStrip({ app }: { app: EmanedApp }) {
 function FavoritesDrawer({ app, onClose }: { app: EmanedApp; onClose: () => void }) {
   return (
     <>
-      <div
-        onClick={onClose}
-        className="fade-in"
-        style={{ position: 'fixed', inset: 0, background: 'rgba(0,0,0,.35)', zIndex: 40 }}
-      />
-      <aside
-        className="drawer-enter"
-        style={{
-          position: 'fixed',
-          top: 0,
-          right: 0,
-          bottom: 0,
-          width: 420,
-          maxWidth: '92vw',
-          background: 'var(--bg)',
-          borderLeft: '1px solid var(--line)',
-          padding: '32px 32px',
-          boxShadow: '-30px 0 60px rgba(0,0,0,.2)',
-          zIndex: 41,
-          display: 'flex',
-          flexDirection: 'column',
-          overflow: 'hidden',
-        }}
-      >
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: 24 }}>
+      <div onClick={onClose} className={cx(shared.fadeIn, styles.scrim)} />
+      <aside className={cx(shared.drawerEnter, styles.favsDrawer)}>
+        <div className={styles.drawerHeader}>
           <div>
-            <div className="mono" style={{ fontSize: 10.5, letterSpacing: '.22em', color: 'var(--muted)', marginBottom: 4 }}>
-              FAVORITES
-            </div>
-            <div style={{ fontSize: 34, fontWeight: 700, letterSpacing: '-.03em' }}>
-              {app.favs.length} saved
-            </div>
+            <div className={cx(shared.mono, styles.drawerEyebrow)}>FAVORITES</div>
+            <div className={styles.drawerCount}>{app.favs.length} saved</div>
           </div>
-          <button className="icon-btn" onClick={onClose}>
+          <button className={shared.iconBtn} onClick={onClose}>
             <Icon name="x" size={13} />
           </button>
         </div>
-        <div
-          style={{
-            flex: 1,
-            overflow: 'auto',
-            display: 'flex',
-            flexDirection: 'column',
-            gap: 1,
-            background: 'var(--line)',
-            border: '1px solid var(--line)',
-          }}
-        >
+        <div className={styles.favsList}>
           {app.favs.length === 0 ? (
-            <div style={{ background: 'var(--bg)', padding: '40px 20px', textAlign: 'center' }} className="mono">
-              <div style={{ fontSize: 12, color: 'var(--muted)', letterSpacing: '.08em', lineHeight: 1.6 }}>
+            <div className={cx(shared.mono, styles.favsEmpty)}>
+              <div className={styles.favsEmptyText}>
                 nothing saved yet.
                 <br />
-                press <span style={{ color: 'var(--accent)' }}>F</span> when you land on one you like.
+                press <span className={styles.favsEmptyKey}>F</span> when you land on one you like.
               </div>
             </div>
           ) : (
             app.favs.map((f) => (
-              <div
-                key={f.word}
-                style={{
-                  background: 'var(--bg)',
-                  padding: '18px 16px',
-                  display: 'flex',
-                  alignItems: 'baseline',
-                  justifyContent: 'space-between',
-                  gap: 12,
-                }}
-              >
-                <div style={{ overflow: 'hidden' }}>
-                  <div
-                    style={{
-                      fontSize: 22,
-                      fontWeight: 700,
-                      letterSpacing: '-.03em',
-                      whiteSpace: 'nowrap',
-                      overflow: 'hidden',
-                      textOverflow: 'ellipsis',
-                    }}
-                  >
-                    {f.word.toUpperCase()}
-                  </div>
-                  <div
-                    className="mono"
-                    style={{ fontSize: 10, letterSpacing: '.18em', color: 'var(--muted)', marginTop: 2 }}
-                  >
-                    {f._cat?.toUpperCase()}
-                  </div>
+              <div key={f.word} className={styles.favItem}>
+                <div className={styles.favItemMain}>
+                  <div className={styles.favWord}>{f.word.toUpperCase()}</div>
+                  <div className={cx(shared.mono, styles.favCat)}>{f._cat?.toUpperCase()}</div>
                 </div>
-                <button className="icon-btn on" style={{ flexShrink: 0 }} onClick={() => app.toggleFav(f)}>
+                <button
+                  className={cx(shared.iconBtn, shared.on, styles.favStarBtn)}
+                  onClick={() => app.toggleFav(f)}
+                >
                   <Icon name="star" size={12} />
                 </button>
               </div>
             ))
           )}
         </div>
-        <div className="mono" style={{ fontSize: 10, letterSpacing: '.18em', color: 'var(--muted)', marginTop: 20 }}>
-          ESC TO CLOSE · STORED LOCALLY
-        </div>
+        <div className={cx(shared.mono, styles.drawerFooter)}>ESC TO CLOSE · STORED LOCALLY</div>
       </aside>
     </>
   );
@@ -828,29 +493,11 @@ function FavoritesDrawer({ app, onClose }: { app: EmanedApp; onClose: () => void
 
 function Modal({ children, title, onClose }: { children: ReactNode; title: string; onClose: () => void }) {
   return (
-    <div
-      className="fade-in"
-      onClick={onClose}
-      style={{
-        position: 'fixed',
-        inset: 0,
-        background: 'rgba(0,0,0,.55)',
-        zIndex: 50,
-        display: 'flex',
-        alignItems: 'center',
-        justifyContent: 'center',
-        padding: 24,
-      }}
-    >
-      <div
-        onClick={(e) => e.stopPropagation()}
-        style={{ background: 'var(--bg)', border: '1px solid var(--line)', padding: '32px 36px', maxWidth: 520, width: '100%', position: 'relative' }}
-      >
-        <div style={{ display: 'flex', justifyContent: 'space-between', alignItems: 'baseline', marginBottom: 18 }}>
-          <div className="mono" style={{ fontSize: 10.5, letterSpacing: '.22em', color: 'var(--muted)' }}>
-            {title.toUpperCase()}
-          </div>
-          <button className="icon-btn" onClick={onClose}>
+    <div className={cx(shared.fadeIn, styles.modalScrim)} onClick={onClose}>
+      <div onClick={(e) => e.stopPropagation()} className={styles.modalCard}>
+        <div className={styles.modalHeader}>
+          <div className={cx(shared.mono, styles.modalTitle)}>{title.toUpperCase()}</div>
+          <button className={shared.iconBtn} onClick={onClose}>
             <Icon name="x" size={13} />
           </button>
         </div>
@@ -870,24 +517,11 @@ function ShortcutsContent() {
   ];
   return (
     <div>
-      <div style={{ display: 'grid', gridTemplateColumns: 'auto 1fr', rowGap: 12, columnGap: 16, alignItems: 'baseline' }}>
+      <div className={styles.shortcutsGrid}>
         {keys.map(([k, v]) => (
           <Fragment key={k}>
-            <kbd
-              className="mono"
-              style={{
-                padding: '4px 10px',
-                border: '1px solid var(--line)',
-                borderBottomWidth: 2,
-                fontSize: 11,
-                letterSpacing: '.1em',
-                minWidth: 40,
-                textAlign: 'center',
-              }}
-            >
-              {k}
-            </kbd>
-            <span style={{ fontSize: 15 }}>{v}</span>
+            <kbd className={cx(shared.mono, styles.kbd)}>{k}</kbd>
+            <span className={styles.kbdLabel}>{v}</span>
           </Fragment>
         ))}
       </div>
@@ -897,29 +531,20 @@ function ShortcutsContent() {
 
 function AboutContent() {
   return (
-    <div style={{ fontSize: 15, lineHeight: 1.55, textWrap: 'pretty', color: 'var(--fg)' }}>
-      <p style={{ margin: '0 0 14px' }}>
-        emaned is a static tool for drawing a single evocative word from curated taxonomies. {TOTAL} specimens across five categories, cross-filterable by vibe, era, and length.
+    <div className={styles.about}>
+      <p className={styles.aboutPara}>
+        emaned is a static tool for drawing a single evocative word from curated taxonomies. {TOTAL} specimens across
+        five categories, cross-filterable by vibe, era, and length.
       </p>
-      <p style={{ margin: '0 0 18px', color: 'var(--muted)' }}>
+      <p className={styles.aboutMuted}>
         No accounts. No sync. Favorites and history live on this device only.
       </p>
-      <div
-        className="mono"
-        style={{
-          display: 'flex',
-          gap: 18,
-          fontSize: 10.5,
-          letterSpacing: '.18em',
-          textTransform: 'uppercase',
-          marginBottom: 16,
-        }}
-      >
+      <div className={cx(shared.mono, styles.aboutLinks)}>
         <a
           href="https://github.com/zayez/emaned"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ color: 'var(--fg)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}
+          className={styles.aboutLink}
         >
           GitHub ↗
         </a>
@@ -927,17 +552,12 @@ function AboutContent() {
           href="https://github.com/zayez/emaned/blob/main/LICENSE"
           target="_blank"
           rel="noopener noreferrer"
-          style={{ color: 'var(--fg)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}
+          className={styles.aboutLink}
         >
           MIT License ↗
         </a>
       </div>
-      <p
-        className="mono"
-        style={{ margin: 0, fontSize: 11, letterSpacing: '.18em', color: 'var(--muted)', textTransform: 'uppercase' }}
-      >
-        v1 · mmxxvi
-      </p>
+      <p className={cx(shared.mono, styles.aboutVersion)}>v1 · mmxxvi</p>
     </div>
   );
 }

@@ -1,3 +1,19 @@
+/*
+ * Global styles only.
+ *
+ * Component-level classes have been migrated to CSS Modules — see
+ * `src/shared.module.css` and the per-component `styles` imports.
+ *
+ * What stays here:
+ *   - CSS custom properties (theme tokens) on :root and html[data-theme='dark']
+ *   - Document-level resets on html/body and the universal box-sizing
+ *   - Element-selector defaults (button font/color inheritance)
+ *   - Pseudo-class behavior that needs to apply globally (:focus-visible,
+ *     ::-webkit-scrollbar, -webkit-tap-highlight-color)
+ *
+ * CSS Modules scope class names; they don't (and shouldn't) scope these.
+ */
+
 :root {
   --bg: #f7f5f0;
   --fg: #111;
@@ -5,6 +21,13 @@
   --line: rgba(17, 17, 17, 0.12);
   --panel: #efece5;
   --accent: #ff4d1f;
+  --on-accent: #0b0b0b;
+  --accent-glow: rgba(255, 77, 31, 0.6);
+  --scrim-soft: rgba(0, 0, 0, 0.35);
+  --scrim: rgba(0, 0, 0, 0.45);
+  --scrim-strong: rgba(0, 0, 0, 0.55);
+  --shadow-drawer: -30px 0 60px rgba(0, 0, 0, 0.2);
+  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
 }
 
 html[data-theme='dark'] {
@@ -14,6 +37,7 @@ html[data-theme='dark'] {
   --line: rgba(243, 239, 231, 0.14);
   --panel: #161514;
   --accent: #ff5c2f;
+  --accent-glow: rgba(255, 92, 47, 0.6);
 }
 
 html,
@@ -35,19 +59,6 @@ body {
   box-sizing: border-box;
 }
 
-.mono {
-  font-family: 'JetBrains Mono', ui-monospace, monospace;
-  font-stretch: normal;
-  letter-spacing: 0;
-}
-
-.hero {
-  font-weight: 800;
-  letter-spacing: -0.055em;
-  line-height: 0.82;
-  font-stretch: 125%;
-}
-
 button {
   font-family: inherit;
   color: inherit;
@@ -59,115 +70,6 @@ button {
   border-radius: 3px;
 }
 
-.reveal {
-  animation: reveal 420ms cubic-bezier(0.2, 0.7, 0.2, 1) both;
-}
-@keyframes reveal {
-  0% {
-    opacity: 0;
-    transform: translateY(12px);
-  }
-  100% {
-    opacity: 1;
-    transform: none;
-  }
-}
-@media (prefers-reduced-motion: reduce) {
-  .reveal {
-    animation: none !important;
-  }
-}
-
-.chip {
-  display: inline-flex;
-  align-items: center;
-  gap: 6px;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  padding: 7px 12px;
-  font-size: 11.5px;
-  text-transform: uppercase;
-  letter-spacing: 0.08em;
-  font-weight: 500;
-  cursor: pointer;
-  transition: all 0.15s;
-  background: transparent;
-  color: var(--fg);
-  font-family: 'JetBrains Mono', monospace;
-}
-.chip:hover {
-  border-color: var(--fg);
-}
-.chip.on {
-  background: var(--fg);
-  color: var(--bg);
-  border-color: var(--fg);
-}
-.chip.accent-on {
-  background: var(--accent);
-  color: #0b0b0b;
-  border-color: var(--accent);
-}
-.chip:disabled {
-  opacity: 0.4;
-  cursor: not-allowed;
-}
-
-.icon-btn {
-  width: 36px;
-  height: 36px;
-  display: inline-flex;
-  align-items: center;
-  justify-content: center;
-  border: 1px solid var(--line);
-  background: transparent;
-  color: var(--fg);
-  cursor: pointer;
-  border-radius: 999px;
-  transition: all 0.15s;
-}
-.icon-btn:hover {
-  border-color: var(--fg);
-}
-.icon-btn.on {
-  color: var(--accent);
-  border-color: var(--accent);
-}
-
-.generate {
-  display: inline-flex;
-  align-items: center;
-  gap: 14px;
-  border: none;
-  background: var(--accent);
-  color: #0b0b0b;
-  padding: 18px 28px;
-  border-radius: 999px;
-  font-family: 'JetBrains Mono', monospace;
-  font-size: 13px;
-  font-weight: 500;
-  text-transform: uppercase;
-  letter-spacing: 0.18em;
-  cursor: pointer;
-  transition: transform 0.15s, filter 0.15s, box-shadow 0.15s;
-  box-shadow: 0 10px 30px -12px rgba(255, 77, 31, 0.6);
-}
-.generate:hover {
-  transform: translateY(-1px);
-  filter: brightness(1.05);
-}
-.generate:active {
-  transform: translateY(0);
-}
-.generate[disabled] {
-  opacity: 0.35;
-  cursor: not-allowed;
-  background: transparent;
-  color: var(--fg);
-  border: 1px solid var(--line);
-  box-shadow: none;
-}
-
 button,
 [role='button'] {
   -webkit-tap-highlight-color: transparent;
@@ -176,42 +78,4 @@ button,
 ::-webkit-scrollbar {
   width: 0;
   height: 0;
-}
-
-.sheet-enter {
-  animation: sheetIn 0.3s cubic-bezier(0.2, 0.8, 0.2, 1) both;
-}
-@keyframes sheetIn {
-  from {
-    transform: translateY(100%);
-  }
-  to {
-    transform: translateY(0);
-  }
-}
-.drawer-enter {
-  animation: drawerIn 0.3s cubic-bezier(0.2, 0.8, 0.2, 1) both;
-}
-@keyframes drawerIn {
-  from {
-    transform: translateX(100%);
-  }
-  to {
-    transform: translateX(0);
-  }
-}
-.fade-in {
-  animation: fadeIn 0.25s both;
-}
-@keyframes fadeIn {
-  from {
-    opacity: 0;
-  }
-  to {
-    opacity: 1;
-  }
-}
-
-.pool-block[data-zero='true'] {
-  color: var(--accent);
 }
