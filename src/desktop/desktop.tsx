@@ -522,6 +522,10 @@ function GeneratorStage({ app, copied, onCopy }: GeneratorStageProps) {
             color: 'inherit',
             cursor: 'pointer',
             fontSize: heroSize,
+            // `.hero` sets line-height 0.82 for the home wordmark; at desktop's
+            // 200–400px hero sizes that pulls layout-bottom ~50–70px above the
+            // descender line, overlapping the origin caption below. Override.
+            lineHeight: 1,
             whiteSpace: 'normal',
             textWrap: 'balance',
             letterSpacing: '-.055em',
