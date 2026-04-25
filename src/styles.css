@@ -27,7 +27,7 @@
   --scrim: rgba(0, 0, 0, 0.45);
   --scrim-strong: rgba(0, 0, 0, 0.55);
   --shadow-drawer: -30px 0 60px rgba(0, 0, 0, 0.2);
-  --font-mono: 'JetBrains Mono', ui-monospace, monospace;
+  --font-mono: 'JetBrains Mono Variable', 'JetBrains Mono', ui-monospace, monospace;
 }
 
 html[data-theme='dark'] {
@@ -46,7 +46,7 @@ body {
   padding: 0;
   background: var(--bg);
   color: var(--fg);
-  font-family: 'Archivo', 'Inter', system-ui, sans-serif;
+  font-family: 'Archivo Variable', 'Archivo', 'Inter', system-ui, sans-serif;
   font-stretch: 125%;
   letter-spacing: -0.02em;
   min-height: 100vh;

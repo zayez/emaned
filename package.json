@@ -21,6 +21,8 @@
     "typecheck:scripts": "tsc --noEmit -p scripts/tsconfig.json"
   },
   "dependencies": {
+    "@fontsource-variable/archivo": "^5.2.8",
+    "@fontsource-variable/jetbrains-mono": "^5.2.8",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
