@@ -6,7 +6,7 @@ import styles from './cat-bar.module.css';
 
 export function CatBar({ app }: { app: EmanedApp }) {
   return (
-    <div className={styles.catBar}>
+    <nav aria-label="Categories" className={styles.catBar}>
       {CATS.map((c) => (
         <button
           key={c.id}
@@ -16,6 +16,6 @@ export function CatBar({ app }: { app: EmanedApp }) {
           {c.label}
         </button>
       ))}
-    </div>
+    </nav>
   );
 }

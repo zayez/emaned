@@ -8,7 +8,7 @@ export function FavoritesDrawer({ app, onClose }: { app: EmanedApp; onClose: () 
   return (
     <>
       <div onClick={onClose} className={cx(shared.fadeIn, styles.scrim)} />
-      <aside className={cx(shared.drawerEnter, styles.favsDrawer)}>
+      <aside aria-label="Favorites" className={cx(shared.drawerEnter, styles.favsDrawer)}>
         <div className={styles.drawerHeader}>
           <div>
             <div className={cx(shared.mono, styles.drawerEyebrow)}>FAVORITES</div>

@@ -31,7 +31,7 @@ export function BottomNav({ app, onOpen }: Props) {
     { id: 'about', label: 'About', icon: 'info' },
   ];
   return (
-    <nav className={styles.bottomNav}>
+    <nav aria-label="Primary" className={styles.bottomNav}>
       {items.map((item) => (
         <button key={item.id} onClick={() => onOpen(item.id)} className={styles.navBtn}>
           <Icon name={item.icon} size={20} />

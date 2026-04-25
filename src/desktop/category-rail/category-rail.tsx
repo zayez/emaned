@@ -9,7 +9,7 @@ const TOTAL = getTotal();
 
 export function CategoryRail({ app }: { app: EmanedApp }) {
   return (
-    <aside className={styles.categoryRail}>
+    <aside aria-label="Categories" className={styles.categoryRail}>
       <div className={cx(shared.mono, styles.railLabel)}>CATEGORY</div>
       {CATS.map((c) => {
         const on = app.cat === c.id;

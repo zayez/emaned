@@ -7,7 +7,7 @@ import styles from './filter-rail.module.css';
 export function FilterRail({ app }: { app: EmanedApp }) {
   const activeCount = (app.era ? 1 : 0) + app.vibes.length + (app.maxSyl ? 1 : 0);
   return (
-    <aside className={styles.filterRail}>
+    <aside aria-label="Filters" className={styles.filterRail}>
       <div className={styles.filterHeader}>
         <div className={cx(shared.mono, styles.filterLabel)}>
           FILTERS {activeCount ? <span className={styles.filterCountActive}>· {activeCount}</span> : ''}

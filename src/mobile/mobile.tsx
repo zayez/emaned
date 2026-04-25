@@ -42,19 +42,21 @@ export function Mobile({ app }: { app: EmanedApp }) {
       <TopBar app={app} onOpenFavs={() => setSheet('favs')} />
       <CatBar app={app} />
 
-      {app.page === 'home' && !w ? (
-        <HomeStage app={app} />
-      ) : zero ? (
-        <ZeroStage app={app} />
-      ) : !w ? (
-        <EmptyStage app={app} />
-      ) : (
-        <Generator app={app} w={w} onCopy={doCopy} />
-      )}
+      <main className={styles.main}>
+        {app.page === 'home' && !w ? (
+          <HomeStage app={app} />
+        ) : zero ? (
+          <ZeroStage app={app} />
+        ) : !w ? (
+          <EmptyStage app={app} />
+        ) : (
+          <Generator app={app} w={w} onCopy={doCopy} />
+        )}
+
+        {app.page !== 'home' && <StickyGenerate app={app} copied={copied} onCopy={doCopy} />}
+      </main>
 
       <BottomNav app={app} onOpen={setSheet} />
-
-      {app.page !== 'home' && <StickyGenerate app={app} copied={copied} onCopy={doCopy} />}
 
       {sheet && (
         <Sheet title={sheetTitle(sheet)} onClose={() => setSheet(null)}>
