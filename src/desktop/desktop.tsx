@@ -523,10 +523,12 @@ function GeneratorStage({ app, copied, onCopy }: GeneratorStageProps) {
             color: 'inherit',
             cursor: 'pointer',
             fontSize: heroSize,
-            whiteSpace: 'nowrap',
+            whiteSpace: 'normal',
+            textWrap: 'balance',
             letterSpacing: '-.055em',
             fontStretch: '125%',
             fontWeight: 800,
+            maxWidth: '100%',
           }}
         >
           {displayed}
