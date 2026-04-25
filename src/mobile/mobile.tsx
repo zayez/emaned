@@ -146,8 +146,22 @@ function sheetTitle(s: Exclude<SheetId, null>): string {
 }
 
 function MobileHome({ app }: { app: EmanedApp }) {
+  const stageRef = useRef<HTMLElement>(null);
+  const [avail, setAvail] = useState<number>(() =>
+    typeof window !== 'undefined' ? Math.max(220, window.innerWidth - 44) : 320,
+  );
+  useEffect(() => {
+    const el = stageRef.current;
+    if (!el) return;
+    const ro = new ResizeObserver(() => setAvail(Math.max(220, el.clientWidth - 44)));
+    ro.observe(el);
+    return () => ro.disconnect();
+  }, []);
+  const [heroRef, heroSize] = useAutoFit<HTMLHeadingElement>([avail], avail, 140, 56);
+
   return (
     <section
+      ref={stageRef}
       style={{
         flex: 1,
         display: 'flex',
@@ -157,12 +171,17 @@ function MobileHome({ app }: { app: EmanedApp }) {
         padding: '24px 22px',
         textAlign: 'center',
         gap: 20,
+        overflow: 'hidden',
       }}
     >
       <div className="mono" style={{ fontSize: 10, letterSpacing: '.2em', color: 'var(--muted)' }}>
         — A CODENAME GENERATOR —
       </div>
-      <h1 className="hero" style={{ fontSize: 'clamp(84px,28vw,140px)', margin: 0 }}>
+      <h1
+        ref={heroRef}
+        className="hero"
+        style={{ fontSize: heroSize, margin: 0, maxWidth: '100%' }}
+      >
         emaned<span style={{ color: 'var(--accent)' }}>.</span>
       </h1>
       <p
@@ -171,12 +190,16 @@ function MobileHome({ app }: { app: EmanedApp }) {
           lineHeight: 1.45,
           color: 'var(--muted)',
           textWrap: 'pretty',
-          maxWidth: 320,
+          maxWidth: 360,
           margin: 0,
           letterSpacing: '-.01em',
         }}
       >
-        One word at a time, from <span style={{ color: 'var(--fg)' }}>{TOTAL} specimens</span> across five curated taxonomies. Filter by vibe, era, or length.
+        Draw a single evocative word from{' '}
+        <span style={{ color: 'var(--fg)' }}>{TOTAL} specimens</span> across five taxonomies — Intel processors, mountains, celestial bodies, gemstones, and Greek mythology. Filter by{' '}
+        <em style={{ fontStyle: 'normal', color: 'var(--fg)' }}>vibe</em>,{' '}
+        <em style={{ fontStyle: 'normal', color: 'var(--fg)' }}>era</em>, or{' '}
+        <em style={{ fontStyle: 'normal', color: 'var(--fg)' }}>length</em>. Keep what you like.
       </p>
       <button className="generate" onClick={app.generate} style={{ marginTop: 8, padding: '18px 28px', fontSize: 13 }}>
         Generate <Icon name="arrow" size={14} />
