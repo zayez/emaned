@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useState } from 'react';
+import { useCallback, useEffect, useMemo, useRef, useState } from 'react';
 import { filterPool, totalFor } from '../domain/filter';
 import { formatCase } from '../domain/casing';
 import { pickOne } from '../domain/generate';
@@ -13,6 +13,11 @@ import type {
 
 const HISTORY_MAX = 10;
 const persist = createPersistence();
+
+function readSystemTheme(): 'light' | 'dark' {
+  if (typeof window === 'undefined' || !window.matchMedia) return 'light';
+  return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+}
 
 export type Page = 'home' | 'generator';
 
@@ -46,8 +51,14 @@ export interface EmanedApp {
 }
 
 export function useEmaned(): EmanedApp {
-  const [theme, setTheme] = useState<'light' | 'dark'>(() =>
-    persist.get<'light' | 'dark'>('theme', 'light'),
+  // Initial theme: explicit user choice from localStorage if any, else OS preference.
+  // userChoseTheme tracks whether to persist on change and whether to follow OS updates.
+  const [theme, setThemeState] = useState<'light' | 'dark'>(() => {
+    const stored = persist.get<'light' | 'dark' | null>('theme', null);
+    return stored === 'light' || stored === 'dark' ? stored : readSystemTheme();
+  });
+  const userChoseTheme = useRef<boolean>(
+    persist.get<'light' | 'dark' | null>('theme', null) !== null,
   );
   const [page, setPage] = useState<Page>(() => persist.get<Page>('page', 'home'));
   const [cat, setCat] = useState<CategorySelector>(() =>
@@ -67,8 +78,31 @@ export function useEmaned(): EmanedApp {
 
   useEffect(() => {
     document.documentElement.dataset.theme = theme;
-    persist.set('theme', theme);
+    // Only persist when the user has explicitly chosen — never on the OS-derived
+    // initial value, since persisting it would lock in the OS theme at first visit
+    // and stop the app from following later OS changes.
+    if (userChoseTheme.current) {
+      persist.set('theme', theme);
+    }
   }, [theme]);
+
+  // While the user hasn't chosen a theme, follow live OS preference changes.
+  useEffect(() => {
+    if (typeof window === 'undefined' || !window.matchMedia) return;
+    const mq = window.matchMedia('(prefers-color-scheme: dark)');
+    const handler = (e: MediaQueryListEvent) => {
+      if (!userChoseTheme.current) {
+        setThemeState(e.matches ? 'dark' : 'light');
+      }
+    };
+    mq.addEventListener('change', handler);
+    return () => mq.removeEventListener('change', handler);
+  }, []);
+
+  const setTheme = useCallback((t: 'light' | 'dark') => {
+    userChoseTheme.current = true;
+    setThemeState(t);
+  }, []);
   useEffect(() => {
     persist.set('page', page);
   }, [page]);
