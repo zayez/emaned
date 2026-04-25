@@ -901,9 +901,37 @@ function AboutContent() {
       <p style={{ margin: '0 0 14px' }}>
         emaned is a static tool for drawing a single evocative word from curated taxonomies. {TOTAL} specimens across five categories, cross-filterable by vibe, era, and length.
       </p>
-      <p style={{ margin: '0 0 14px', color: 'var(--muted)' }}>
+      <p style={{ margin: '0 0 18px', color: 'var(--muted)' }}>
         No accounts. No sync. Favorites and history live on this device only.
       </p>
+      <div
+        className="mono"
+        style={{
+          display: 'flex',
+          gap: 18,
+          fontSize: 10.5,
+          letterSpacing: '.18em',
+          textTransform: 'uppercase',
+          marginBottom: 16,
+        }}
+      >
+        <a
+          href="https://github.com/zayez/emaned"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: 'var(--fg)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}
+        >
+          GitHub ↗
+        </a>
+        <a
+          href="https://github.com/zayez/emaned/blob/main/LICENSE"
+          target="_blank"
+          rel="noopener noreferrer"
+          style={{ color: 'var(--fg)', textDecoration: 'none', borderBottom: '1px solid var(--line)', paddingBottom: 2 }}
+        >
+          MIT License ↗
+        </a>
+      </div>
       <p
         className="mono"
         style={{ margin: 0, fontSize: 11, letterSpacing: '.18em', color: 'var(--muted)', textTransform: 'uppercase' }}
